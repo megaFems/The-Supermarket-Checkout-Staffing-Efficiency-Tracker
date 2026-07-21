@@ -36,12 +36,6 @@ The framework consists of five modular execution stages:
 
 ---
 
-## 📊 Executive Summary Dashboard
-
-![Executive Retail Dashboard](retail-labour-opt/outputs/figures/retail_store_final_dashboard.png)
-
----
-
 Exploratory Audit (src/01_eda_audit.py): Scans for null values, audits min/max financial profiles, and isolates negative revenue transactions.
 
 ETL Pipeline (src/02_data_pipeline.py): Standardizes text formatting, imputes missing store IDs, clips discount calculations, and engineers temporal features (hour_block, day_of_week).
@@ -88,6 +82,14 @@ retail-labor-optimization/
 ├── LICENSE
 └── README.md
 ```
+
+---
+
+## 📊 Executive Summary Dashboard
+
+![Executive Retail Dashboard](retail-labour-opt/outputs/figures/retail_store_final_dashboard.png)
+
+
 -----
 
 💡 Key Analytical Insights
