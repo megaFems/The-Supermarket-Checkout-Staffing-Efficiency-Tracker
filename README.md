@@ -12,12 +12,6 @@ An end-to-end data engineering and operations analytics pipeline designed to opt
 
 ---
 
-## 📊 Executive Summary Dashboard
-
-![Executive Retail Dashboard](retail-labour-opt/outputs/figures/retail_store_final_dashboard.png)
-
----
-
 ## 📌 Business Problem
 
 Multi-branch retail operations frequently face two opposing financial challenges:
@@ -39,6 +33,13 @@ The framework consists of five modular execution stages:
 [ Multi-Chart Visual Dashboard ] <── [ Matrix Aggregations ] ↵
 
 ```
+
+---
+
+## 📊 Executive Summary Dashboard
+
+![Executive Retail Dashboard](retail-labour-opt/outputs/figures/retail_store_final_dashboard.png)
+
 ---
 
 Exploratory Audit (src/01_eda_audit.py): Scans for null values, audits min/max financial profiles, and isolates negative revenue transactions.
