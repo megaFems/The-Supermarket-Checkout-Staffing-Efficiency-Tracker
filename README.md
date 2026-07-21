@@ -14,7 +14,7 @@ An end-to-end data engineering and operations analytics pipeline designed to opt
 
 ## 📊 Executive Summary Dashboard
 
-![Executive Retail Dashboard](outputs/figures/retail_store_final_dashboard.png)
+![Executive Retail Dashboard](retail-labour-opt/outputs/figures/retail_store_final_dashboard.png)
 
 ---
 
