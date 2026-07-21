@@ -1,0 +1,2001 @@
+customer_id,store_name,transaction_date,transaction_time,Customer Type,payment_method,aisle,product_name,quantity,unit_price,total_amount,discount_amount,final_amount,loyalty_points
+4534,City Fresh Store,2025-03-07,14:27,Normal,Cash,Meat,Milk,1.0,6.15,6.15,4.74,1.41,58
+4296,SuperSave Central,2025-01-30,20:06,Normal,Credit Card,Meat,Chicken,2.0,10.47,20.94,0.0,20.94,97
+2940,SuperSave Central,2025-02-22,18:34,Member,Credit Card,Dairy,Cheese,1.0,13.64,13.64,0.17,13.47,343
+6014,GreenGrocer Plaza,2025-02-03,17:54,Normal,Credit Card,Dairy,Chicken,2.0,11.31,22.62,2.02,20.6,270
+2882,SuperSave Central,2025-01-22,11:27,Normal,Credit Card,Beverages,Cheese,3.0,11.1,33.3,4.83,28.47,188
+5908,Corner Grocery,2025-03-08,11:13,Member,Digital Wallet,Beverages,Milk,1.0,6.66,6.66,3.65,3.01,78
+3987,GreenGrocer Plaza,2025-01-06,09:55,Normal,Cash,Bakery,Chicken,3.0,13.8,41.4,0.0,41.4,376
+6585,City Fresh Store,2025-03-20,19:09,Member,Digital Wallet,Produce,Milk,1.0,5.24,5.24,0.0,5.24,425
+4159,GreenGrocer Plaza,2025-01-27,17:15,Normal,Credit Card,Produce,Cheese,2.0,4.27,8.54,3.0,5.54,442
+5530,GreenGrocer Plaza,2025-01-10,18:15,Normal,Digital Wallet,Beverages,Milk,5.0,6.42,32.1,0.0,32.1,490
+1681,ValuePlus Market,2025-03-14,08:53,Normal,Digital Wallet,Dairy,Bread,5.0,10.28,51.4,0.89,50.51,69
+6254,ValuePlus Market,2025-02-17,20:30,Member,Cash,Bakery,Onions,4.0,13.13,52.52,2.76,49.76,311
+2073,GreenGrocer Plaza,2025-03-11,18:41,Member,Digital Wallet,Produce,Chicken,4.0,3.28,13.12,0.0,13.12,461
+3387,SuperSave Central,2025-02-28,12:24,Normal,Cash,Beverages,Bread,3.0,12.49,37.47,0.0,37.47,258
+3693,ValuePlus Market,2025-02-28,12:12,Normal,CREDIT CARD,Dairy,Milk,1.0,12.47,12.47,0.0,12.47,487
+5340,City Fresh Store,2025-01-02,12:05,Normal,Digital Wallet,Dairy,Milk,4.0,9.42,37.68,0.0,37.68,178
+3156,Corner Grocery,2025-01-29,13:43,Normal,Credit Card,Dairy,Onions,2.0,11.77,23.54,1.55,21.99,474
+8966,ValuePlus Market,2025-03-09,16:08,Member,Cash,Meat,Milk,5.0,3.96,19.8,0.81,18.99,460
+3580,GreenGrocer Plaza,2025-03-06,15:44,Member,Credit Card,Dairy,Onions,1.0,3.79,3.79,0.0,3.79,278
+8257,SuperSave Central,2025-03-24,13:35,Member,Credit Card,Beverages,Chicken,5.0,13.15,65.75,0.0,65.75,373
+3159,Corner Grocery,2025-01-26,17:55,Member,Cash,Bakery,Cheese,1.0,8.23,8.23,3.35,4.88,121
+7772,ValuePlus Market,2025-03-30,11:42,Normal,Credit Card,Beverages,Onions,4.0,4.82,19.28,0.0,19.28,109
+2627,SuperSave Central,2025-01-10,13:19,Member,Credit Card,Dairy,Onions,4.0,10.8,43.2,0.0,43.2,411
+9219,SuperSave Central,2025-02-22,14:17,Member,CREDIT CARD,Bakery,Bread,3.0,13.54,40.62,0.0,40.62,224
+8080,SuperSave Central,2025-03-20,16:57,Normal,Digital Wallet,Produce,Milk,1.0,10.04,10.04,1.77,8.27,492
+2985,GreenGrocer Plaza,2025-02-28,18:42,Member,CREDIT CARD,Produce,Chicken,2.0,6.19,12.38,0.0,12.38,122
+9488,City Fresh Store,2025-01-22,12:56,Normal,Cash,Beverages,Cheese,4.0,8.02,32.08,0.0,32.08,106
+3181,SuperSave Central,2025-02-20,16:20,Member,Digital Wallet,Bakery,Pasta,3.0,11.66,34.98,0.88,34.1,316
+3296,Corner Grocery,2025-02-17,17:03,Member,Digital Wallet,Beverages,Onions,4.0,2.41,9.64,0.0,9.64,127
+8164,ValuePlus Market,2025-01-21,09:49,Member,Cash,Bakery,Pasta,5.0,4.43,22.15,0.5,21.65,45
+3597,Corner Grocery,2025-01-22,17:32,Member,Credit Card,Bakery,Milk,4.0,7.74,30.96,0.0,30.96,346
+1901,GreenGrocer Plaza,2025-01-30,11:26,Normal,Digital Wallet,Beverages,Onions,1.0,9.66,9.66,0.0,9.66,368
+7060,GreenGrocer Plaza,2025-01-25,09:06,Normal,Digital Wallet,Bakery,Pasta,3.0,6.08,18.24,0.0,18.24,299
+2677,Corner Grocery,2025-01-28,20:05,Member,Digital Wallet,Dairy,Bread,1.0,5.53,5.53,0.0,5.53,405
+3881,City Fresh Store,2025-03-06,20:14,Member,Credit Card,Bakery,Pasta,2.0,2.06,4.12,0.0,4.12,398
+6622,GreenGrocer Plaza,2025-02-14,18:17,Member,Digital Wallet,Bakery,Bread,2.0,1.94,3.88,0.0,3.88,313
+9052,GreenGrocer Plaza,2025-03-09,13:31,Member,Cash,Beverages,Cheese,4.0,5.26,21.04,0.0,21.04,369
+2378,Corner Grocery,2025-01-07,10:55,Member,Credit Card,Produce,Milk,3.0,8.66,25.98,0.0,25.98,356
+2248,GreenGrocer Plaza,2025-02-18,18:10,Normal,Cash,Meat,Chicken,3.0,9.01,27.03,2.16,24.87,133
+6650,City Fresh Store,2025-01-09,16:19,Normal,Cash,Bakery,Pasta,3.0,8.17,24.51,3.81,20.7,49
+7079,City Fresh Store,2025-02-05,11:23,Member,Digital Wallet,Meat,Onions,3.0,7.03,21.09,4.11,16.98,150
+8036,City Fresh Store,2025-03-24,16:14,Normal,Digital Wallet,Bakery,Milk,4.0,4.91,19.64,0.0,19.64,35
+7487,ValuePlus Market,2025-01-01,09:47,Normal,Digital Wallet,Beverages,Pasta,1.0,6.91,6.91,2.46,4.45,151
+2058,City Fresh Store,2025-01-10,19:06,Member,Cash,Beverages,Onions,4.0,3.37,13.48,0.0,13.48,361
+3048,City Fresh Store,2025-02-05,12:20,Normal,Credit Card,Bakery,Onions,1.0,3.06,3.06,0.0,3.06,404
+7115,ValuePlus Market,2025-03-14,17:41,Normal,Digital Wallet,Beverages,Chicken,5.0,5.55,27.75,0.0,27.75,431
+5248,SuperSave Central,2025-02-15,13:25,Member,Digital Wallet,Beverages,Chicken,5.0,14.94,74.7,0.58,74.12,345
+3476,GreenGrocer Plaza,2025-02-01,16:43,Normal,Cash,Bakery,Onions,1.0,5.91,5.91,4.74,1.17,66
+5603,City Fresh Store,2025-02-01,17:55,Member,Credit Card,Produce,Chicken,4.0,14.14,56.56,1.07,55.49,159
+4553,GreenGrocer Plaza,2025-01-06,12:13,Member,Cash,Bakery,Onions,2.0,6.8,13.6,0.0,13.6,376
+1220,Corner Grocery,2025-02-17,20:56,Normal,Digital Wallet,Produce,Pasta,4.0,7.43,29.72,1.23,28.49,409
+5818,GreenGrocer Plaza,2025-02-07,18:36,Member,Cash,Beverages,Cheese,2.0,12.26,24.52,0.0,24.52,214
+8192,ValuePlus Market,2025-01-17,19:57,Member,Digital Wallet,Produce,Chicken,4.0,2.76,11.04,0.0,11.04,85
+5623,GreenGrocer Plaza,2025-03-15,19:20,Member,Credit Card,Beverages,Bread,3.0,3.96,11.88,0.0,11.88,475
+8349,GreenGrocer Plaza,2025-01-27,17:17,Normal,Cash,Produce,Bread,3.0,14.65,43.95,0.0,43.95,294
+6618,GreenGrocer Plaza,2025-02-23,19:04,Normal,Digital Wallet,Produce,Bread,5.0,8.33,41.65,0.0,41.65,219
+8209,SuperSave Central,2025-02-19,10:02,Normal,Digital Wallet,Bakery,Cheese,5.0,2.1,10.5,2.72,7.78,395
+5576,SuperSave Central,2025-02-04,12:22,Normal,Digital Wallet,Produce,Onions,1.0,2.14,2.14,0.0,2.14,447
+2871,Corner Grocery,2025-03-26,09:25,Member,Digital Wallet,Beverages,Onions,2.0,13.75,27.5,0.0,27.5,267
+8915,ValuePlus Market,2025-01-25,13:36,Member,Cash,Bakery,Milk,3.0,13.29,39.87,0.0,39.87,268
+2462,GreenGrocer Plaza,2025-01-28,15:23,Normal,Digital Wallet,Produce,Bread,4.0,7.69,30.76,0.43,30.33,486
+6521,GreenGrocer Plaza,2025-01-15,13:48,Normal,Cash,Bakery,Bread,1.0,3.7,3.7,0.0,3.7,193
+9536,GreenGrocer Plaza,2025-01-04,18:18,Member,Digital Wallet,Meat,Onions,4.0,12.71,50.84,0.0,50.84,337
+9236,GreenGrocer Plaza,2025-03-14,14:50,Member,CASH,Bakery,Bread,3.0,5.88,17.64,0.0,17.64,20
+8813,SuperSave Central,2025-01-27,13:24,Normal,Cash,Meat,Onions,3.0,7.16,21.48,3.71,17.77,469
+3068,Corner Grocery,2025-01-26,17:20,Normal,Digital Wallet,Meat,Onions,3.0,10.71,32.13,0.0,32.13,169
+6753,City Fresh Store,2025-01-19,11:11,Normal,Digital Wallet,Bakery,Chicken,3.0,6.27,18.81,0.0,18.81,269
+8237,ValuePlus Market,2025-01-17,18:56,Member,Digital Wallet,Beverages,Onions,4.0,9.99,39.96,0.0,39.96,402
+8016,GreenGrocer Plaza,2025-02-12,10:40,Normal,Digital Wallet,Beverages,Pasta,1.0,13.45,13.45,0.0,13.45,97
+7191,Corner Grocery,2025-02-10,21:32,Normal,Credit Card,Beverages,Pasta,3.0,12.26,36.78,0.0,36.78,378
+2514,City Fresh Store,2025-02-11,18:49,Normal,Digital Wallet,Dairy,Pasta,5.0,6.65,33.25,4.08,29.17,193
+3598,Corner Grocery,2025-02-19,12:52,Normal,Digital Wallet,Meat,Pasta,1.0,5.39,5.39,2.78,2.61,25
+2001,SuperSave Central,2025-03-25,08:03,Normal,Digital Wallet,Bakery,Cheese,5.0,5.35,26.75,0.02,26.73,474
+2033,City Fresh Store,2025-02-09,18:41,Normal,Cash,Beverages,Milk,4.0,6.21,24.84,2.6,22.24,253
+7899,Corner Grocery,2025-02-08,18:56,Normal,Digital Wallet,Beverages,Milk,3.0,8.16,24.48,0.0,24.48,95
+9465,SuperSave Central,2025-01-23,18:06,Normal,Cash,Bakery,Onions,1.0,7.12,7.12,1.48,5.64,208
+6051,Corner Grocery,2025-02-21,18:21,Normal,Cash,Meat,Bread,3.0,3.3,9.9,3.86,6.04,19
+5476,Corner Grocery,2025-02-16,10:54,Normal,Cash,Bakery,Pasta,3.0,3.71,11.13,4.5,6.63,486
+1478,City Fresh Store,2025-03-04,14:32,Normal,Cash,Dairy,Milk,1.0,6.13,6.13,0.0,6.13,173
+1515,SuperSave Central,2025-03-10,10:16,Normal,Credit Card,Dairy,Milk,3.0,9.09,27.27,0.0,27.27,33
+2191,GreenGrocer Plaza,2025-02-12,19:23,Normal,Digital Wallet,Bakery,Pasta,3.0,9.5,28.5,4.54,23.96,73
+7297,ValuePlus Market,2025-02-17,17:33,Normal,Cash,Meat,Cheese,2.0,8.06,16.12,4.56,11.56,321
+1271,City Fresh Store,2025-02-03,14:27,Normal,Digital Wallet,Beverages,Cheese,2.0,11.47,22.94,0.0,22.94,247
+9334,SuperSave Central,2025-02-09,09:57,Member,Cash,Dairy,Milk,1.0,11.45,11.45,2.28,9.17,471
+8778,Corner Grocery,2025-03-16,13:42,Normal,Credit Card,Dairy,Cheese,1.0,7.27,7.27,0.0,7.27,471
+7008,SuperSave Central,2025-03-02,13:40,Normal,Cash,Meat,Chicken,3.0,3.18,9.54,0.0,9.54,354
+8987,ValuePlus Market,2025-02-19,18:38,Member,Digital Wallet,Dairy,Pasta,5.0,8.66,43.3,0.0,43.3,247
+4332,ValuePlus Market,2025-03-08,17:21,Normal,Digital Wallet,Dairy,Milk,1.0,6.65,6.65,0.0,6.65,31
+1787,GreenGrocer Plaza,2025-03-03,19:48,Member,Credit Card,Meat,Pasta,3.0,3.36,10.08,0.0,10.08,189
+7222,GreenGrocer Plaza,2025-02-27,16:16,Member,Digital Wallet,Bakery,Cheese,5.0,14.75,73.75,3.22,70.53,315
+1622,ValuePlus Market,2025-02-02,10:33,Normal,Digital Wallet,Beverages,Pasta,2.0,6.49,12.98,0.0,12.98,56
+4841,City Fresh Store,2025-03-16,18:05,Member,CASH,Beverages,Cheese,1.0,9.95,9.95,1.19,8.76,288
+4676,City Fresh Store,2025-01-16,18:45,Member,Digital Wallet,Dairy,Cheese,3.0,8.12,24.36,2.31,22.05,233
+3572,Corner Grocery,2025-03-23,17:05,Member,Cash,Beverages,Pasta,2.0,3.43,6.86,0.0,6.86,227
+7915,GreenGrocer Plaza,2025-02-17,18:33,Member,Credit Card,Bakery,Cheese,4.0,2.25,9.0,0.0,9.0,484
+6033,Corner Grocery,2025-01-10,16:00,Normal,Digital Wallet,Dairy,Chicken,2.0,9.95,19.9,2.42,17.48,246
+8788,GreenGrocer Plaza,2025-03-23,16:09,Normal,Cash,Beverages,Onions,3.0,4.83,14.49,0.0,14.49,213
+6214,ValuePlus Market,2025-02-07,15:20,Normal,Digital Wallet,Produce,Pasta,5.0,4.79,23.95,0.67,23.28,348
+5712,City Fresh Store,2025-01-19,08:04,Member,Cash,Produce,Onions,4.0,14.42,57.68,0.0,57.68,28
+1066,City Fresh Store,2025-02-05,10:01,Member,Credit Card,Produce,Pasta,4.0,7.73,30.92,0.0,30.92,189
+8533,ValuePlus Market,2025-02-28,09:21,Member,Cash,Produce,Cheese,4.0,1.9,7.6,0.0,7.6,171
+5616,Corner Grocery,2025-03-04,17:47,Normal,Digital Wallet,Produce,Cheese,1.0,6.09,6.09,0.0,6.09,489
+2140,Corner Grocery,2025-03-18,13:56,Normal,Cash,Dairy,Milk,3.0,9.39,28.17,0.0,28.17,294
+6730,SuperSave Central,2025-02-15,16:01,Normal,Digital Wallet,Meat,Chicken,4.0,5.94,23.76,3.51,20.25,70
+8465,GreenGrocer Plaza,2025-01-03,19:09,Normal,Credit Card,Meat,Milk,2.0,1.86,3.72,0.0,3.72,94
+5471,Corner Grocery,2025-03-15,12:33,Normal,Cash,Dairy,Onions,5.0,7.5,37.5,1.57,35.93,44
+4339,ValuePlus Market,2025-03-06,15:15,Normal,Digital Wallet,Dairy,Cheese,3.0,2.93,8.79,1.14,7.65,499
+1548,Corner Grocery,2025-01-08,18:47,Normal,Digital Wallet,Bakery,Milk,2.0,9.86,19.72,2.03,17.69,14
+8675,City Fresh Store,2025-02-20,12:50,Member,Digital Wallet,Meat,Cheese,1.0,9.86,9.86,0.0,9.86,85
+9264,GreenGrocer Plaza,2025-03-22,10:38,Member,Cash,Produce,Pasta,4.0,2.01,8.04,4.59,3.45,262
+1198,SuperSave Central,2025-03-14,13:21,Normal,Cash,Dairy,Milk,2.0,5.42,10.84,0.0,10.84,16
+1571,GreenGrocer Plaza,2025-01-06,11:11,Normal,Cash,Produce,Onions,3.0,7.08,21.24,0.0,21.24,178
+1790,City Fresh Store,2025-03-30,19:23,Normal,Credit Card,Meat,Milk,2.0,8.93,17.86,3.81,14.05,139
+2174,City Fresh Store,2025-02-08,18:46,Normal,Digital Wallet,Beverages,Cheese,1.0,5.5,5.5,0.0,5.5,482
+1178,City Fresh Store,2025-03-01,17:39,Member,Digital Wallet,Beverages,Bread,5.0,5.38,26.9,3.3,23.6,147
+3244,City Fresh Store,2025-01-28,19:37,Normal,Credit Card,Dairy,Bread,4.0,14.77,59.08,1.35,57.73,367
+5086,ValuePlus Market,2025-02-23,18:59,Normal,Credit Card,Bakery,Chicken,3.0,2.07,6.21,0.0,6.21,309
+1734,SuperSave Central,2025-02-06,12:58,Member,Cash,Produce,Cheese,4.0,14.85,59.4,0.0,59.4,335
+7232,City Fresh Store,2025-01-09,19:09,Normal,Cash,Dairy,Pasta,4.0,2.14,8.56,4.58,3.98,100
+1798,City Fresh Store,2025-03-23,17:34,Member,Cash,Bakery,Milk,4.0,5.39,21.56,0.0,21.56,172
+8601,Corner Grocery,2025-02-25,18:50,Member,Cash,Produce,Bread,2.0,8.16,16.32,3.35,12.97,327
+9979,SuperSave Central,2025-02-28,19:48,Normal,Cash,Meat,Pasta,2.0,3.43,6.86,0.0,6.86,467
+3795,GreenGrocer Plaza,2025-03-26,13:31,Normal,Cash,Beverages,Cheese,5.0,3.32,16.6,0.0,16.6,262
+5588,SuperSave Central,2025-01-02,10:06,Member,Credit Card,Bakery,Pasta,1.0,4.96,4.96,0.0,4.96,210
+8297,SuperSave Central,2025-03-02,12:20,Member,Credit Card,Produce,Cheese,3.0,14.64,43.92,0.0,43.92,29
+4084,SuperSave Central,2025-02-27,15:19,Normal,Credit Card,Dairy,Chicken,2.0,6.63,13.26,0.0,13.26,238
+1731,City Fresh Store,2025-03-01,18:25,Member,Digital Wallet,Produce,Milk,4.0,9.14,36.56,0.0,36.56,172
+2129,City Fresh Store,2025-02-09,19:03,Normal,Digital Wallet,Dairy,Pasta,1.0,11.01,11.01,0.0,11.01,174
+2605,ValuePlus Market,2025-02-05,08:45,Normal,Cash,Beverages,Milk,3.0,11.52,34.56,1.11,33.45,241
+3933,GreenGrocer Plaza,2025-02-06,16:51,Member,Credit Card,Beverages,Pasta,3.0,10.79,32.37,4.83,27.54,337
+9516,Corner Grocery,2025-03-20,15:21,Normal,Digital Wallet,Produce,Cheese,3.0,6.05,18.15,0.0,18.15,247
+6074,SuperSave Central,2025-01-18,12:14,Normal,Digital Wallet,Produce,Cheese,3.0,3.01,9.03,2.4,6.63,129
+8099,GreenGrocer Plaza,2025-03-04,10:55,Normal,Credit Card,Dairy,Pasta,5.0,5.3,26.5,0.43,26.07,447
+2490,GreenGrocer Plaza,2025-01-22,14:39,Member,Digital Wallet,Dairy,Chicken,3.0,4.34,13.02,0.0,13.02,360
+1893,ValuePlus Market,2025-01-11,20:20,Member,Digital Wallet,Bakery,Cheese,1.0,3.34,3.34,0.0,3.34,392
+2390,,2025-02-27,13:14,Normal,Credit Card,Bakery,Onions,2.0,1.83,3.66,0.0,3.66,378
+4389,SuperSave Central,2025-02-26,16:21,Normal,Digital Wallet,Bakery,Onions,1.0,14.13,14.13,0.0,14.13,116
+5239,Corner Grocery,2025-03-18,18:51,Member,Credit Card,Produce,Milk,4.0,13.93,55.72,0.0,55.72,259
+5479,ValuePlus Market,2025-01-04,14:27,Member,Digital Wallet,Bakery,Onions,5.0,2.18,10.9,0.0,10.9,345
+3263,,2025-03-27,20:13,Member,Credit Card,Produce,Onions,5.0,3.84,19.2,0.0,19.2,293
+4432,GreenGrocer Plaza,2025-01-07,20:26,Normal,Digital Wallet,Beverages,Chicken,4.0,3.38,13.52,4.24,9.28,207
+3371,SuperSave Central,2025-03-02,12:40,Member,Digital Wallet,Meat,Chicken,1.0,5.3,5.3,0.0,5.3,425
+5312,City Fresh Store,2025-02-23,16:39,Normal,Credit Card,Beverages,Bread,1.0,4.25,4.25,2.76,1.49,229
+2515,ValuePlus Market,2025-03-29,13:57,Member,Digital Wallet,Produce,Bread,4.0,14.27,57.08,3.88,53.2,404
+7326,Corner Grocery,2025-03-09,13:27,Normal,Credit Card,Produce,Chicken,3.0,2.64,7.92,0.0,7.92,435
+8088,,2025-03-20,09:25,Normal,Credit Card,Meat,Bread,3.0,4.36,13.08,4.29,8.79,160
+6586,SuperSave Central,2025-01-01,17:48,Normal,Digital Wallet,Dairy,Chicken,2.0,2.59,5.18,0.0,5.18,295
+3917,City Fresh Store,2025-02-24,16:01,Member,Cash,Dairy,Bread,1.0,14.74,14.74,4.32,10.42,274
+6731,,2025-01-03,09:24,Normal,Digital Wallet,Dairy,Cheese,1.0,13.9,13.9,0.0,13.9,229
+8686,GreenGrocer Plaza,2025-03-19,13:55,Member,Cash,Bakery,Chicken,4.0,11.17,44.68,0.0,44.68,225
+2167,Corner Grocery,2025-02-07,19:02,Member,Cash,Dairy,Milk,4.0,7.25,29.0,0.37,28.63,324
+9302,ValuePlus Market,2025-01-01,12:07,Normal,Digital Wallet,Bakery,Milk,3.0,4.07,12.21,4.43,7.78,165
+6109,Corner Grocery,2025-02-07,11:43,Normal,Cash,Bakery,Chicken,1.0,4.49,4.49,0.0,4.49,225
+5327,Corner Grocery,2025-03-26,16:32,Member,Credit Card,Dairy,Onions,1.0,7.48,7.48,3.15,4.33,344
+6810,Corner Grocery,2025-01-29,21:41,Member,Credit Card,Dairy,Milk,5.0,11.87,59.35,3.22,56.13,368
+4655,GreenGrocer Plaza,2025-01-05,12:51,Normal,CASH,Meat,Onions,2.0,5.07,10.14,0.0,10.14,123
+4793,GreenGrocer Plaza,2025-03-15,17:34,Normal,Credit Card,Meat,Milk,2.0,5.7,11.4,0.0,11.4,170
+7738,ValuePlus Market,2025-01-21,18:05,Member,Digital Wallet,Bakery,Pasta,3.0,9.6,28.8,0.0,28.8,312
+2577,Corner Grocery,2025-03-12,12:38,Normal,Credit Card,Meat,Pasta,1.0,4.71,4.71,0.0,4.71,107
+3220,GreenGrocer Plaza,2025-03-08,18:51,Member,Cash,Bakery,Chicken,5.0,9.39,46.95,2.4,44.55,415
+2030,ValuePlus Market,2025-02-16,14:22,Normal,Digital Wallet,Produce,Milk,1.0,6.73,6.73,1.23,5.5,166
+7691,ValuePlus Market,2025-03-25,17:24,Normal,Credit Card,Bakery,Cheese,4.0,1.96,7.84,0.82,7.02,171
+4992,Corner Grocery,2025-03-24,17:58,Member,Digital Wallet,Bakery,Onions,3.0,6.94,20.82,3.69,17.13,51
+1913,SuperSave Central,2025-02-04,17:49,Normal,Cash,Meat,Milk,2.0,13.91,27.82,0.0,27.82,189
+7358,Corner Grocery,2025-03-09,10:42,Normal,Credit Card,Produce,Chicken,1.0,5.46,5.46,0.0,5.46,312
+3181,SuperSave Central,2025-03-10,18:18,Normal,Digital Wallet,Beverages,Onions,3.0,5.86,17.58,0.97,16.61,339
+4197,ValuePlus Market,2025-01-01,13:04,Normal,Digital Wallet,Beverages,Bread,2.0,2.39,4.78,4.93,-0.15,60
+7040,GreenGrocer Plaza,2025-03-09,12:50,Normal,Credit Card,Beverages,Chicken,1.0,9.8,9.8,0.0,9.8,261
+2462,City Fresh Store,2025-01-12,09:10,Member,Digital Wallet,Produce,Milk,5.0,12.96,64.8,0.0,64.8,438
+8037,ValuePlus Market,2025-03-01,17:55,Member,Digital Wallet,Dairy,Cheese,3.0,6.26,18.78,2.58,16.2,359
+5994,GreenGrocer Plaza,2025-01-27,17:11,Member,Cash,Produce,Bread,1.0,4.74,4.74,0.0,4.74,129
+6308,ValuePlus Market,2025-02-25,08:09,Normal,Cash,Meat,Chicken,2.0,14.41,28.82,0.0,28.82,84
+7221,Corner Grocery,2025-01-23,16:07,Normal,Cash,Bakery,Milk,2.0,11.56,23.12,4.72,18.4,171
+8090,SuperSave Central,2025-01-25,12:23,Normal,Cash,Bakery,Pasta,5.0,9.16,45.8,2.25,43.55,158
+8769,ValuePlus Market,2025-01-21,17:59,Member,Cash,Meat,Milk,3.0,5.62,16.86,3.75,13.11,132
+1687,GreenGrocer Plaza,2025-03-02,11:27,Normal,Cash,Meat,Pasta,3.0,4.48,13.44,3.23,10.21,150
+5661,Corner Grocery,2025-03-04,18:40,Normal,Credit Card,Bakery,Pasta,1.0,11.16,11.16,0.0,11.16,191
+2894,City Fresh Store,2025-02-21,15:35,Normal,Cash,Dairy,Chicken,2.0,8.54,17.08,0.25,16.83,418
+8389,Corner Grocery,2025-03-29,19:36,Member,DIGITAL WALLET,Dairy,Milk,2.0,8.53,17.06,0.0,17.06,387
+5922,SuperSave Central,2025-01-25,11:20,Member,Credit Card,Dairy,Milk,5.0,2.5,12.5,1.82,10.68,286
+7322,Corner Grocery,2025-02-24,14:07,Normal,Digital Wallet,Meat,Pasta,5.0,8.41,42.05,0.0,42.05,266
+4183,City Fresh Store,2025-02-15,10:54,Normal,Cash,Bakery,Onions,3.0,12.61,37.83,4.74,33.09,451
+4797,GreenGrocer Plaza,2025-02-01,19:08,Member,Cash,Bakery,Bread,2.0,14.28,28.56,3.87,24.69,334
+6178,ValuePlus Market,2025-02-24,19:46,Normal,Digital Wallet,Bakery,Cheese,1.0,2.94,2.94,0.0,2.94,254
+4968,SuperSave Central,2025-01-05,12:14,Member,Digital Wallet,Produce,Milk,4.0,10.02,40.08,1.28,38.8,95
+3716,City Fresh Store,2025-02-05,17:47,Normal,Digital Wallet,Produce,Bread,1.0,9.17,9.17,0.0,9.17,80
+1190,SuperSave Central,2025-02-18,18:45,Normal,Credit Card,Beverages,Bread,5.0,13.52,67.6,0.0,67.6,278
+2335,Corner Grocery,2025-02-27,17:39,Member,Cash,Produce,Onions,1.0,11.64,11.64,0.0,11.64,189
+9181,SuperSave Central,2025-02-08,16:17,Normal,Digital Wallet,Dairy,Bread,2.0,14.53,29.06,4.73,24.33,288
+1378,City Fresh Store,2025-03-21,12:41,Member,Cash,Dairy,Milk,3.0,14.46,43.38,4.86,38.52,158
+4829,ValuePlus Market,2025-03-26,10:59,Member,Digital Wallet,Dairy,Chicken,4.0,4.55,18.2,0.0,18.2,15
+7380,ValuePlus Market,2025-03-02,19:19,Normal,Cash,Dairy,Chicken,3.0,11.29,33.87,0.0,33.87,157
+1615,SuperSave Central,2025-01-09,19:05,Member,Credit Card,Beverages,Bread,4.0,8.66,34.64,3.71,30.93,341
+3330,GreenGrocer Plaza,2025-01-06,17:11,Member,Cash,Dairy,Milk,4.0,4.4,17.6,0.0,17.6,177
+2754,SuperSave Central,2025-02-04,14:01,Member,Digital Wallet,Meat,Milk,2.0,4.13,8.26,3.53,4.73,18
+1463,Corner Grocery,2025-02-08,14:06,Member,Cash,Meat,Pasta,2.0,2.59,5.18,4.9,0.28,187
+5267,ValuePlus Market,2025-01-22,18:15,Member,Credit Card,Meat,Onions,5.0,12.24,61.2,0.2,61.0,293
+4158,ValuePlus Market,2025-02-10,19:02,Member,Credit Card,Produce,Cheese,5.0,5.88,29.4,0.0,29.4,404
+4624,ValuePlus Market,2025-01-05,19:44,Normal,Cash,Bakery,Pasta,4.0,13.07,52.28,0.0,52.28,125
+5938,GreenGrocer Plaza,2025-02-11,18:02,Member,Digital Wallet,Beverages,Cheese,5.0,9.71,48.55,1.27,47.28,105
+6417,GreenGrocer Plaza,2025-03-28,17:26,Normal,Credit Card,Meat,Milk,2.0,10.59,21.18,0.0,21.18,340
+7004,City Fresh Store,2025-03-22,10:49,Member,Credit Card,Meat,Chicken,5.0,5.44,27.2,0.0,27.2,353
+9881,SuperSave Central,2025-03-17,11:42,Member,Cash,Dairy,Pasta,4.0,7.67,30.68,0.0,30.68,65
+6603,SuperSave Central,2025-03-28,19:39,Member,Credit Card,Meat,Bread,3.0,7.07,21.21,3.28,17.93,216
+3212,Corner Grocery,2025-03-21,17:37,Normal,Credit Card,Dairy,Bread,1.0,4.68,4.68,2.53,2.15,114
+7120,ValuePlus Market,2025-03-08,08:32,Normal,Digital Wallet,Dairy,Cheese,5.0,12.74,63.7,0.0,63.7,44
+6818,GreenGrocer Plaza,2025-01-30,10:27,Normal,Digital Wallet,Bakery,Milk,2.0,9.9,19.8,4.85,14.95,218
+1382,Corner Grocery,2025-02-26,17:00,Member,Digital Wallet,Produce,Chicken,3.0,2.01,6.03,0.0,6.03,290
+3256,Corner Grocery,2025-03-27,08:54,Normal,Cash,Dairy,Cheese,2.0,12.57,25.14,2.58,22.56,378
+2412,GreenGrocer Plaza,2025-03-14,11:07,Member,Credit Card,Dairy,Chicken,5.0,2.93,14.65,0.0,14.65,364
+7146,SuperSave Central,2025-01-29,17:36,Member,Cash,Bakery,Onions,4.0,6.95,27.8,3.29,24.51,156
+1371,ValuePlus Market,2025-02-06,18:31,Normal,Credit Card,Dairy,Chicken,1.0,9.21,9.21,1.82,7.39,498
+6806,SuperSave Central,2025-03-28,17:59,Member,Credit Card,Beverages,Bread,1.0,1.6,1.6,0.0,1.6,296
+6565,Corner Grocery,2025-01-13,12:47,Normal,Credit Card,Produce,Pasta,3.0,10.31,30.93,3.41,27.52,90
+9802,ValuePlus Market,2025-02-01,18:42,Member,Digital Wallet,Beverages,Pasta,1.0,10.41,10.41,0.0,10.41,59
+9307,City Fresh Store,2025-02-15,12:36,Normal,Cash,Meat,Pasta,4.0,10.31,41.24,4.55,36.69,96
+8437,Corner Grocery,2025-01-23,13:03,Normal,Cash,Produce,Chicken,2.0,3.71,7.42,2.43,4.99,200
+1446,SuperSave Central,2025-02-14,18:29,Normal,Credit Card,Meat,Bread,4.0,4.95,19.8,1.96,17.84,312
+2391,SuperSave Central,2025-01-17,17:05,Member,Cash,Dairy,Chicken,3.0,4.84,14.52,0.0,14.52,10
+2340,SuperSave Central,2025-03-26,18:45,Member,Digital Wallet,Bakery,Milk,3.0,14.46,43.38,2.19,41.19,390
+3939,GreenGrocer Plaza,2025-03-07,17:53,Normal,Cash,Beverages,Bread,1.0,2.41,2.41,0.0,2.41,451
+6969,Corner Grocery,2025-01-06,17:18,Member,Credit Card,Meat,Bread,4.0,7.29,29.16,3.28,25.88,147
+5813,ValuePlus Market,2025-01-18,10:31,Normal,Digital Wallet,Dairy,Chicken,2.0,13.26,26.52,0.83,25.69,145
+4569,SuperSave Central,2025-01-22,14:08,Normal,Digital Wallet,Beverages,Chicken,4.0,11.89,47.56,4.96,42.6,371
+6454,SuperSave Central,2025-02-02,13:11,Member,Credit Card,Beverages,Pasta,2.0,12.6,25.2,2.32,22.88,390
+4150,GreenGrocer Plaza,2025-01-30,12:10,Normal,Cash,Meat,Bread,2.0,14.63,29.26,0.0,29.26,163
+7414,ValuePlus Market,2025-03-22,20:45,Normal,Credit Card,Dairy,Pasta,4.0,6.73,26.92,4.6,22.32,171
+5657,Corner Grocery,2025-02-01,15:54,Member,Cash,Bakery,Milk,5.0,5.68,28.4,0.0,28.4,28
+7947,City Fresh Store,2025-02-11,19:15,Member,Cash,Meat,Onions,4.0,1.91,7.64,0.0,7.64,471
+8943,GreenGrocer Plaza,2025-03-19,17:00,Normal,Digital Wallet,Beverages,Pasta,2.0,3.53,7.06,4.23,2.83,337
+4662,Corner Grocery,2025-01-10,18:44,Member,Credit Card,Beverages,Chicken,3.0,9.09,27.27,0.0,27.27,252
+5482,City Fresh Store,2025-02-05,16:54,Normal,Digital Wallet,Produce,Cheese,3.0,3.63,10.89,0.0,10.89,138
+5797,SuperSave Central,2025-02-03,17:52,Member,Credit Card,Dairy,Onions,1.0,11.44,11.44,0.0,11.44,185
+6068,SuperSave Central,2025-03-14,16:20,Normal,Credit Card,Produce,Milk,3.0,2.0,6.0,0.0,6.0,418
+6480,ValuePlus Market,2025-01-28,12:29,Member,Digital Wallet,Bakery,Chicken,5.0,5.0,25.0,0.0,25.0,289
+9033,City Fresh Store,2025-01-11,18:12,Normal,Credit Card,Meat,Onions,2.0,10.89,21.78,0.0,21.78,440
+1983,SuperSave Central,2025-03-19,13:33,Normal,Credit Card,Beverages,Chicken,4.0,4.95,19.8,1.43,18.37,93
+6607,SuperSave Central,2025-02-08,08:03,Member,Cash,Dairy,Pasta,4.0,11.34,45.36,1.52,43.84,385
+9543,ValuePlus Market,2025-02-16,17:27,Member,Credit Card,Beverages,Chicken,5.0,14.94,74.7,3.34,71.36,231
+2907,Corner Grocery,2025-01-19,11:37,Normal,Credit Card,Produce,Milk,3.0,12.26,36.78,0.0,36.78,334
+7924,SuperSave Central,2025-01-15,20:57,Normal,Digital Wallet,Produce,Cheese,2.0,6.11,12.22,1.65,10.57,460
+9737,GreenGrocer Plaza,2025-01-28,20:30,Member,Digital Wallet,Meat,Pasta,3.0,13.66,40.98,0.0,40.98,425
+5174,GreenGrocer Plaza,2025-01-24,19:58,Member,Credit Card,Dairy,Pasta,1.0,2.19,2.19,0.0,2.19,154
+8265,Corner Grocery,2025-03-13,14:54,Member,Cash,Dairy,Milk,3.0,11.29,33.87,2.16,31.71,454
+2990,City Fresh Store,2025-01-09,08:26,Member,Cash,Meat,Milk,1.0,1.81,1.81,0.0,1.81,115
+6596,ValuePlus Market,2025-02-16,19:04,Normal,Digital Wallet,Produce,Onions,4.0,3.86,15.44,2.52,12.92,334
+4998,GreenGrocer Plaza,2025-02-02,15:24,Normal,Credit Card,Produce,Cheese,2.0,14.83,29.66,1.74,27.92,20
+4775,GreenGrocer Plaza,2025-03-03,20:02,Member,Credit Card,Produce,Chicken,1.0,6.37,6.37,0.0,6.37,175
+5645,Corner Grocery,2025-01-19,20:32,Normal,Cash,Beverages,Onions,3.0,12.58,37.74,0.0,37.74,205
+3061,City Fresh Store,2025-03-08,18:03,Member,Cash,Bakery,Chicken,3.0,6.58,19.74,0.0,19.74,240
+5487,City Fresh Store,2025-03-15,13:24,Normal,Cash,Produce,Chicken,4.0,12.84,51.36,0.0,51.36,156
+5435,Corner Grocery,2025-02-09,15:19,Member,Digital Wallet,Bakery,Chicken,5.0,14.53,72.65,4.98,67.67,368
+3644,GreenGrocer Plaza,2025-02-16,18:33,Member,Credit Card,Bakery,Onions,5.0,7.38,36.9,3.76,33.14,247
+2045,ValuePlus Market,2025-03-06,13:25,Normal,Digital Wallet,Dairy,Pasta,3.0,9.05,27.15,0.0,27.15,480
+8951,GreenGrocer Plaza,2025-01-29,11:04,Member,Credit Card,Meat,Milk,5.0,9.99,49.95,0.0,49.95,410
+7449,City Fresh Store,2025-02-19,17:34,Normal,Digital Wallet,Beverages,Pasta,2.0,14.12,28.24,2.73,25.51,22
+3681,GreenGrocer Plaza,2025-01-13,19:27,Normal,Credit Card,Bakery,Cheese,5.0,4.97,24.85,0.0,24.85,228
+4199,ValuePlus Market,2025-01-01,18:28,Member,Cash,Beverages,Onions,2.0,9.75,19.5,0.0,19.5,266
+7768,SuperSave Central,2025-02-03,17:08,Normal,Cash,Dairy,Cheese,3.0,5.88,17.64,0.0,17.64,11
+8440,GreenGrocer Plaza,2025-02-17,10:51,Member,Cash,Produce,Milk,3.0,4.43,13.29,2.5,10.79,219
+9633,Corner Grocery,2025-03-18,17:37,Normal,Digital Wallet,Bakery,Milk,3.0,2.65,7.95,0.0,7.95,493
+3550,SuperSave Central,2025-02-17,21:49,Member,Cash,Meat,Bread,4.0,9.88,39.52,0.0,39.52,374
+5225,Corner Grocery,2025-02-18,11:05,Member,Credit Card,Dairy,Cheese,5.0,13.41,67.05,3.94,63.11,234
+1596,Corner Grocery,2025-03-05,16:18,Member,Digital Wallet,Beverages,Pasta,1.0,6.24,6.24,4.12,2.12,493
+7054,Corner Grocery,2025-03-02,19:59,Normal,Credit Card,Produce,Cheese,1.0,8.96,8.96,0.0,8.96,203
+2505,GreenGrocer Plaza,2025-01-29,18:43,Normal,Digital Wallet,Beverages,Onions,3.0,10.17,30.51,0.0,30.51,205
+7468,City Fresh Store,2025-02-08,18:56,Member,Credit Card,Meat,Milk,5.0,7.1,35.5,0.0,35.5,409
+8236,SuperSave Central,2025-03-29,18:10,Member,Credit Card,Bakery,Milk,2.0,13.7,27.4,0.0,27.4,269
+2551,ValuePlus Market,2025-01-26,14:01,Member,Digital Wallet,Meat,Cheese,1.0,6.4,6.4,0.0,6.4,66
+7852,City Fresh Store,2025-01-17,13:46,Normal,DIGITAL WALLET,Beverages,Cheese,3.0,3.19,9.57,12.724594089386509,-3.15,466
+2449,GreenGrocer Plaza,2025-03-12,18:43,Normal,Cash,Beverages,Chicken,1.0,3.44,3.44,0.0,3.44,122
+6953,Corner Grocery,2025-01-13,18:43,Member,Cash,Meat,Cheese,1.0,13.53,13.53,0.0,13.53,222
+9456,ValuePlus Market,2025-03-10,19:08,Member,Credit Card,Meat,Chicken,1.0,14.84,14.84,3.63,11.21,288
+9042,SuperSave Central,2025-01-26,19:20,Normal,Credit Card,Meat,Onions,3.0,5.4,16.2,0.0,16.2,253
+3659,City Fresh Store,2025-02-18,16:23,Member,Credit Card,Produce,Onions,3.0,3.44,10.32,0.0,10.32,389
+8509,City Fresh Store,2025-03-08,16:33,Member,Digital Wallet,Beverages,Pasta,4.0,8.01,32.04,0.0,32.04,126
+8893,ValuePlus Market,2025-01-07,18:21,Member,Digital Wallet,Dairy,Cheese,4.0,11.08,44.32,0.0,44.32,395
+8445,GreenGrocer Plaza,2025-02-27,17:02,Member,Cash,Produce,Pasta,4.0,9.77,39.08,2.61,36.47,460
+3721,SuperSave Central,2025-02-18,18:11,Normal,Credit Card,Produce,Bread,1.0,14.34,14.34,0.0,14.34,96
+3925,ValuePlus Market,2025-02-22,18:27,Normal,Cash,Produce,Onions,5.0,12.54,62.7,1.34,61.36,419
+8104,Corner Grocery,2025-03-06,19:29,Member,Digital Wallet,Dairy,Milk,3.0,13.23,39.69,0.0,39.69,390
+7240,SuperSave Central,2025-03-03,14:25,Normal,Digital Wallet,Meat,Chicken,4.0,8.81,35.24,2.77,32.47,376
+1512,City Fresh Store,2025-01-17,14:47,Member,Digital Wallet,Beverages,Bread,5.0,5.92,29.6,0.0,29.6,272
+1215,ValuePlus Market,2025-02-12,10:20,Normal,Cash,Bakery,Milk,4.0,10.97,43.88,0.0,43.88,493
+8299,City Fresh Store,2025-01-25,17:27,Normal,Digital Wallet,Bakery,Bread,4.0,7.43,29.72,0.0,29.72,309
+4153,City Fresh Store,2025-01-03,09:55,Normal,Credit Card,Beverages,Pasta,5.0,5.38,26.9,0.0,26.9,426
+8450,City Fresh Store,2025-03-20,16:25,Member,Cash,Dairy,Pasta,4.0,3.56,14.24,0.0,14.24,122
+2706,GreenGrocer Plaza,2025-01-29,17:32,Member,Digital Wallet,Bakery,Chicken,1.0,8.63,8.63,0.0,8.63,457
+2567,City Fresh Store,2025-02-01,13:20,Normal,Cash,Produce,Onions,1.0,9.52,9.52,12.674594089386508,-3.15,173
+2128,Corner Grocery,2025-01-26,17:34,Normal,Cash,Bakery,Chicken,1.0,9.18,9.18,0.0,9.18,13
+4510,Corner Grocery,2025-01-16,09:51,Member,Digital Wallet,Beverages,Milk,2.0,3.07,6.14,0.0,6.14,127
+8867,SuperSave Central,2025-01-25,09:33,Normal,Digital Wallet,Produce,Bread,4.0,9.19,36.76,0.0,36.76,32
+3365,City Fresh Store,2025-02-23,18:40,Normal,Cash,Bakery,Chicken,2.0,3.77,7.54,1.6,5.94,418
+6583,City Fresh Store,2025-01-28,14:50,Normal,CASH,Beverages,Cheese,3.0,10.46,31.38,0.0,31.38,242
+5897,ValuePlus Market,2025-03-14,11:46,Normal,Digital Wallet,Dairy,Cheese,5.0,7.3,36.5,0.0,36.5,99
+6718,GreenGrocer Plaza,2025-02-25,16:17,Member,Credit Card,Beverages,Onions,3.0,12.96,38.88,0.0,38.88,485
+7001,SuperSave Central,2025-03-06,18:57,Member,Cash,Dairy,Chicken,2.0,12.01,24.02,4.18,19.84,264
+5567,City Fresh Store,2025-03-27,12:10,Member,Cash,Produce,Milk,1.0,11.28,11.28,0.92,10.36,101
+3741,ValuePlus Market,2025-03-21,17:56,Normal,Credit Card,Beverages,Cheese,4.0,10.96,43.84,0.0,43.84,478
+4020,GreenGrocer Plaza,2025-02-10,10:22,Member,Digital Wallet,Meat,Onions,4.0,9.07,36.28,0.0,36.28,467
+7256,SuperSave Central,2025-02-20,09:47,Normal,Digital Wallet,Meat,Chicken,1.0,2.33,2.33,0.0,2.33,164
+1228,SuperSave Central,2025-03-12,17:21,Member,Credit Card,Meat,Onions,4.0,10.35,41.4,0.0,41.4,316
+9362,City Fresh Store,2025-03-19,17:16,Member,Digital Wallet,Meat,Milk,5.0,7.8,39.0,0.0,39.0,124
+1294,SuperSave Central,2025-01-29,17:04,Normal,Digital Wallet,Meat,Cheese,5.0,7.84,39.2,0.0,39.2,216
+5284,ValuePlus Market,2025-03-24,18:43,Member,Cash,Dairy,Cheese,5.0,6.62,33.1,0.0,33.1,90
+9617,SuperSave Central,2025-01-19,20:10,Member,Cash,Beverages,Cheese,3.0,14.04,42.12,0.0,42.12,112
+7801,Corner Grocery,2025-03-07,16:29,Normal,Cash,Produce,Pasta,1.0,4.87,4.87,0.0,4.87,492
+1918,ValuePlus Market,2025-02-10,13:14,Member,Credit Card,Meat,Cheese,5.0,5.77,28.85,0.0,28.85,462
+1498,GreenGrocer Plaza,2025-02-14,18:26,Member,Digital Wallet,Meat,Bread,2.0,14.5,29.0,0.0,29.0,89
+3809,GreenGrocer Plaza,2025-01-15,13:34,Member,Digital Wallet,Produce,Pasta,5.0,12.44,62.2,0.0,62.2,416
+5961,City Fresh Store,2025-01-03,15:32,Normal,Cash,Produce,Chicken,3.0,1.69,5.07,4.75,0.32,112
+4779,City Fresh Store,2025-01-11,10:19,Normal,Cash,Meat,Pasta,2.0,13.73,27.46,0.24,27.22,249
+3118,Corner Grocery,2025-02-22,08:15,Normal,Credit Card,Dairy,Pasta,1.0,4.56,4.56,0.0,4.56,274
+7391,GreenGrocer Plaza,2025-02-15,20:33,Member,Digital Wallet,Produce,Pasta,1.0,11.03,11.03,0.0,11.03,42
+1145,GreenGrocer Plaza,2025-01-30,18:01,Member,Credit Card,Beverages,Onions,5.0,8.97,44.85,0.0,44.85,44
+8942,GreenGrocer Plaza,2025-02-26,18:34,Normal,Digital Wallet,Beverages,Bread,2.0,8.75,17.5,0.0,17.5,258
+5565,GreenGrocer Plaza,2025-01-18,15:39,Normal,Credit Card,Dairy,Milk,2.0,11.19,22.38,3.58,18.8,497
+1192,SuperSave Central,2025-02-20,11:55,Member,Cash,Bakery,Cheese,5.0,4.3,21.5,0.0,21.5,59
+6187,ValuePlus Market,2025-02-17,11:27,Member,Credit Card,Dairy,Pasta,5.0,3.65,18.25,3.44,14.81,289
+7637,ValuePlus Market,2025-03-07,12:46,Normal,Credit Card,Meat,Milk,4.0,10.3,41.2,0.0,41.2,481
+9243,Corner Grocery,2025-01-08,17:38,Normal,Cash,Bakery,Onions,4.0,5.42,21.68,24.834594089386506,-3.15,251
+3410,SuperSave Central,2025-01-22,18:05,Member,Digital Wallet,Meat,Milk,5.0,14.65,73.25,2.33,70.92,161
+2820,GreenGrocer Plaza,2025-01-06,17:08,Member,DIGITAL WALLET,Beverages,Pasta,3.0,7.6,22.8,4.48,18.32,156
+3964,GreenGrocer Plaza,2025-03-17,13:19,Member,Cash,Produce,Chicken,4.0,3.01,12.04,0.0,12.04,48
+3521,City Fresh Store,2025-02-26,20:59,Member,Credit Card,Meat,Bread,5.0,10.76,53.8,2.02,51.78,198
+3568,City Fresh Store,2025-02-05,18:00,Normal,Credit Card,Beverages,Milk,2.0,5.63,11.26,0.0,11.26,34
+6882,Corner Grocery,2025-03-20,17:07,Normal,Credit Card,Dairy,Pasta,4.0,3.51,14.04,3.76,10.28,253
+2867,GreenGrocer Plaza,2025-02-26,17:54,Normal,Digital Wallet,Meat,Pasta,3.0,7.21,21.63,3.67,17.96,232
+8465,Corner Grocery,2025-02-18,15:22,Member,Credit Card,Beverages,Cheese,1.0,14.52,14.52,0.0,14.52,239
+8602,,2025-02-14,12:02,Member,Digital Wallet,Produce,Chicken,2.0,7.05,14.1,3.44,10.66,162
+4199,ValuePlus Market,2025-03-23,14:03,Member,Credit Card,Meat,Cheese,3.0,6.19,18.57,2.25,16.32,420
+7103,GreenGrocer Plaza,2025-03-07,18:57,Member,Cash,Beverages,Chicken,3.0,7.5,22.5,2.62,19.88,297
+1240,SuperSave Central,2025-03-18,08:24,Normal,Cash,Meat,Bread,3.0,1.66,4.98,0.0,4.98,404
+4440,GreenGrocer Plaza,2025-02-14,10:46,Member,Digital Wallet,Produce,Cheese,2.0,3.3,6.6,3.66,2.94,462
+5631,City Fresh Store,2025-03-20,09:37,Member,Digital Wallet,Meat,Bread,3.0,12.97,38.91,4.16,34.75,117
+9274,Corner Grocery,2025-01-20,09:14,Member,Cash,Meat,Onions,1.0,14.7,14.7,3.23,11.47,42
+6077,City Fresh Store,2025-03-05,18:20,Member,Cash,Beverages,Onions,4.0,3.63,14.52,2.82,11.7,412
+4768,ValuePlus Market,2025-03-08,18:34,Normal,Credit Card,Bakery,Chicken,2.0,8.73,17.46,0.0,17.46,372
+8995,City Fresh Store,2025-03-24,16:56,Normal,Cash,Meat,Chicken,3.0,14.55,43.65,0.0,43.65,120
+9802,GreenGrocer Plaza,2025-01-03,10:52,Member,DIGITAL WALLET,Bakery,Cheese,5.0,3.61,18.05,0.0,18.05,130
+7429,City Fresh Store,2025-02-23,16:52,Normal,Cash,Dairy,Onions,4.0,4.02,16.08,0.0,16.08,25
+4605,GreenGrocer Plaza,2025-03-19,16:45,Member,Digital Wallet,Meat,Milk,2.0,14.01,28.02,2.83,25.19,236
+3173,ValuePlus Market,2025-03-05,11:51,Member,Digital Wallet,Bakery,Milk,5.0,11.03,55.15,0.0,55.15,20
+7568,City Fresh Store,2025-02-09,15:13,Normal,Credit Card,Dairy,Milk,5.0,3.55,17.75,0.0,17.75,212
+3601,Corner Grocery,2025-02-28,15:35,Member,Credit Card,Beverages,Onions,3.0,6.81,20.43,0.0,20.43,211
+3657,Corner Grocery,2025-02-24,17:11,Normal,Credit Card,Meat,Milk,2.0,2.26,4.52,0.0,4.52,107
+7080,Corner Grocery,2025-03-03,17:16,Member,Credit Card,Beverages,Bread,3.0,7.34,22.02,0.0,22.02,125
+8325,City Fresh Store,2025-01-04,09:38,Normal,Cash,Dairy,Pasta,1.0,12.0,12.0,0.0,12.0,462
+3159,City Fresh Store,2025-03-01,14:08,Normal,Credit Card,Beverages,Chicken,5.0,8.98,44.9,0.0,44.9,480
+4830,City Fresh Store,2025-03-16,17:34,Normal,Cash,Beverages,Cheese,1.0,10.24,10.24,0.27,9.97,448
+9313,GreenGrocer Plaza,2025-01-30,16:59,Normal,Credit Card,Produce,Bread,3.0,5.91,17.73,20.884594089386507,-3.15,290
+5368,ValuePlus Market,2025-01-02,18:12,Normal,Credit Card,Dairy,Milk,4.0,3.68,14.72,0.0,14.72,358
+2317,Corner Grocery,2025-03-03,17:14,Member,Digital Wallet,Beverages,Pasta,5.0,1.68,8.4,0.0,8.4,241
+5493,GreenGrocer Plaza,2025-02-18,11:17,Normal,Cash,Bakery,Cheese,4.0,12.59,50.36,0.0,50.36,470
+2230,Corner Grocery,2025-01-09,10:50,Normal,Digital Wallet,Dairy,Bread,2.0,10.09,20.18,0.0,20.18,120
+2133,GreenGrocer Plaza,2025-01-31,17:32,Member,Credit Card,Produce,Cheese,5.0,4.6,23.0,4.06,18.94,361
+8607,City Fresh Store,2025-03-02,08:05,Member,Cash,Meat,Chicken,1.0,7.15,7.15,0.0,7.15,427
+2301,Corner Grocery,2025-03-20,17:58,Normal,Credit Card,Beverages,Onions,4.0,12.32,49.28,0.0,49.28,21
+2910,City Fresh Store,2025-02-17,20:26,Normal,Digital Wallet,Bakery,Milk,2.0,8.77,17.54,0.0,17.54,481
+9082,Corner Grocery,2025-01-25,17:22,Member,Cash,Produce,Bread,5.0,5.55,27.75,4.49,23.26,497
+9107,SuperSave Central,2025-02-05,15:58,Normal,Digital Wallet,Dairy,Bread,2.0,5.11,10.22,0.0,10.22,30
+8970,GreenGrocer Plaza,2025-01-08,17:26,Member,Credit Card,Beverages,Pasta,1.0,4.44,4.44,0.0,4.44,136
+2916,SuperSave Central,2025-03-14,16:33,Member,Credit Card,Produce,Pasta,5.0,12.62,63.1,0.0,63.1,294
+7996,GreenGrocer Plaza,2025-02-27,17:55,Normal,Credit Card,Produce,Pasta,2.0,9.36,18.72,0.0,18.72,444
+3757,ValuePlus Market,2025-02-14,20:45,Member,Cash,Bakery,Cheese,3.0,11.07,33.21,4.25,28.96,130
+7464,Corner Grocery,2025-03-03,15:37,Normal,Digital Wallet,Meat,Milk,5.0,13.11,65.55,0.0,65.55,133
+1178,ValuePlus Market,2025-02-08,20:13,Member,Digital Wallet,Meat,Cheese,5.0,14.82,74.1,1.1,73.0,416
+7362,ValuePlus Market,2025-02-27,19:35,Member,Credit Card,Meat,Milk,5.0,4.87,24.35,0.0,24.35,42
+9683,GreenGrocer Plaza,2025-03-22,12:52,Member,Digital Wallet,Dairy,Bread,5.0,3.94,19.7,0.0,19.7,401
+1060,,2025-03-24,09:07,Normal,Cash,Produce,Cheese,3.0,7.74,23.22,0.0,23.22,179
+7681,City Fresh Store,2025-03-05,10:34,Member,Credit Card,Dairy,Cheese,1.0,1.97,1.97,2.99,-1.02,86
+3895,GreenGrocer Plaza,2025-02-13,08:18,Member,Credit Card,Produce,Cheese,3.0,12.19,36.57,0.0,36.57,462
+1585,City Fresh Store,2025-01-29,10:29,Member,Credit Card,Bakery,Onions,3.0,13.43,40.29,0.0,40.29,306
+6823,ValuePlus Market,2025-02-28,18:13,Member,Cash,Bakery,Chicken,2.0,10.76,21.52,0.0,21.52,339
+1534,City Fresh Store,2025-03-12,10:58,Member,Credit Card,Dairy,Milk,4.0,5.12,20.48,4.75,15.73,72
+4462,SuperSave Central,2025-01-09,13:19,Member,CREDIT CARD,Dairy,Milk,4.0,3.16,12.64,0.16,12.48,279
+5011,GreenGrocer Plaza,2025-01-06,18:48,Normal,Credit Card,Bakery,Cheese,2.0,6.66,13.32,4.88,8.44,225
+4398,SuperSave Central,2025-01-29,08:24,Normal,Credit Card,Beverages,Onions,3.0,12.75,38.25,0.0,38.25,199
+3155,SuperSave Central,2025-02-27,18:39,Normal,Digital Wallet,Meat,Cheese,2.0,6.2,12.4,0.0,12.4,84
+6966,GreenGrocer Plaza,2025-01-17,13:23,Normal,Credit Card,Meat,Milk,5.0,1.96,9.8,0.0,9.8,183
+8329,SuperSave Central,2025-01-16,10:13,Member,Cash,Bakery,Chicken,2.0,5.2,10.4,0.0,10.4,76
+7957,Corner Grocery,2025-03-28,18:25,Member,Credit Card,Meat,Chicken,2.0,14.86,29.72,3.97,25.75,102
+6325,Corner Grocery,2025-01-03,17:37,Normal,Credit Card,Beverages,Bread,5.0,10.64,53.2,1.1,52.1,62
+9518,Corner Grocery,2025-01-21,19:22,Normal,Digital Wallet,Beverages,Onions,4.0,13.66,54.64,3.24,51.4,445
+5703,City Fresh Store,2025-03-05,18:21,Member,Credit Card,Produce,Chicken,5.0,11.96,59.8,0.0,59.8,103
+3706,SuperSave Central,2025-03-31,18:47,Normal,Digital Wallet,Dairy,Onions,1.0,8.79,8.79,4.24,4.55,122
+1001,GreenGrocer Plaza,2025-02-05,13:56,Member,Cash,Meat,Cheese,2.0,3.51,7.02,4.76,2.26,238
+9316,GreenGrocer Plaza,2025-03-27,11:18,Member,Digital Wallet,Beverages,Bread,2.0,6.21,12.42,0.0,12.42,259
+2104,,2025-03-03,18:45,Member,Credit Card,Dairy,Milk,4.0,9.38,37.52,0.0,37.52,400
+2861,GreenGrocer Plaza,2025-02-11,18:50,Normal,Cash,Dairy,Chicken,3.0,13.25,39.75,0.0,39.75,218
+6269,Corner Grocery,2025-03-17,21:02,Normal,Credit Card,Produce,Chicken,5.0,5.13,25.65,0.0,25.65,477
+7943,SuperSave Central,2025-02-11,15:41,Normal,Digital Wallet,Dairy,Pasta,3.0,3.14,9.42,3.13,6.29,191
+9320,GreenGrocer Plaza,2025-03-02,14:18,Member,Cash,Dairy,Milk,1.0,9.04,9.04,0.0,9.04,276
+1437,GreenGrocer Plaza,2025-01-13,18:08,Normal,Cash,Bakery,Chicken,5.0,3.88,19.4,0.0,19.4,290
+5846,ValuePlus Market,2025-01-11,14:27,Member,Digital Wallet,Produce,Chicken,1.0,9.74,9.74,0.0,9.74,452
+4129,ValuePlus Market,2025-02-23,19:19,Normal,Digital Wallet,Produce,Milk,1.0,5.06,5.06,0.0,5.06,481
+9081,ValuePlus Market,2025-01-16,18:44,Member,Cash,Meat,Bread,1.0,4.62,4.62,0.0,4.62,459
+1901,SuperSave Central,2025-01-08,15:06,Member,Cash,Dairy,Onions,5.0,6.89,34.45,4.45,30.0,164
+6398,Corner Grocery,2025-02-28,18:13,Member,Digital Wallet,Meat,Milk,5.0,9.51,47.55,0.0,47.55,92
+7678,Corner Grocery,2025-02-26,18:08,Normal,Credit Card,Beverages,Onions,4.0,8.86,35.44,0.21,35.23,195
+6529,Corner Grocery,2025-02-09,10:58,Normal,Cash,Dairy,Bread,2.0,4.8,9.6,3.25,6.35,358
+7604,SuperSave Central,2025-02-28,19:59,Member,Digital Wallet,Beverages,Bread,3.0,13.53,40.59,0.0,40.59,494
+4918,SuperSave Central,2025-01-02,16:54,Member,Credit Card,Bakery,Cheese,3.0,2.98,8.94,2.77,6.17,148
+2067,ValuePlus Market,2025-03-17,18:56,Normal,Cash,Dairy,Pasta,1.0,2.03,2.03,0.0,2.03,64
+1026,GreenGrocer Plaza,2025-01-10,13:59,Normal,Cash,Meat,Bread,5.0,9.64,48.2,2.62,45.58,28
+7937,City Fresh Store,2025-02-13,19:18,Normal,Digital Wallet,Meat,Bread,5.0,3.17,15.85,3.46,12.39,357
+8264,City Fresh Store,2025-01-11,15:46,Member,Credit Card,Dairy,Onions,1.0,8.32,8.32,0.0,8.32,432
+8118,GreenGrocer Plaza,2025-03-20,08:51,Member,Cash,Meat,Bread,2.0,14.35,28.7,0.0,28.7,478
+1547,ValuePlus Market,2025-03-21,19:13,Normal,Credit Card,Dairy,Milk,3.0,10.93,32.79,1.05,31.74,355
+9758,GreenGrocer Plaza,2025-03-22,10:55,Member,Credit Card,Produce,Cheese,4.0,9.84,39.36,0.0,39.36,479
+9895,GreenGrocer Plaza,2025-03-31,13:37,Member,Cash,Meat,Cheese,2.0,9.26,18.52,0.0,18.52,463
+6338,City Fresh Store,2025-01-02,20:52,Normal,Credit Card,Dairy,Milk,5.0,3.92,19.6,0.96,18.64,276
+4140,ValuePlus Market,2025-02-19,20:35,Normal,Cash,Dairy,Chicken,1.0,7.34,7.34,4.87,2.47,151
+8996,SuperSave Central,2025-01-12,17:39,Member,Credit Card,Meat,Bread,3.0,6.12,18.36,0.0,18.36,325
+2590,City Fresh Store,2025-03-31,17:16,Normal,Cash,Produce,Pasta,1.0,14.37,14.37,0.0,14.37,173
+8776,SuperSave Central,2025-01-23,16:29,Normal,Digital Wallet,Meat,Bread,5.0,4.77,23.85,0.0,23.85,261
+5943,ValuePlus Market,2025-01-18,13:08,Member,Cash,Dairy,Cheese,1.0,7.87,7.87,0.0,7.87,241
+9997,GreenGrocer Plaza,2025-03-03,13:32,Member,Cash,Produce,Pasta,3.0,14.16,42.48,0.0,42.48,306
+8798,Corner Grocery,2025-03-03,17:55,Normal,Cash,Beverages,Chicken,1.0,12.15,12.15,2.22,9.93,395
+4791,Corner Grocery,2025-02-07,18:51,Normal,Credit Card,Bakery,Onions,3.0,14.52,43.56,0.0,43.56,450
+2357,ValuePlus Market,2025-03-08,18:24,Normal,Digital Wallet,Meat,Onions,1.0,9.71,9.71,0.0,9.71,372
+9092,Corner Grocery,2025-02-07,18:13,Normal,Credit Card,Dairy,Bread,1.0,6.01,6.01,1.43,4.58,69
+4225,SuperSave Central,2025-03-08,10:10,Member,Credit Card,Produce,Bread,3.0,12.66,37.98,0.0,37.98,413
+3460,Corner Grocery,2025-03-02,16:52,Normal,Cash,Produce,Pasta,1.0,5.43,5.43,0.0,5.43,31
+9737,ValuePlus Market,2025-01-01,09:34,Member,Credit Card,Beverages,Pasta,2.0,3.72,7.44,0.91,6.53,393
+3728,ValuePlus Market,2025-02-14,17:40,Normal,Cash,Meat,Chicken,4.0,11.03,44.12,2.86,41.26,135
+7726,SuperSave Central,2025-01-28,16:58,Normal,Digital Wallet,Produce,Bread,2.0,10.13,20.26,1.72,18.54,112
+8481,Corner Grocery,2025-01-21,19:13,Normal,Credit Card,Beverages,Cheese,4.0,13.37,53.48,2.11,51.37,397
+7430,Corner Grocery,2025-01-13,14:29,Normal,Credit Card,Dairy,Onions,2.0,14.49,28.98,0.0,28.98,449
+4114,GreenGrocer Plaza,2025-01-27,10:40,Normal,Credit Card,Beverages,Chicken,4.0,13.07,52.28,4.52,47.76,230
+1616,City Fresh Store,2025-01-07,11:03,Member,Cash,Meat,Pasta,1.0,2.31,2.31,0.0,2.31,119
+4644,ValuePlus Market,2025-01-22,18:58,Normal,Cash,Beverages,Cheese,3.0,10.47,31.41,0.0,31.41,67
+7413,GreenGrocer Plaza,2025-03-15,17:03,Member,Credit Card,Produce,Bread,3.0,12.09,36.27,0.0,36.27,481
+2203,ValuePlus Market,2025-02-22,10:27,Normal,Credit Card,Produce,Milk,5.0,14.76,73.8,0.0,73.8,74
+3565,GreenGrocer Plaza,2025-03-20,10:07,Member,Digital Wallet,Bakery,Pasta,4.0,6.56,26.24,0.0,26.24,481
+4174,City Fresh Store,2025-03-20,18:01,Member,Digital Wallet,Beverages,Chicken,5.0,3.79,18.95,0.0,18.95,67
+4081,GreenGrocer Plaza,2025-01-04,10:40,Normal,Digital Wallet,Dairy,Milk,5.0,13.01,65.05,0.0,65.05,167
+3630,ValuePlus Market,2025-01-23,18:45,Normal,Digital Wallet,Meat,Cheese,4.0,5.79,23.16,0.0,23.16,85
+4161,Corner Grocery,2025-03-11,18:21,Member,Digital Wallet,Bakery,Onions,3.0,9.58,28.74,3.17,25.57,28
+5321,ValuePlus Market,2025-03-29,10:40,Normal,Cash,Beverages,Cheese,4.0,6.76,27.04,4.29,22.75,393
+9861,SuperSave Central,2025-03-25,10:55,Normal,Digital Wallet,Dairy,Onions,1.0,6.93,6.93,0.0,6.93,494
+7269,SuperSave Central,2025-03-25,21:54,Normal,Digital Wallet,Bakery,Cheese,5.0,11.39,56.95,0.0,56.95,199
+8099,SuperSave Central,2025-03-17,14:15,Normal,Credit Card,Produce,Pasta,5.0,6.38,31.9,0.0,31.9,259
+8376,SuperSave Central,2025-02-02,14:28,Normal,Cash,Meat,Pasta,4.0,10.86,43.44,0.0,43.44,369
+5078,City Fresh Store,2025-01-28,18:48,Normal,Digital Wallet,Beverages,Chicken,5.0,1.69,8.45,1.4,7.05,372
+6801,Corner Grocery,2025-01-08,20:47,Member,Digital Wallet,Dairy,Milk,3.0,5.88,17.64,0.0,17.64,383
+5151,Corner Grocery,2025-01-01,21:29,Normal,Digital Wallet,Produce,Cheese,5.0,5.81,29.05,0.0,29.05,461
+9911,ValuePlus Market,2025-02-06,18:11,Normal,Credit Card,Bakery,Cheese,4.0,11.61,46.44,0.0,46.44,88
+3600,GreenGrocer Plaza,2025-03-04,14:34,Normal,Credit Card,Meat,Milk,3.0,5.75,17.25,4.81,12.44,93
+7175,ValuePlus Market,2025-01-22,10:10,Member,Credit Card,Bakery,Bread,3.0,10.05,30.15,0.0,30.15,181
+1666,ValuePlus Market,2025-03-11,18:45,Member,Digital Wallet,Bakery,Chicken,5.0,10.8,54.0,0.82,53.18,221
+1283,ValuePlus Market,2025-01-21,17:49,Normal,Credit Card,Dairy,Cheese,4.0,10.39,41.56,0.0,41.56,383
+6840,ValuePlus Market,2025-02-04,15:20,Member,Digital Wallet,Produce,Chicken,5.0,9.64,48.2,2.19,46.01,454
+4565,Corner Grocery,2025-03-20,19:20,Normal,Cash,Beverages,Cheese,1.0,7.08,7.08,3.64,3.44,158
+5593,GreenGrocer Plaza,2025-01-05,10:04,Member,Digital Wallet,Dairy,Cheese,1.0,6.54,6.54,0.0,6.54,19
+2465,ValuePlus Market,2025-03-01,16:47,Member,Credit Card,Meat,Bread,3.0,9.12,27.36,3.92,23.44,39
+9321,Corner Grocery,2025-02-15,08:19,Member,Cash,Bakery,Pasta,5.0,2.36,11.8,2.9,8.9,289
+5734,ValuePlus Market,2025-02-19,16:36,Normal,Digital Wallet,Meat,Chicken,1.0,13.32,13.32,0.13,13.19,441
+7257,SuperSave Central,2025-02-17,09:02,Member,Cash,Dairy,Milk,2.0,12.64,25.28,4.13,21.15,64
+8366,ValuePlus Market,2025-01-06,10:43,Normal,Cash,Dairy,Chicken,1.0,6.18,6.18,0.0,6.18,369
+4672,ValuePlus Market,2025-03-30,10:32,Normal,Cash,Beverages,Bread,5.0,9.15,45.75,0.0,45.75,136
+8382,City Fresh Store,2025-02-25,17:52,Normal,Digital Wallet,Bakery,Onions,5.0,14.09,70.45,4.25,66.2,189
+7587,SuperSave Central,2025-02-28,18:08,Normal,Credit Card,Dairy,Onions,1.0,5.17,5.17,0.0,5.17,241
+1992,GreenGrocer Plaza,2025-01-29,17:08,Member,Digital Wallet,Meat,Bread,5.0,11.52,57.6,0.64,56.96,390
+7858,ValuePlus Market,2025-03-12,20:03,Member,Credit Card,Beverages,Bread,5.0,2.62,13.1,0.0,13.1,431
+3121,GreenGrocer Plaza,2025-03-18,14:34,Member,Digital Wallet,Meat,Pasta,2.0,8.57,17.14,0.0,17.14,460
+3223,SuperSave Central,2025-01-18,13:16,Normal,Digital Wallet,Bakery,Chicken,3.0,13.43,40.29,3.19,37.1,102
+5522,ValuePlus Market,2025-01-02,19:33,Normal,DIGITAL WALLET,Beverages,Chicken,5.0,8.95,44.75,1.41,43.34,17
+4188,City Fresh Store,2025-01-08,12:23,Normal,Credit Card,Beverages,Onions,4.0,9.82,39.28,0.0,39.28,422
+4237,Corner Grocery,2025-03-16,20:31,Member,Digital Wallet,Beverages,Milk,3.0,13.75,41.25,0.0,41.25,256
+5136,City Fresh Store,2025-02-23,08:00,Normal,Cash,Produce,Chicken,3.0,11.16,33.48,2.47,31.01,403
+1343,City Fresh Store,2025-02-07,20:07,Member,Digital Wallet,Beverages,Cheese,4.0,10.89,43.56,0.32,43.24,462
+5704,Corner Grocery,2025-02-17,09:44,Normal,Cash,Meat,Cheese,1.0,9.42,9.42,1.38,8.04,340
+5823,Corner Grocery,2025-01-27,19:22,Member,Credit Card,Meat,Pasta,2.0,10.05,20.1,0.0,20.1,205
+5920,Corner Grocery,2025-01-20,16:46,Normal,Credit Card,Bakery,Pasta,5.0,12.35,61.75,0.0,61.75,442
+4201,ValuePlus Market,2025-01-12,21:39,Normal,Digital Wallet,Dairy,Onions,1.0,14.72,14.72,1.21,13.51,451
+6471,GreenGrocer Plaza,2025-02-12,10:11,Member,Digital Wallet,Dairy,Milk,4.0,12.24,48.96,0.0,48.96,172
+1888,GreenGrocer Plaza,2025-03-02,17:53,Member,Digital Wallet,Produce,Milk,2.0,11.05,22.1,0.0,22.1,443
+8127,Corner Grocery,2025-01-31,20:11,Member,Cash,Beverages,Bread,2.0,3.33,6.66,0.0,6.66,49
+4720,City Fresh Store,2025-03-02,16:45,Member,Credit Card,Produce,Pasta,2.0,12.53,25.06,0.0,25.06,263
+3883,SuperSave Central,2025-03-15,17:46,Member,CASH,Bakery,Chicken,4.0,11.44,45.76,0.0,45.76,405
+5212,Corner Grocery,2025-03-08,18:14,Normal,Cash,Bakery,Cheese,1.0,11.9,11.9,0.0,11.9,94
+7961,City Fresh Store,2025-02-04,16:40,Member,Digital Wallet,Dairy,Chicken,5.0,4.62,23.1,0.04,23.06,281
+3415,City Fresh Store,2025-01-15,17:18,Normal,Digital Wallet,Bakery,Cheese,2.0,13.7,27.4,0.0,27.4,87
+4001,ValuePlus Market,2025-01-16,17:25,Member,Cash,Beverages,Onions,2.0,2.81,5.62,0.0,5.62,222
+2738,ValuePlus Market,2025-01-13,19:51,Normal,Cash,Meat,Cheese,1.0,4.92,4.92,0.0,4.92,313
+2364,GreenGrocer Plaza,2025-02-04,09:28,Normal,Digital Wallet,Bakery,Chicken,2.0,10.45,20.9,2.04,18.86,264
+3708,GreenGrocer Plaza,2025-03-16,13:21,Member,Digital Wallet,Produce,Chicken,2.0,10.6,21.2,0.81,20.39,100
+1924,SuperSave Central,2025-02-28,20:39,Member,Cash,Beverages,Milk,4.0,5.73,22.92,0.0,22.92,493
+1151,SuperSave Central,2025-01-21,19:20,Member,Digital Wallet,Bakery,Milk,3.0,10.97,32.91,0.0,32.91,394
+9777,SuperSave Central,2025-02-23,16:50,Member,Digital Wallet,Bakery,Pasta,1.0,6.74,6.74,0.0,6.74,202
+9044,SuperSave Central,2025-03-16,17:37,Normal,Cash,Beverages,Chicken,1.0,1.5,1.5,2.95,-1.45,262
+1912,City Fresh Store,2025-01-30,13:19,Normal,Cash,Bakery,Onions,1.0,3.7,3.7,0.0,3.7,287
+3321,City Fresh Store,2025-02-17,12:56,Normal,Credit Card,Meat,Cheese,4.0,13.42,53.68,0.0,53.68,152
+1495,GreenGrocer Plaza,2025-02-04,16:28,Normal,Cash,Dairy,Pasta,4.0,4.51,18.04,0.91,17.13,253
+3148,ValuePlus Market,2025-03-27,14:50,Normal,Digital Wallet,Beverages,Bread,5.0,3.02,15.1,3.83,11.27,221
+1556,ValuePlus Market,2025-02-07,17:03,Normal,Cash,Produce,Bread,4.0,10.71,42.84,0.0,42.84,204
+2552,Corner Grocery,2025-01-31,10:54,Normal,Cash,Bakery,Cheese,1.0,7.45,7.45,0.0,7.45,279
+3120,City Fresh Store,2025-03-19,20:06,Normal,Cash,Dairy,Cheese,5.0,12.25,61.25,0.0,61.25,338
+4085,SuperSave Central,2025-01-24,21:27,Member,CREDIT CARD,Produce,Cheese,3.0,13.13,39.39,0.0,39.39,28
+4504,SuperSave Central,2025-02-18,18:27,Member,Credit Card,Produce,Milk,2.0,12.92,25.84,0.0,25.84,49
+1156,Corner Grocery,2025-02-01,17:03,Normal,Digital Wallet,Meat,Cheese,2.0,5.73,11.46,0.32,11.14,107
+9926,ValuePlus Market,2025-02-24,13:21,Member,Credit Card,Dairy,Bread,5.0,8.32,41.6,0.0,41.6,13
+8505,SuperSave Central,2025-03-20,18:11,Member,Cash,Beverages,Cheese,3.0,10.28,30.84,2.91,27.93,42
+8162,ValuePlus Market,2025-02-27,18:44,Normal,Credit Card,Dairy,Chicken,2.0,5.85,11.7,0.0,11.7,308
+6523,Corner Grocery,2025-01-03,11:02,Member,Cash,Dairy,Onions,5.0,2.05,10.25,0.0,10.25,174
+8543,ValuePlus Market,2025-03-21,19:21,Normal,Credit Card,Produce,Bread,4.0,8.19,32.76,2.07,30.69,459
+9055,ValuePlus Market,2025-03-10,18:43,Member,Credit Card,Meat,Onions,1.0,1.67,1.67,1.36,0.31,36
+5654,ValuePlus Market,2025-03-26,20:01,Normal,Credit Card,Meat,Bread,3.0,14.33,42.99,0.07,42.92,182
+7250,SuperSave Central,2025-01-10,18:23,Normal,Cash,Dairy,Pasta,2.0,12.26,24.52,0.0,24.52,346
+8246,GreenGrocer Plaza,2025-03-24,17:33,Member,Credit Card,Dairy,Chicken,1.0,4.09,4.09,0.0,4.09,122
+1154,City Fresh Store,2025-01-25,15:26,Normal,Cash,Bakery,Bread,5.0,5.38,26.9,0.0,26.9,443
+8950,ValuePlus Market,2025-03-09,19:54,Normal,Cash,Produce,Chicken,2.0,14.77,29.54,0.0,29.54,382
+1996,ValuePlus Market,2025-03-02,19:40,Member,Digital Wallet,Beverages,Bread,1.0,6.54,6.54,0.0,6.54,389
+5626,ValuePlus Market,2025-01-29,09:00,Member,CREDIT CARD,Beverages,Onions,4.0,12.08,48.32,2.32,46.0,104
+3905,GreenGrocer Plaza,2025-01-19,08:07,Member,Digital Wallet,Meat,Onions,3.0,7.53,22.59,0.0,22.59,328
+1153,Corner Grocery,2025-02-12,14:22,Normal,Digital Wallet,Produce,Bread,5.0,13.17,65.85,2.56,63.29,242
+8853,SuperSave Central,2025-03-07,18:37,Normal,Cash,Meat,Bread,2.0,11.0,22.0,0.0,22.0,143
+7481,,2025-03-15,21:05,Member,Credit Card,Beverages,Milk,4.0,1.81,7.24,1.05,6.19,133
+6599,ValuePlus Market,2025-03-02,11:21,Normal,Cash,Dairy,Chicken,3.0,5.47,16.41,0.0,16.41,381
+2716,GreenGrocer Plaza,2025-02-12,17:24,Member,Cash,Produce,Chicken,3.0,9.03,27.09,0.0,27.09,360
+1786,GreenGrocer Plaza,2025-01-25,15:17,Normal,Credit Card,Produce,Chicken,4.0,14.0,56.0,3.99,52.01,332
+5368,GreenGrocer Plaza,2025-01-20,20:16,Member,Cash,Bakery,Chicken,2.0,2.88,5.76,0.0,5.76,497
+9096,Corner Grocery,2025-02-17,18:11,Normal,Credit Card,Dairy,Pasta,3.0,9.62,28.86,32.014594089386506,-3.15,460
+5272,City Fresh Store,2025-03-24,18:05,Member,Credit Card,Dairy,Pasta,5.0,5.58,27.9,0.0,27.9,362
+4767,SuperSave Central,2025-03-28,16:25,Normal,Cash,Meat,Cheese,1.0,13.51,13.51,3.75,9.76,125
+9834,,2025-01-24,15:26,Normal,Cash,Produce,Bread,5.0,11.83,59.15,0.26,58.89,452
+6994,Corner Grocery,2025-01-11,13:07,Normal,Digital Wallet,Meat,Bread,3.0,6.49,19.47,0.0,19.47,22
+8216,City Fresh Store,2025-02-24,09:18,Member,Cash,Dairy,Bread,1.0,3.76,3.76,0.0,3.76,414
+9857,Corner Grocery,2025-01-28,19:59,Normal,Credit Card,Bakery,Bread,4.0,1.66,6.64,0.0,6.64,329
+4426,GreenGrocer Plaza,2025-03-10,18:41,Member,Digital Wallet,Produce,Chicken,1.0,9.89,9.89,0.0,9.89,174
+4783,GreenGrocer Plaza,2025-03-04,21:00,Normal,Credit Card,Dairy,Chicken,1.0,6.98,6.98,10.134594089386509,-3.15,217
+6427,ValuePlus Market,2025-02-28,21:56,Normal,Digital Wallet,Bakery,Pasta,1.0,5.75,5.75,0.0,5.75,94
+8011,Corner Grocery,2025-01-05,17:28,Normal,Cash,Beverages,Onions,3.0,14.8,44.4,0.0,44.4,257
+9052,ValuePlus Market,2025-02-20,18:44,Normal,Cash,Dairy,Milk,2.0,7.79,15.58,4.04,11.54,441
+4701,SuperSave Central,2025-01-21,20:48,Member,Cash,Beverages,Chicken,3.0,11.62,34.86,0.0,34.86,65
+3349,GreenGrocer Plaza,2025-01-12,18:34,Normal,Credit Card,Meat,Chicken,2.0,3.9,7.8,2.86,4.94,181
+8011,SuperSave Central,2025-02-19,12:39,Normal,Digital Wallet,Beverages,Chicken,4.0,1.68,6.72,0.0,6.72,150
+8055,City Fresh Store,2025-01-04,16:13,Normal,Credit Card,Dairy,Onions,4.0,7.14,28.56,0.43,28.13,141
+2212,GreenGrocer Plaza,2025-02-11,11:34,Normal,Digital Wallet,Beverages,Onions,4.0,10.49,41.96,0.0,41.96,488
+7965,SuperSave Central,2025-03-25,20:47,Normal,Cash,Produce,Pasta,4.0,8.34,33.36,0.0,33.36,210
+7704,City Fresh Store,2025-02-07,17:44,Member,Credit Card,Dairy,Chicken,4.0,13.52,54.08,2.84,51.24,377
+8433,SuperSave Central,2025-01-25,12:19,Normal,Cash,Bakery,Milk,5.0,7.36,36.8,1.16,35.64,298
+3511,City Fresh Store,2025-01-14,17:55,Normal,Credit Card,Beverages,Bread,3.0,5.7,17.1,0.0,17.1,430
+1143,City Fresh Store,2025-03-16,17:48,Normal,Cash,Produce,Chicken,2.0,13.87,27.74,1.21,26.53,318
+8367,GreenGrocer Plaza,2025-02-01,14:12,Member,Credit Card,Meat,Pasta,4.0,6.99,27.96,2.3,25.66,366
+4228,ValuePlus Market,2025-01-11,10:37,Member,Credit Card,Meat,Pasta,5.0,5.14,25.7,2.39,23.31,417
+5582,City Fresh Store,2025-03-02,17:48,Member,Digital Wallet,Beverages,Milk,5.0,2.82,14.1,0.0,14.1,354
+7031,City Fresh Store,2025-01-18,16:45,Normal,Cash,Meat,Cheese,5.0,12.21,61.05,4.38,56.67,188
+5243,GreenGrocer Plaza,2025-01-27,18:48,Normal,Digital Wallet,Bakery,Pasta,3.0,12.64,37.92,2.63,35.29,434
+3713,ValuePlus Market,2025-02-24,16:07,Member,Digital Wallet,Dairy,Onions,4.0,1.95,7.8,0.0,7.8,38
+5185,Corner Grocery,2025-02-23,18:42,Normal,Cash,Produce,Onions,5.0,6.34,31.7,0.0,31.7,452
+8328,Corner Grocery,2025-03-23,17:19,Normal,Credit Card,Beverages,Bread,5.0,11.62,58.1,0.0,58.1,433
+5633,ValuePlus Market,2025-03-28,17:59,Normal,Digital Wallet,Meat,Pasta,4.0,14.28,57.12,0.0,57.12,316
+4192,SuperSave Central,2025-03-16,19:32,Member,Cash,Dairy,Bread,3.0,6.6,19.8,0.47,19.33,315
+1300,GreenGrocer Plaza,2025-01-21,15:25,Normal,Credit Card,Bakery,Pasta,5.0,13.27,66.35,0.74,65.61,376
+1723,ValuePlus Market,2025-02-13,11:38,Member,Digital Wallet,Meat,Milk,2.0,6.82,13.64,0.39,13.25,45
+6694,Corner Grocery,2025-01-05,08:20,Normal,Digital Wallet,Meat,Chicken,1.0,3.92,3.92,0.0,3.92,472
+4010,City Fresh Store,2025-03-28,18:52,Member,Digital Wallet,Produce,Pasta,1.0,1.55,1.55,0.0,1.55,118
+6555,Corner Grocery,2025-02-10,17:48,Normal,Credit Card,Bakery,Cheese,1.0,5.96,5.96,0.0,5.96,325
+1067,City Fresh Store,2025-02-28,18:41,Normal,Digital Wallet,Bakery,Onions,3.0,6.61,19.83,4.8,15.03,155
+3506,GreenGrocer Plaza,2025-03-30,12:42,Member,Credit Card,Beverages,Milk,5.0,14.26,71.3,0.0,71.3,285
+2537,City Fresh Store,2025-02-23,11:53,Member,Digital Wallet,Produce,Chicken,1.0,4.28,4.28,0.0,4.28,398
+1397,ValuePlus Market,2025-03-15,08:40,Normal,Cash,Beverages,Chicken,1.0,6.66,6.66,0.0,6.66,155
+6680,City Fresh Store,2025-01-22,14:08,Normal,Digital Wallet,Produce,Onions,4.0,1.84,7.36,0.0,7.36,389
+5825,SuperSave Central,2025-03-24,17:23,Normal,Cash,Bakery,Chicken,5.0,11.81,59.05,0.0,59.05,177
+9747,ValuePlus Market,2025-03-06,15:36,Member,Cash,Produce,Bread,5.0,13.85,69.25,0.0,69.25,266
+7048,GreenGrocer Plaza,2025-03-05,15:48,Member,Cash,Produce,Milk,4.0,4.71,18.84,3.92,14.92,284
+4661,ValuePlus Market,2025-03-12,19:40,Member,Credit Card,Produce,Cheese,5.0,7.29,36.45,0.0,36.45,96
+3941,SuperSave Central,2025-01-04,14:16,Member,Cash,Dairy,Onions,2.0,3.15,6.3,1.38,4.92,163
+8067,GreenGrocer Plaza,2025-03-06,16:23,Normal,Digital Wallet,Dairy,Pasta,3.0,7.67,23.01,0.0,23.01,294
+6091,Corner Grocery,2025-01-15,18:20,Member,Credit Card,Bakery,Pasta,4.0,3.3,13.2,2.3,10.9,324
+2601,SuperSave Central,2025-03-17,15:50,Member,Cash,Produce,Pasta,1.0,8.57,8.57,0.0,8.57,328
+2480,GreenGrocer Plaza,2025-01-22,17:58,Member,Credit Card,Bakery,Milk,5.0,11.42,57.1,4.75,52.35,107
+7230,City Fresh Store,2025-03-27,19:38,Member,Credit Card,Dairy,Cheese,2.0,8.97,17.94,2.99,14.95,220
+4276,ValuePlus Market,2025-02-16,20:54,Normal,Credit Card,Produce,Chicken,2.0,4.81,9.62,0.0,9.62,455
+7447,GreenGrocer Plaza,2025-03-22,11:40,Normal,Digital Wallet,Beverages,Cheese,3.0,6.28,18.84,1.29,17.55,57
+6499,ValuePlus Market,2025-02-15,19:38,Member,Cash,Dairy,Cheese,2.0,10.12,20.24,0.0,20.24,327
+7273,City Fresh Store,2025-01-14,16:12,Member,Credit Card,Dairy,Onions,5.0,9.46,47.3,4.37,42.93,283
+2299,GreenGrocer Plaza,2025-02-19,12:10,Member,Credit Card,Dairy,Milk,5.0,3.35,16.75,0.0,16.75,203
+6818,Corner Grocery,2025-01-20,16:45,Normal,Credit Card,Produce,Pasta,2.0,12.91,25.82,1.1,24.72,261
+7701,SuperSave Central,2025-02-19,21:18,Normal,Cash,Meat,Onions,5.0,7.92,39.6,1.75,37.85,292
+5994,GreenGrocer Plaza,2025-02-02,16:10,Member,Credit Card,Beverages,Chicken,5.0,3.69,18.45,0.0,18.45,271
+8489,City Fresh Store,2025-02-28,13:12,Normal,Credit Card,Beverages,Cheese,1.0,3.16,3.16,0.0,3.16,496
+9269,GreenGrocer Plaza,2025-02-12,17:45,Normal,DIGITAL WALLET,Bakery,Pasta,4.0,14.53,58.12,3.23,54.89,463
+3831,ValuePlus Market,2025-03-20,12:44,Normal,Cash,Produce,Milk,5.0,5.3,26.5,1.94,24.56,452
+3721,GreenGrocer Plaza,2025-01-12,10:00,Normal,Digital Wallet,Dairy,Bread,5.0,13.77,68.85,0.94,67.91,271
+2532,Corner Grocery,2025-02-09,11:39,Member,Cash,Meat,Cheese,3.0,7.04,21.12,0.0,21.12,40
+9429,,2025-01-20,11:43,Member,CASH,Produce,Cheese,4.0,6.71,26.84,0.0,26.84,114
+6253,SuperSave Central,2025-02-07,11:18,Member,Cash,Produce,Cheese,4.0,10.96,43.84,0.0,43.84,497
+2996,GreenGrocer Plaza,2025-01-03,11:11,Normal,Digital Wallet,Meat,Cheese,4.0,1.63,6.52,0.0,6.52,359
+6311,ValuePlus Market,2025-01-28,17:07,Normal,Digital Wallet,Dairy,Pasta,2.0,6.06,12.12,0.0,12.12,321
+1277,GreenGrocer Plaza,2025-02-25,12:07,Normal,Digital Wallet,Produce,Milk,1.0,5.59,5.59,0.0,5.59,447
+4089,Corner Grocery,2025-03-31,14:52,Member,DIGITAL WALLET,Beverages,Onions,1.0,13.22,13.22,0.0,13.22,478
+1523,City Fresh Store,2025-01-13,19:44,Member,Credit Card,Beverages,Pasta,3.0,8.64,25.92,0.0,25.92,178
+5275,GreenGrocer Plaza,2025-03-18,16:11,Member,Credit Card,Meat,Milk,4.0,6.42,25.68,0.0,25.68,245
+6365,GreenGrocer Plaza,2025-03-07,17:47,Member,Credit Card,Dairy,Onions,4.0,5.09,20.36,3.41,16.95,283
+4122,SuperSave Central,2025-02-06,11:32,Normal,Cash,Meat,Cheese,5.0,9.47,47.35,0.0,47.35,352
+9167,Corner Grocery,2025-02-18,12:44,Member,Credit Card,Produce,Milk,2.0,3.55,7.1,0.0,7.1,239
+6190,City Fresh Store,2025-03-07,09:25,Member,Cash,Beverages,Cheese,2.0,4.82,9.64,0.0,9.64,32
+5575,ValuePlus Market,2025-02-05,11:38,Normal,Digital Wallet,Bakery,Milk,3.0,5.46,16.38,0.0,16.38,485
+8727,GreenGrocer Plaza,2025-02-23,13:27,Member,Cash,Meat,Chicken,1.0,9.71,9.71,3.63,6.08,173
+2797,City Fresh Store,2025-01-26,11:57,Member,Cash,Bakery,Bread,4.0,6.54,26.16,0.0,26.16,290
+3131,ValuePlus Market,2025-03-16,10:04,Member,Credit Card,Bakery,Cheese,3.0,8.33,24.99,3.41,21.58,16
+8322,Corner Grocery,2025-03-13,11:07,Normal,Digital Wallet,Beverages,Cheese,2.0,10.28,20.56,0.0,20.56,219
+7500,Corner Grocery,2025-02-09,16:24,Normal,Digital Wallet,Meat,Cheese,2.0,14.41,28.82,2.52,26.3,262
+1815,City Fresh Store,2025-02-12,12:26,Member,Credit Card,Bakery,Chicken,2.0,11.83,23.66,0.0,23.66,413
+9634,ValuePlus Market,2025-01-22,14:45,Normal,Digital Wallet,Produce,Pasta,4.0,6.97,27.88,0.0,27.88,142
+7666,Corner Grocery,2025-01-20,16:22,Member,Digital Wallet,Dairy,Onions,4.0,11.6,46.4,4.45,41.95,283
+1142,City Fresh Store,2025-01-08,18:29,Normal,Digital Wallet,Dairy,Cheese,4.0,14.32,57.28,0.0,57.28,115
+2410,Corner Grocery,2025-01-29,09:44,Normal,Credit Card,Beverages,Cheese,5.0,8.24,41.2,1.74,39.46,241
+1534,Corner Grocery,2025-02-09,18:46,Normal,Digital Wallet,Meat,Pasta,1.0,7.04,7.04,0.0,7.04,42
+4364,Corner Grocery,2025-03-31,17:22,Normal,Cash,Meat,Pasta,2.0,2.55,5.1,4.83,0.27,88
+2032,SuperSave Central,2025-01-30,10:48,Normal,Cash,Dairy,Bread,2.0,13.55,27.1,1.86,25.24,44
+4342,ValuePlus Market,2025-03-22,19:46,Normal,Digital Wallet,Produce,Milk,5.0,4.83,24.15,0.16,23.99,119
+7085,City Fresh Store,2025-03-25,19:19,Normal,Credit Card,Dairy,Cheese,2.0,2.36,4.72,0.0,4.72,330
+5500,City Fresh Store,2025-02-24,09:17,Normal,Credit Card,Dairy,Milk,2.0,8.75,17.5,0.0,17.5,72
+2172,ValuePlus Market,2025-01-16,13:17,Member,Credit Card,Meat,Pasta,4.0,12.92,51.68,4.0,47.68,478
+5517,ValuePlus Market,2025-02-15,18:01,Member,Digital Wallet,Bakery,Pasta,4.0,6.99,27.96,3.64,24.32,337
+9007,ValuePlus Market,2025-03-03,18:03,Member,Digital Wallet,Produce,Bread,1.0,12.07,12.07,0.0,12.07,464
+2641,ValuePlus Market,2025-01-07,12:29,Member,Cash,Meat,Onions,2.0,12.79,25.58,0.0,25.58,306
+1471,GreenGrocer Plaza,2025-03-21,12:32,Normal,Credit Card,Dairy,Chicken,3.0,7.63,22.89,0.0,22.89,187
+3940,City Fresh Store,2025-02-14,14:35,Normal,Cash,Bakery,Chicken,2.0,9.48,18.96,3.21,15.75,393
+9738,GreenGrocer Plaza,2025-02-28,16:17,Normal,Cash,Produce,Chicken,2.0,8.71,17.42,0.0,17.42,373
+5726,Corner Grocery,2025-02-25,17:36,Member,Credit Card,Beverages,Pasta,1.0,14.18,14.18,0.0,14.18,241
+8670,Corner Grocery,2025-02-17,14:18,Member,Digital Wallet,Produce,Cheese,3.0,11.29,33.87,0.69,33.18,113
+4723,City Fresh Store,2025-01-27,16:46,Normal,Digital Wallet,Produce,Bread,2.0,13.99,27.98,0.96,27.02,423
+1363,Corner Grocery,2025-02-22,18:27,Member,Cash,Dairy,Onions,3.0,4.47,13.41,0.78,12.63,303
+4309,ValuePlus Market,2025-03-28,09:39,Member,Cash,Dairy,Chicken,4.0,5.69,22.76,0.0,22.76,44
+1545,GreenGrocer Plaza,2025-03-29,12:19,Normal,Cash,Beverages,Bread,4.0,2.46,9.84,0.0,9.84,203
+4240,ValuePlus Market,2025-03-14,18:48,Normal,Cash,Beverages,Pasta,3.0,8.25,24.75,3.28,21.47,183
+7665,Corner Grocery,2025-02-04,19:32,Member,Credit Card,Beverages,Chicken,2.0,13.3,26.6,4.02,22.58,401
+2936,GreenGrocer Plaza,2025-02-20,16:11,Normal,Cash,Meat,Onions,3.0,5.91,17.73,2.16,15.57,111
+1882,ValuePlus Market,2025-03-25,17:57,Normal,Cash,Meat,Milk,3.0,3.23,9.69,2.8,6.89,333
+4840,City Fresh Store,2025-02-06,10:50,Normal,Digital Wallet,Dairy,Onions,4.0,2.42,9.68,0.0,9.68,302
+7923,ValuePlus Market,2025-03-22,16:14,Normal,Digital Wallet,Dairy,Cheese,3.0,7.54,22.62,2.85,19.77,94
+5611,Corner Grocery,2025-02-26,17:40,Member,Digital Wallet,Beverages,Chicken,5.0,3.71,18.55,0.0,18.55,406
+6204,GreenGrocer Plaza,2025-01-08,12:38,Normal,Credit Card,Meat,Chicken,5.0,6.17,30.85,0.0,30.85,210
+8288,City Fresh Store,2025-03-20,13:01,Member,Credit Card,Bakery,Milk,4.0,12.57,50.28,2.65,47.63,182
+4203,GreenGrocer Plaza,2025-01-20,14:28,Member,Digital Wallet,Meat,Milk,2.0,6.68,13.36,0.0,13.36,38
+3244,City Fresh Store,2025-02-22,08:40,Normal,Digital Wallet,Dairy,Chicken,2.0,9.73,19.46,0.0,19.46,306
+1018,,2025-01-12,13:09,Normal,Cash,Meat,Cheese,4.0,8.28,33.12,0.0,33.12,65
+1641,Corner Grocery,2025-02-18,12:01,Normal,Cash,Dairy,Milk,2.0,11.2,22.4,0.0,22.4,481
+4083,City Fresh Store,2025-01-17,13:50,Normal,Credit Card,Beverages,Pasta,1.0,3.61,3.61,1.86,1.75,25
+6200,SuperSave Central,2025-03-05,10:10,Normal,Credit Card,Beverages,Chicken,5.0,13.93,69.65,1.66,67.99,149
+9521,GreenGrocer Plaza,2025-02-11,19:12,Normal,Cash,Beverages,Onions,1.0,10.19,10.19,0.0,10.19,75
+1865,GreenGrocer Plaza,2025-01-29,17:09,Normal,Digital Wallet,Bakery,Onions,1.0,5.16,5.16,0.0,5.16,455
+1773,ValuePlus Market,2025-01-19,17:13,Member,Cash,Bakery,Cheese,1.0,3.16,3.16,0.0,3.16,156
+5732,City Fresh Store,2025-01-11,18:17,Member,Credit Card,Dairy,Pasta,4.0,3.52,14.08,0.0,14.08,167
+4518,SuperSave Central,2025-02-19,16:50,Member,Credit Card,Produce,Milk,1.0,12.07,12.07,3.55,8.52,409
+7795,Corner Grocery,2025-03-12,10:53,Member,CASH,Bakery,Chicken,3.0,9.44,28.32,0.0,28.32,481
+7984,ValuePlus Market,2025-02-27,17:08,Normal,Cash,Dairy,Onions,2.0,6.64,13.28,0.6,12.68,406
+3567,SuperSave Central,2025-02-03,17:56,Normal,Cash,Meat,Onions,4.0,5.99,23.96,0.0,23.96,78
+2674,City Fresh Store,2025-01-20,18:38,Normal,Credit Card,Beverages,Onions,3.0,13.05,39.15,0.0,39.15,32
+1739,SuperSave Central,2025-02-19,15:27,Normal,Digital Wallet,Beverages,Onions,3.0,13.31,39.93,0.0,39.93,199
+2545,GreenGrocer Plaza,2025-03-29,11:02,Normal,Cash,Beverages,Bread,5.0,9.35,46.75,0.0,46.75,257
+6127,GreenGrocer Plaza,2025-01-10,13:19,Member,Credit Card,Dairy,Cheese,5.0,8.58,42.9,0.03,42.87,495
+7947,ValuePlus Market,2025-02-01,14:05,Member,Credit Card,Beverages,Milk,3.0,12.52,37.56,0.0,37.56,424
+7620,City Fresh Store,2025-02-21,17:26,Member,Credit Card,Bakery,Chicken,5.0,11.62,58.1,0.0,58.1,318
+5555,City Fresh Store,2025-01-15,17:52,Normal,Cash,Meat,Chicken,2.0,6.9,13.8,0.94,12.86,385
+6645,SuperSave Central,2025-03-25,14:01,Member,Cash,Beverages,Chicken,2.0,2.62,5.24,4.72,0.52,154
+9943,ValuePlus Market,2025-01-03,21:28,Normal,Digital Wallet,Dairy,Milk,5.0,11.87,59.35,0.0,59.35,393
+8124,City Fresh Store,2025-02-06,17:37,Normal,Credit Card,Meat,Cheese,1.0,3.78,3.78,0.13,3.65,314
+4732,,2025-02-09,12:02,Member,Cash,Beverages,Pasta,3.0,1.72,5.16,0.0,5.16,186
+3283,SuperSave Central,2025-03-13,10:15,Member,Credit Card,Produce,Cheese,2.0,12.88,25.76,3.46,22.3,204
+9669,Corner Grocery,2025-02-09,11:29,Normal,Credit Card,Beverages,Onions,5.0,9.31,46.55,0.0,46.55,419
+7998,GreenGrocer Plaza,2025-02-25,12:39,Member,Digital Wallet,Bakery,Onions,5.0,13.54,67.7,0.27,67.43,22
+6413,ValuePlus Market,2025-01-23,11:01,Normal,Cash,Meat,Cheese,2.0,8.04,16.08,0.0,16.08,373
+2269,City Fresh Store,2025-01-11,12:16,Normal,Cash,Bakery,Cheese,2.0,14.01,28.02,0.0,28.02,175
+8868,GreenGrocer Plaza,2025-03-05,13:40,Normal,Credit Card,Produce,Milk,1.0,6.28,6.28,3.81,2.47,159
+3603,Corner Grocery,2025-01-08,11:11,Normal,Credit Card,Produce,Milk,5.0,11.28,56.4,3.86,52.54,350
+6961,Corner Grocery,2025-02-25,19:34,Normal,Digital Wallet,Bakery,Bread,5.0,5.56,27.8,4.8,23.0,422
+9569,ValuePlus Market,2025-03-01,10:42,Normal,Digital Wallet,Meat,Chicken,4.0,1.52,6.08,0.29,5.79,54
+8557,GreenGrocer Plaza,2025-01-10,16:00,Member,Digital Wallet,Produce,Bread,1.0,6.63,6.63,0.0,6.63,183
+2680,SuperSave Central,2025-02-08,15:54,Normal,Digital Wallet,Produce,Chicken,2.0,11.46,22.92,0.0,22.92,176
+9433,GreenGrocer Plaza,2025-01-28,21:44,Member,Digital Wallet,Beverages,Onions,2.0,3.53,7.06,3.22,3.84,206
+6682,Corner Grocery,2025-02-18,10:14,Member,Digital Wallet,Dairy,Bread,3.0,8.31,24.93,3.58,21.35,215
+9084,ValuePlus Market,2025-02-05,15:25,Member,Credit Card,Produce,Bread,2.0,4.37,8.74,0.0,8.74,91
+6367,ValuePlus Market,2025-01-13,20:36,Normal,Digital Wallet,Meat,Pasta,5.0,2.51,12.55,0.0,12.55,77
+1069,SuperSave Central,2025-02-05,19:20,Member,Credit Card,Meat,Cheese,2.0,9.84,19.68,0.0,19.68,106
+4924,ValuePlus Market,2025-01-26,18:48,Member,Credit Card,Beverages,Milk,5.0,14.35,71.75,2.14,69.61,176
+7200,,2025-03-27,12:30,Normal,Cash,Meat,Bread,5.0,5.69,28.45,0.0,28.45,413
+3007,ValuePlus Market,2025-01-04,11:24,Normal,Credit Card,Beverages,Milk,1.0,9.34,9.34,0.0,9.34,86
+9992,ValuePlus Market,2025-03-23,17:22,Normal,Credit Card,Produce,Chicken,2.0,14.37,28.74,0.0,28.74,493
+9119,ValuePlus Market,2025-03-05,19:23,Normal,Digital Wallet,Produce,Bread,1.0,10.28,10.28,0.0,10.28,246
+3779,Corner Grocery,2025-02-07,17:56,Normal,Credit Card,Produce,Chicken,5.0,10.59,52.95,0.57,52.38,205
+5920,GreenGrocer Plaza,2025-03-29,17:37,Normal,Digital Wallet,Produce,Bread,2.0,3.92,7.84,1.88,5.96,300
+1755,City Fresh Store,2025-03-28,13:27,Member,Digital Wallet,Dairy,Onions,2.0,8.15,16.3,0.27,16.03,145
+7495,ValuePlus Market,2025-01-22,18:20,Normal,Digital Wallet,Dairy,Pasta,1.0,6.46,6.46,0.0,6.46,317
+6935,City Fresh Store,2025-01-02,12:53,Normal,Cash,Produce,Chicken,1.0,7.86,7.86,0.0,7.86,305
+3330,,2025-01-31,13:42,Member,Digital Wallet,Meat,Cheese,5.0,12.31,61.55,2.15,59.4,386
+6705,Corner Grocery,2025-01-11,15:17,Normal,Credit Card,Beverages,Cheese,5.0,7.72,38.6,0.0,38.6,378
+9301,ValuePlus Market,2025-02-15,16:35,Member,Digital Wallet,Bakery,Onions,2.0,2.35,4.7,0.0,4.7,376
+2016,City Fresh Store,2025-03-03,12:34,Normal,Digital Wallet,Beverages,Onions,2.0,13.72,27.44,3.69,23.75,45
+8347,ValuePlus Market,2025-03-10,10:44,Member,Digital Wallet,Bakery,Cheese,4.0,8.86,35.44,4.28,31.16,399
+9216,SuperSave Central,2025-03-05,17:54,Normal,CASH,Bakery,Chicken,4.0,13.98,55.92,59.07459408938651,-3.15,257
+5938,SuperSave Central,2025-01-10,13:08,Normal,Credit Card,Produce,Cheese,3.0,9.23,27.69,0.22,27.47,263
+3838,SuperSave Central,2025-02-09,17:52,Normal,Cash,Bakery,Pasta,5.0,2.44,12.2,0.0,12.2,223
+1737,City Fresh Store,2025-01-24,11:37,Normal,Credit Card,Produce,Bread,3.0,8.96,26.88,3.3,23.58,261
+7200,SuperSave Central,2025-02-13,16:57,Member,Cash,Dairy,Pasta,3.0,9.27,27.81,0.0,27.81,79
+9371,Corner Grocery,2025-03-01,17:29,Member,Credit Card,Meat,Cheese,1.0,4.39,4.39,4.76,-0.37,243
+1231,Corner Grocery,2025-03-03,09:59,Member,Cash,Bakery,Bread,1.0,7.86,7.86,0.0,7.86,493
+2917,City Fresh Store,2025-03-28,14:43,Normal,Digital Wallet,Meat,Cheese,4.0,7.7,30.8,0.0,30.8,338
+9534,ValuePlus Market,2025-01-17,11:33,Normal,Cash,Produce,Pasta,3.0,9.91,29.73,4.45,25.28,25
+6918,GreenGrocer Plaza,2025-03-06,09:31,Member,Cash,Bakery,Pasta,4.0,5.0,20.0,0.0,20.0,496
+3623,ValuePlus Market,2025-02-26,21:02,Member,Digital Wallet,Beverages,Chicken,5.0,9.35,46.75,2.4,44.35,183
+9646,ValuePlus Market,2025-02-24,13:02,Normal,Digital Wallet,Dairy,Chicken,2.0,4.75,9.5,0.0,9.5,196
+7401,ValuePlus Market,2025-02-22,18:27,Member,Credit Card,Dairy,Pasta,1.0,7.53,7.53,0.0,7.53,303
+8072,ValuePlus Market,2025-02-25,12:43,Normal,Credit Card,Bakery,Bread,5.0,3.16,15.8,0.0,15.8,234
+3276,GreenGrocer Plaza,2025-01-09,18:14,Member,Credit Card,Dairy,Chicken,5.0,2.0,10.0,3.61,6.39,283
+8393,SuperSave Central,2025-01-22,18:40,Normal,Cash,Beverages,Chicken,1.0,5.83,5.83,0.0,5.83,21
+9787,,2025-01-13,17:22,Member,Credit Card,Meat,Milk,1.0,5.21,5.21,0.0,5.21,319
+4874,Corner Grocery,2025-03-30,16:39,Normal,Cash,Beverages,Milk,3.0,6.99,20.97,1.02,19.95,228
+5530,City Fresh Store,2025-02-17,15:10,Normal,Cash,Dairy,Chicken,4.0,14.49,57.96,0.0,57.96,440
+8164,City Fresh Store,2025-01-18,14:47,Member,Credit Card,Meat,Cheese,5.0,8.55,42.75,0.0,42.75,10
+5497,Corner Grocery,2025-03-17,19:31,Normal,Credit Card,Beverages,Bread,3.0,8.97,26.91,3.42,23.49,408
+8933,ValuePlus Market,2025-02-09,18:57,Normal,Cash,Produce,Onions,3.0,14.21,42.63,0.0,42.63,120
+3135,GreenGrocer Plaza,2025-01-17,20:58,Normal,Digital Wallet,Produce,Chicken,5.0,13.94,69.7,0.0,69.7,484
+7727,SuperSave Central,2025-01-15,11:56,Normal,Digital Wallet,Meat,Milk,5.0,13.44,67.2,1.17,66.03,473
+2565,City Fresh Store,2025-01-15,18:53,Member,Cash,Meat,Bread,2.0,2.82,5.64,0.52,5.12,286
+1308,SuperSave Central,2025-03-20,19:35,Normal,Credit Card,Meat,Bread,4.0,10.06,40.24,0.25,39.99,138
+9534,GreenGrocer Plaza,2025-03-04,12:59,Normal,Cash,Produce,Milk,5.0,12.41,62.05,4.29,57.76,102
+9627,City Fresh Store,2025-02-08,09:32,Normal,Cash,Beverages,Bread,1.0,12.78,12.78,0.0,12.78,460
+9368,SuperSave Central,2025-01-13,18:23,Normal,Credit Card,Meat,Bread,2.0,9.3,18.6,0.44,18.16,405
+1138,GreenGrocer Plaza,2025-03-22,17:38,Member,Digital Wallet,Produce,Milk,4.0,1.74,6.96,10.114594089386507,-3.15,389
+1193,SuperSave Central,2025-02-01,18:33,Normal,Cash,Meat,Pasta,1.0,14.65,14.65,4.44,10.21,421
+4257,ValuePlus Market,2025-01-09,11:55,Normal,Digital Wallet,Meat,Chicken,1.0,7.87,7.87,0.0,7.87,48
+4235,GreenGrocer Plaza,2025-02-09,18:27,Member,Digital Wallet,Meat,Cheese,4.0,6.81,27.24,0.96,26.28,430
+1942,SuperSave Central,2025-01-20,12:36,Normal,Credit Card,Produce,Onions,2.0,6.83,13.66,0.0,13.66,488
+5620,ValuePlus Market,2025-03-31,11:06,Normal,Cash,Beverages,Cheese,1.0,7.23,7.23,1.6,5.63,325
+6720,ValuePlus Market,2025-03-26,11:03,Member,Cash,Produce,Pasta,3.0,4.77,14.31,0.0,14.31,168
+7353,GreenGrocer Plaza,2025-03-23,18:36,Member,Digital Wallet,Produce,Pasta,4.0,5.92,23.68,3.69,19.99,195
+5957,Corner Grocery,2025-03-18,17:55,Normal,Digital Wallet,Meat,Bread,4.0,14.8,59.2,1.26,57.94,490
+4381,City Fresh Store,2025-03-21,16:00,Member,Credit Card,Bakery,Cheese,5.0,6.47,32.35,0.0,32.35,362
+6839,GreenGrocer Plaza,2025-03-14,14:00,Member,Digital Wallet,Bakery,Pasta,2.0,8.61,17.22,2.81,14.41,265
+3880,ValuePlus Market,2025-03-04,19:46,Member,Credit Card,Bakery,Cheese,3.0,12.95,38.85,0.0,38.85,248
+5887,ValuePlus Market,2025-03-17,15:19,Member,Cash,Produce,Pasta,3.0,8.62,25.86,1.32,24.54,113
+1545,GreenGrocer Plaza,2025-02-13,18:18,Normal,Credit Card,Meat,Onions,5.0,5.88,29.4,0.0,29.4,404
+2927,Corner Grocery,2025-02-07,15:28,Normal,Digital Wallet,Bakery,Pasta,1.0,8.57,8.57,2.86,5.71,375
+5152,City Fresh Store,2025-03-24,14:09,Normal,Cash,Dairy,Cheese,1.0,3.04,3.04,0.0,3.04,38
+1004,SuperSave Central,2025-03-01,16:59,Normal,Credit Card,Dairy,Bread,3.0,3.26,9.78,0.0,9.78,98
+6533,GreenGrocer Plaza,2025-03-12,13:17,Normal,Cash,Dairy,Cheese,2.0,10.87,21.74,0.0,21.74,384
+6378,City Fresh Store,2025-02-17,18:27,Member,Credit Card,Beverages,Milk,1.0,13.89,13.89,3.9,9.99,406
+7233,City Fresh Store,2025-01-18,16:34,Normal,Digital Wallet,Meat,Cheese,4.0,11.3,45.2,4.7,40.5,60
+3663,ValuePlus Market,2025-01-16,12:42,Member,Digital Wallet,Produce,Onions,5.0,2.51,12.55,0.0,12.55,373
+4326,SuperSave Central,2025-02-24,19:46,Member,Cash,Produce,Chicken,2.0,6.94,13.88,0.0,13.88,447
+4659,GreenGrocer Plaza,2025-02-08,15:30,Normal,Cash,Meat,Onions,1.0,1.53,1.53,0.0,1.53,156
+2131,ValuePlus Market,2025-03-09,17:26,Normal,Cash,Beverages,Onions,3.0,8.4,25.2,3.36,21.84,323
+5763,ValuePlus Market,2025-02-28,19:10,Normal,Credit Card,Meat,Pasta,5.0,4.11,20.55,4.91,15.64,45
+7737,Corner Grocery,2025-03-30,17:48,Normal,Digital Wallet,Beverages,Onions,1.0,13.22,13.22,0.0,13.22,293
+6092,City Fresh Store,2025-03-03,10:48,Normal,Cash,Bakery,Cheese,3.0,2.91,8.73,0.0,8.73,461
+7022,GreenGrocer Plaza,2025-01-13,19:37,Normal,CASH,Bakery,Chicken,1.0,1.52,1.52,0.0,1.52,396
+4159,GreenGrocer Plaza,2025-03-22,17:04,Normal,Cash,Beverages,Bread,5.0,7.59,37.95,1.35,36.6,495
+7159,GreenGrocer Plaza,2025-01-06,14:07,Member,CREDIT CARD,Meat,Onions,4.0,3.6,14.4,0.0,14.4,110
+8318,ValuePlus Market,2025-03-24,11:33,Member,Cash,Bakery,Cheese,4.0,11.46,45.84,4.73,41.11,116
+9445,Corner Grocery,2025-03-18,18:47,Normal,Cash,Meat,Pasta,3.0,13.92,41.76,0.0,41.76,354
+6307,SuperSave Central,2025-03-01,17:51,Normal,Credit Card,Bakery,Pasta,4.0,2.07,8.28,0.0,8.28,434
+9520,ValuePlus Market,2025-03-31,17:55,Member,Credit Card,Meat,Bread,5.0,6.84,34.2,0.0,34.2,300
+4044,SuperSave Central,2025-01-14,19:11,Member,Cash,Meat,Bread,3.0,14.96,44.88,4.59,40.29,358
+6636,Corner Grocery,2025-02-23,18:37,Member,Cash,Dairy,Cheese,1.0,11.39,11.39,2.1,9.29,114
+3892,City Fresh Store,2025-01-04,11:00,Normal,Credit Card,Beverages,Bread,2.0,14.37,28.74,0.0,28.74,230
+6288,GreenGrocer Plaza,2025-02-08,13:30,Normal,Digital Wallet,Produce,Bread,1.0,3.72,3.72,0.0,3.72,85
+6812,SuperSave Central,2025-03-13,12:03,Normal,Credit Card,Beverages,Pasta,5.0,4.49,22.45,0.0,22.45,236
+1654,ValuePlus Market,2025-01-25,18:48,Normal,Digital Wallet,Meat,Cheese,3.0,3.59,10.77,4.0,6.77,93
+6481,SuperSave Central,2025-03-18,09:44,Normal,Cash,Meat,Chicken,1.0,5.58,5.58,1.46,4.12,474
+1759,City Fresh Store,2025-02-01,17:49,Normal,Cash,Beverages,Bread,3.0,11.28,33.84,0.0,33.84,85
+7782,GreenGrocer Plaza,2025-02-28,18:04,Member,Digital Wallet,Meat,Cheese,4.0,3.73,14.92,0.0,14.92,258
+2798,SuperSave Central,2025-03-04,19:29,Member,Credit Card,Bakery,Onions,2.0,8.58,17.16,2.25,14.91,264
+6159,City Fresh Store,2025-02-07,14:55,Normal,Cash,Meat,Pasta,5.0,5.13,25.65,0.96,24.69,59
+9446,ValuePlus Market,2025-02-22,18:23,Member,Digital Wallet,Beverages,Chicken,1.0,12.69,12.69,0.0,12.69,365
+6262,Corner Grocery,2025-03-08,10:58,Normal,Credit Card,Beverages,Pasta,2.0,1.59,3.18,2.83,0.35,467
+4823,ValuePlus Market,2025-01-28,18:02,Normal,Digital Wallet,Beverages,Pasta,5.0,4.51,22.55,3.65,18.9,219
+2876,GreenGrocer Plaza,2025-01-03,11:10,Member,Credit Card,Dairy,Milk,5.0,9.67,48.35,0.0,48.35,167
+7154,ValuePlus Market,2025-03-21,15:44,Normal,Credit Card,Dairy,Cheese,4.0,2.81,11.24,0.0,11.24,337
+8787,ValuePlus Market,2025-01-22,18:03,Normal,Credit Card,Dairy,Onions,3.0,7.8,23.4,0.0,23.4,242
+5516,ValuePlus Market,2025-02-07,11:25,Member,Credit Card,Dairy,Bread,3.0,7.39,22.17,2.12,20.05,380
+4734,ValuePlus Market,2025-03-13,12:26,Normal,Digital Wallet,Dairy,Onions,2.0,13.01,26.02,1.8,24.22,86
+6972,GreenGrocer Plaza,2025-03-13,18:45,Normal,DIGITAL WALLET,Dairy,Cheese,4.0,9.94,39.76,1.81,37.95,232
+7639,City Fresh Store,2025-03-03,18:53,Member,Digital Wallet,Dairy,Pasta,5.0,10.14,50.7,0.0,50.7,130
+6356,SuperSave Central,2025-02-26,17:42,Member,Digital Wallet,Beverages,Milk,4.0,14.35,57.4,4.9,52.5,463
+7380,Corner Grocery,2025-01-06,18:26,Normal,Digital Wallet,Produce,Cheese,4.0,14.76,59.04,0.0,59.04,319
+2008,SuperSave Central,2025-03-19,17:41,Normal,Credit Card,Dairy,Chicken,2.0,10.32,20.64,0.0,20.64,336
+5314,SuperSave Central,2025-02-01,12:50,Normal,Cash,Beverages,Chicken,3.0,8.55,25.65,28.804594089386505,-3.15,350
+3508,Corner Grocery,2025-01-10,14:49,Normal,Cash,Produce,Cheese,4.0,9.71,38.84,0.52,38.32,367
+5758,GreenGrocer Plaza,2025-01-03,12:05,Normal,Digital Wallet,Dairy,Bread,4.0,6.66,26.64,0.0,26.64,116
+3682,Corner Grocery,2025-02-28,19:58,Member,Digital Wallet,Produce,Onions,4.0,14.83,59.32,1.86,57.46,250
+8311,GreenGrocer Plaza,2025-03-17,17:14,Normal,Cash,Produce,Onions,1.0,11.02,11.02,0.0,11.02,444
+1989,SuperSave Central,2025-02-18,15:52,Member,Credit Card,Bakery,Bread,4.0,5.43,21.72,0.0,21.72,37
+9446,GreenGrocer Plaza,2025-02-28,16:29,Member,Digital Wallet,Meat,Milk,4.0,2.28,9.12,0.0,9.12,201
+5711,City Fresh Store,2025-01-31,20:41,Normal,Credit Card,Bakery,Pasta,5.0,2.1,10.5,4.03,6.47,258
+7479,Corner Grocery,2025-03-10,11:36,Normal,Cash,Produce,Pasta,1.0,4.27,4.27,0.0,4.27,373
+7964,City Fresh Store,2025-03-03,17:57,Member,Cash,Beverages,Chicken,4.0,4.64,18.56,0.0,18.56,222
+9075,SuperSave Central,2025-02-21,16:36,Normal,Digital Wallet,Dairy,Milk,4.0,7.1,28.4,0.0,28.4,30
+5452,Corner Grocery,2025-03-30,17:41,Normal,Credit Card,Meat,Bread,2.0,4.4,8.8,1.96,6.84,481
+9447,SuperSave Central,2025-02-10,08:59,Normal,Digital Wallet,Dairy,Cheese,2.0,10.02,20.04,0.0,20.04,164
+2007,City Fresh Store,2025-01-31,19:36,Member,Cash,Beverages,Onions,1.0,4.35,4.35,0.0,4.35,36
+7496,SuperSave Central,2025-03-26,19:34,Normal,Credit Card,Meat,Cheese,5.0,4.04,20.2,1.84,18.36,86
+8688,Corner Grocery,2025-03-25,17:22,Member,Digital Wallet,Bakery,Onions,1.0,7.86,7.86,1.29,6.57,315
+4908,Corner Grocery,2025-01-22,18:05,Member,Digital Wallet,Produce,Cheese,1.0,13.5,13.5,0.0,13.5,422
+3803,SuperSave Central,2025-01-04,19:03,Normal,Digital Wallet,Beverages,Bread,2.0,7.82,15.64,0.0,15.64,432
+5379,Corner Grocery,2025-01-13,18:17,Normal,Cash,Produce,Bread,2.0,7.09,14.18,1.86,12.32,66
+1098,Corner Grocery,2025-02-14,11:59,Normal,Digital Wallet,Produce,Milk,5.0,9.3,46.5,0.0,46.5,128
+9388,SuperSave Central,2025-02-11,17:08,Normal,Credit Card,Dairy,Cheese,4.0,4.97,19.88,23.034594089386506,-3.15,485
+1877,City Fresh Store,2025-02-18,17:48,Member,Digital Wallet,Beverages,Cheese,5.0,6.27,31.35,0.0,31.35,174
+2868,Corner Grocery,2025-01-20,15:28,Normal,Cash,Produce,Milk,4.0,4.39,17.56,0.0,17.56,486
+3665,Corner Grocery,2025-03-18,18:12,Member,Digital Wallet,Bakery,Milk,3.0,9.22,27.66,0.0,27.66,73
+2388,Corner Grocery,2025-03-22,19:58,Normal,Cash,Meat,Bread,2.0,10.91,21.82,4.42,17.4,57
+3415,Corner Grocery,2025-02-23,19:46,Member,Cash,Beverages,Bread,3.0,10.59,31.77,2.95,28.82,159
+9761,SuperSave Central,2025-02-05,16:51,Normal,Credit Card,Dairy,Chicken,3.0,4.94,14.82,1.2,13.62,493
+3637,City Fresh Store,2025-01-01,10:16,Normal,Credit Card,Beverages,Cheese,2.0,12.03,24.06,0.0,24.06,167
+8242,City Fresh Store,2025-01-15,21:44,Normal,Digital Wallet,Dairy,Bread,3.0,4.96,14.88,0.02,14.86,165
+9613,GreenGrocer Plaza,2025-03-18,18:31,Normal,Cash,Meat,Bread,1.0,3.53,3.53,0.0,3.53,160
+3883,Corner Grocery,2025-01-17,11:47,Normal,Cash,Bakery,Cheese,4.0,6.22,24.88,1.04,23.84,234
+2204,Corner Grocery,2025-01-24,19:21,Member,Credit Card,Produce,Milk,5.0,9.57,47.85,0.0,47.85,269
+1544,GreenGrocer Plaza,2025-02-27,19:03,Member,Credit Card,Beverages,Cheese,2.0,3.42,6.84,0.68,6.16,396
+2223,City Fresh Store,2025-03-13,16:04,Normal,Digital Wallet,Dairy,Pasta,1.0,10.25,10.25,1.45,8.8,265
+4172,ValuePlus Market,2025-01-23,17:36,Member,Cash,Meat,Cheese,5.0,13.15,65.75,0.0,65.75,70
+9959,ValuePlus Market,2025-02-15,15:40,Normal,Credit Card,Produce,Pasta,5.0,5.46,27.3,0.0,27.3,361
+7450,City Fresh Store,2025-03-13,09:48,Member,Digital Wallet,Meat,Cheese,5.0,7.58,37.9,0.0,37.9,269
+7520,Corner Grocery,2025-01-08,14:12,Member,Cash,Bakery,Pasta,3.0,4.58,13.74,0.0,13.74,330
+1654,ValuePlus Market,2025-02-28,18:33,Normal,Cash,Produce,Pasta,3.0,6.38,19.14,0.0,19.14,405
+7821,SuperSave Central,2025-03-31,08:44,Normal,CREDIT CARD,Produce,Cheese,3.0,1.8,5.4,0.58,4.82,406
+3446,SuperSave Central,2025-02-28,14:21,Normal,Digital Wallet,Produce,Chicken,3.0,14.38,43.14,0.0,43.14,171
+6892,GreenGrocer Plaza,2025-01-13,15:52,Normal,Credit Card,Dairy,Bread,1.0,7.11,7.11,4.18,2.93,389
+9412,City Fresh Store,2025-02-08,17:58,Normal,Digital Wallet,Produce,Onions,3.0,12.15,36.45,0.0,36.45,452
+4666,City Fresh Store,2025-01-28,19:22,Member,Cash,Meat,Bread,2.0,3.43,6.86,0.0,6.86,358
+5277,ValuePlus Market,2025-03-30,14:50,Member,Digital Wallet,Dairy,Pasta,5.0,12.47,62.35,0.0,62.35,466
+5402,Corner Grocery,2025-03-02,14:02,Normal,Digital Wallet,Produce,Cheese,1.0,13.11,13.11,0.0,13.11,40
+3569,City Fresh Store,2025-01-16,18:41,Normal,Digital Wallet,Meat,Cheese,3.0,11.16,33.48,1.72,31.76,80
+6515,ValuePlus Market,2025-01-02,16:33,Normal,DIGITAL WALLET,Meat,Cheese,5.0,13.69,68.45,0.0,68.45,406
+4985,ValuePlus Market,2025-03-23,12:31,Normal,Digital Wallet,Beverages,Cheese,1.0,3.76,3.76,3.14,0.62,447
+9167,City Fresh Store,2025-01-17,16:44,Member,Credit Card,Meat,Chicken,5.0,7.93,39.65,0.0,39.65,11
+8448,ValuePlus Market,2025-01-30,11:50,Member,Digital Wallet,Bakery,Onions,1.0,9.87,9.87,4.72,5.15,426
+5310,GreenGrocer Plaza,2025-01-13,11:57,Normal,Digital Wallet,Produce,Milk,4.0,9.55,38.2,0.85,37.35,59
+4019,GreenGrocer Plaza,2025-03-23,16:48,Normal,Cash,Produce,Pasta,1.0,13.12,13.12,0.0,13.12,144
+4681,City Fresh Store,2025-01-13,15:20,Member,Digital Wallet,Produce,Onions,3.0,4.41,13.23,0.0,13.23,155
+5196,Corner Grocery,2025-02-12,19:45,Member,Cash,Meat,Bread,5.0,3.87,19.35,0.0,19.35,188
+1572,GreenGrocer Plaza,2025-03-26,14:43,Member,Credit Card,Meat,Milk,5.0,4.92,24.6,4.91,19.69,273
+5753,GreenGrocer Plaza,2025-01-21,17:20,Normal,Credit Card,Produce,Milk,5.0,13.54,67.7,0.0,67.7,320
+8082,City Fresh Store,2025-02-24,17:43,Normal,Digital Wallet,Dairy,Cheese,2.0,14.2,28.4,3.3,25.1,213
+5002,SuperSave Central,2025-03-22,08:10,Normal,Credit Card,Dairy,Onions,2.0,9.19,18.38,0.0,18.38,308
+6629,ValuePlus Market,2025-02-09,17:38,Normal,Digital Wallet,Bakery,Bread,3.0,8.27,24.81,0.0,24.81,196
+9417,GreenGrocer Plaza,2025-03-24,11:03,Normal,CREDIT CARD,Beverages,Cheese,4.0,9.67,38.68,0.0,38.68,39
+5200,SuperSave Central,2025-01-15,20:50,Normal,Digital Wallet,Bakery,Cheese,2.0,9.82,19.64,0.0,19.64,68
+2997,Corner Grocery,2025-03-14,11:00,Member,Digital Wallet,Produce,Chicken,1.0,3.8,3.8,3.33,0.47,18
+9963,SuperSave Central,2025-02-21,15:27,Member,Cash,Produce,Pasta,3.0,10.77,32.31,0.0,32.31,485
+8422,City Fresh Store,2025-03-15,10:23,Member,Cash,Produce,Milk,4.0,7.61,30.44,1.96,28.48,333
+5524,Corner Grocery,2025-02-22,21:34,Normal,Cash,Beverages,Bread,1.0,8.48,8.48,0.91,7.57,176
+9625,Corner Grocery,2025-03-28,16:12,Normal,Cash,Meat,Milk,5.0,1.91,9.55,0.0,9.55,346
+4407,SuperSave Central,2025-02-21,17:46,Normal,Digital Wallet,Beverages,Onions,2.0,11.82,23.64,0.0,23.64,404
+7731,City Fresh Store,2025-01-30,09:33,Normal,Credit Card,Bakery,Pasta,1.0,12.78,12.78,0.0,12.78,388
+8795,GreenGrocer Plaza,2025-02-02,18:10,Member,Digital Wallet,Meat,Cheese,4.0,9.86,39.44,3.05,36.39,395
+3793,SuperSave Central,2025-02-26,12:35,Normal,Cash,Meat,Pasta,3.0,11.61,34.83,0.0,34.83,288
+8334,GreenGrocer Plaza,2025-02-21,19:50,Normal,Cash,Bakery,Cheese,1.0,8.56,8.56,0.0,8.56,200
+3911,,2025-01-09,12:16,Normal,Credit Card,Meat,Pasta,3.0,9.85,29.55,0.0,29.55,251
+8952,GreenGrocer Plaza,2025-02-23,12:34,Member,Cash,Dairy,Cheese,5.0,6.83,34.15,0.0,34.15,287
+3415,SuperSave Central,2025-01-01,09:59,Normal,DIGITAL WALLET,Bakery,Milk,4.0,12.19,48.76,3.75,45.01,454
+1250,Corner Grocery,2025-02-13,16:17,Normal,Digital Wallet,Bakery,Milk,4.0,7.82,31.28,2.15,29.13,163
+5951,ValuePlus Market,2025-03-16,17:39,Normal,Digital Wallet,Dairy,Milk,2.0,10.68,21.36,0.0,21.36,405
+9098,Corner Grocery,2025-03-21,09:21,Normal,Digital Wallet,Beverages,Milk,4.0,9.89,39.56,2.5,37.06,169
+6289,GreenGrocer Plaza,2025-01-09,18:56,Normal,Digital Wallet,Beverages,Pasta,1.0,10.98,10.98,3.3,7.68,274
+9102,City Fresh Store,2025-02-01,16:23,Member,Credit Card,Beverages,Cheese,1.0,12.1,12.1,0.0,12.1,244
+8257,Corner Grocery,2025-01-15,16:57,Member,Digital Wallet,Meat,Milk,1.0,8.42,8.42,3.43,4.99,462
+6565,ValuePlus Market,2025-01-12,16:18,Member,Cash,Dairy,Pasta,5.0,12.48,62.4,0.0,62.4,355
+7437,GreenGrocer Plaza,2025-03-19,15:36,Member,Cash,Bakery,Cheese,4.0,8.21,32.84,2.05,30.79,208
+2173,Corner Grocery,2025-02-26,17:38,Normal,Cash,Bakery,Pasta,4.0,14.41,57.64,4.32,53.32,486
+9624,SuperSave Central,2025-01-08,11:20,Normal,Cash,Bakery,Chicken,1.0,11.66,11.66,1.64,10.02,42
+1835,City Fresh Store,2025-03-13,12:07,Normal,Credit Card,Meat,Milk,2.0,3.81,7.62,0.0,7.62,417
+3262,GreenGrocer Plaza,2025-01-27,19:27,Member,CASH,Meat,Onions,2.0,12.7,25.4,0.86,24.54,98
+5567,Corner Grocery,2025-03-03,20:04,Normal,Credit Card,Beverages,Pasta,4.0,8.95,35.8,0.0,35.8,104
+4815,GreenGrocer Plaza,2025-01-12,14:16,Member,Cash,Meat,Milk,4.0,14.79,59.16,0.0,59.16,230
+1246,SuperSave Central,2025-03-06,13:36,Member,Credit Card,Beverages,Bread,3.0,11.2,33.6,3.99,29.61,78
+3429,ValuePlus Market,2025-02-11,17:35,Normal,Credit Card,Beverages,Cheese,4.0,2.64,10.56,3.66,6.9,303
+6287,Corner Grocery,2025-03-03,15:53,Normal,Credit Card,Bakery,Chicken,1.0,6.83,6.83,0.0,6.83,246
+3607,GreenGrocer Plaza,2025-01-11,08:18,Member,Cash,Meat,Milk,5.0,8.48,42.4,1.18,41.22,404
+6930,GreenGrocer Plaza,2025-02-12,11:26,Member,Credit Card,Beverages,Bread,4.0,12.83,51.32,0.0,51.32,169
+5022,GreenGrocer Plaza,2025-01-17,18:52,Normal,Digital Wallet,Dairy,Pasta,4.0,11.35,45.4,0.0,45.4,329
+5784,ValuePlus Market,2025-02-01,17:33,Member,Digital Wallet,Dairy,Pasta,1.0,6.49,6.49,2.11,4.38,337
+7617,GreenGrocer Plaza,2025-03-26,08:10,Member,Cash,Meat,Bread,3.0,10.32,30.96,0.0,30.96,285
+4151,City Fresh Store,2025-03-26,12:53,Normal,Digital Wallet,Bakery,Chicken,4.0,9.29,37.16,0.0,37.16,299
+6580,City Fresh Store,2025-02-09,12:44,Member,Digital Wallet,Bakery,Bread,2.0,3.2,6.4,1.26,5.14,376
+8054,GreenGrocer Plaza,2025-01-23,17:46,Member,Digital Wallet,Beverages,Cheese,2.0,4.67,9.34,0.0,9.34,51
+8706,City Fresh Store,2025-02-25,08:11,Normal,Cash,Meat,Pasta,2.0,6.11,12.22,0.0,12.22,401
+8619,Corner Grocery,2025-01-06,10:53,Normal,Cash,Dairy,Bread,5.0,4.14,20.7,23.854594089386506,-3.15,75
+5573,City Fresh Store,2025-03-27,18:20,Normal,Digital Wallet,Beverages,Onions,5.0,3.53,17.65,2.63,15.02,30
+4491,GreenGrocer Plaza,2025-02-19,11:53,Member,Cash,Beverages,Onions,4.0,2.29,9.16,4.2,4.96,344
+1706,SuperSave Central,2025-02-06,17:10,Member,Credit Card,Produce,Bread,4.0,13.29,53.16,0.0,53.16,79
+7997,Corner Grocery,2025-03-05,12:38,Member,Digital Wallet,Meat,Cheese,4.0,5.4,21.6,0.0,21.6,270
+6233,ValuePlus Market,2025-02-23,10:27,Member,Cash,Beverages,Pasta,5.0,5.42,27.1,0.4,26.7,255
+9945,GreenGrocer Plaza,2025-03-13,12:04,Normal,Cash,Dairy,Onions,4.0,4.28,17.12,4.24,12.88,332
+6755,ValuePlus Market,2025-02-18,18:16,Normal,Digital Wallet,Produce,Bread,1.0,7.92,7.92,0.0,7.92,244
+7960,SuperSave Central,2025-01-11,18:55,Normal,Cash,Dairy,Bread,3.0,8.44,25.32,0.0,25.32,436
+9779,ValuePlus Market,2025-03-29,18:19,Member,Digital Wallet,Bakery,Milk,2.0,4.31,8.62,1.79,6.83,281
+2334,GreenGrocer Plaza,2025-02-18,15:40,Member,Cash,Produce,Bread,2.0,9.72,19.44,0.0,19.44,108
+6588,GreenGrocer Plaza,2025-01-21,17:45,Normal,Credit Card,Produce,Cheese,1.0,11.26,11.26,0.0,11.26,338
+2847,SuperSave Central,2025-03-07,12:57,Member,Digital Wallet,Beverages,Onions,4.0,6.55,26.2,2.93,23.27,44
+7851,GreenGrocer Plaza,2025-03-04,13:11,Normal,Credit Card,Bakery,Milk,5.0,9.4,47.0,0.0,47.0,348
+8211,SuperSave Central,2025-03-24,19:05,Normal,Digital Wallet,Beverages,Onions,4.0,8.28,33.12,0.0,33.12,180
+8865,SuperSave Central,2025-01-28,08:16,Normal,Cash,Meat,Onions,4.0,4.14,16.56,1.56,15.0,119
+4317,GreenGrocer Plaza,2025-01-17,10:50,Normal,Credit Card,Dairy,Cheese,2.0,11.36,22.72,0.0,22.72,491
+7811,City Fresh Store,2025-01-06,12:18,Normal,Cash,Dairy,Bread,2.0,12.32,24.64,0.0,24.64,304
+1164,SuperSave Central,2025-01-19,08:25,Member,Digital Wallet,Beverages,Cheese,5.0,10.26,51.3,0.0,51.3,19
+8060,GreenGrocer Plaza,2025-02-25,12:47,Member,Digital Wallet,Dairy,Bread,2.0,5.87,11.74,1.71,10.03,211
+4057,,2025-01-28,17:43,Normal,Digital Wallet,Dairy,Milk,4.0,14.01,56.04,3.38,52.66,413
+5428,SuperSave Central,2025-03-07,15:43,Member,Digital Wallet,Meat,Cheese,1.0,7.65,7.65,0.0,7.65,266
+1402,City Fresh Store,2025-02-07,19:51,Normal,Digital Wallet,Bakery,Cheese,5.0,5.09,25.45,1.75,23.7,271
+9605,Corner Grocery,2025-02-06,18:31,Normal,Credit Card,Produce,Chicken,1.0,7.01,7.01,0.0,7.01,190
+9236,Corner Grocery,2025-03-09,14:05,Normal,Digital Wallet,Beverages,Pasta,4.0,10.84,43.36,0.0,43.36,439
+7349,City Fresh Store,2025-03-27,12:54,Normal,Cash,Beverages,Cheese,5.0,12.92,64.6,2.46,62.14,75
+5157,SuperSave Central,2025-03-31,14:57,Member,Credit Card,Meat,Chicken,1.0,6.31,6.31,0.0,6.31,303
+1867,GreenGrocer Plaza,2025-02-18,17:35,Normal,Cash,Meat,Pasta,5.0,4.64,23.2,0.28,22.92,170
+9210,ValuePlus Market,2025-02-12,13:37,Normal,Digital Wallet,Produce,Bread,4.0,9.96,39.84,4.56,35.28,76
+1364,GreenGrocer Plaza,2025-02-05,17:10,Normal,Cash,Bakery,Bread,5.0,13.94,69.7,0.0,69.7,109
+8467,ValuePlus Market,2025-02-27,15:32,Member,Credit Card,Beverages,Bread,4.0,3.97,15.88,2.13,13.75,86
+7571,ValuePlus Market,2025-01-13,17:23,Normal,Credit Card,Meat,Chicken,5.0,12.34,61.7,0.0,61.7,44
+1579,SuperSave Central,2025-02-21,15:22,Member,Credit Card,Beverages,Chicken,5.0,7.93,39.65,0.83,38.82,472
+8674,City Fresh Store,2025-02-27,13:14,Normal,Cash,Dairy,Pasta,2.0,12.29,24.58,0.0,24.58,54
+9737,GreenGrocer Plaza,2025-02-01,20:26,Member,Credit Card,Beverages,Bread,4.0,8.32,33.28,0.0,33.28,159
+7468,City Fresh Store,2025-03-22,18:10,Normal,Cash,Bakery,Onions,3.0,6.59,19.77,2.95,16.82,77
+5150,Corner Grocery,2025-03-01,11:56,Member,Digital Wallet,Bakery,Cheese,5.0,10.91,54.55,3.43,51.12,263
+4039,SuperSave Central,2025-03-24,19:50,Member,Digital Wallet,Beverages,Chicken,1.0,13.66,13.66,0.0,13.66,26
+5137,SuperSave Central,2025-02-27,16:49,Member,Cash,Dairy,Chicken,2.0,5.82,11.64,0.0,11.64,270
+1452,Corner Grocery,2025-02-25,19:16,Member,Credit Card,Bakery,Chicken,2.0,7.72,15.44,0.0,15.44,222
+7537,GreenGrocer Plaza,2025-01-28,18:50,Member,Cash,Meat,Pasta,5.0,4.6,23.0,0.0,23.0,322
+2381,Corner Grocery,2025-01-01,15:52,Normal,Cash,Beverages,Bread,3.0,3.98,11.94,0.0,11.94,265
+9154,GreenGrocer Plaza,2025-02-11,08:13,Normal,Cash,Dairy,Onions,2.0,12.0,24.0,3.45,20.55,225
+2467,ValuePlus Market,2025-03-23,13:26,Normal,Digital Wallet,Meat,Cheese,4.0,4.21,16.84,0.0,16.84,360
+3738,SuperSave Central,2025-02-17,17:17,Normal,Cash,Beverages,Cheese,5.0,12.21,61.05,2.79,58.26,433
+8572,GreenGrocer Plaza,2025-02-09,17:27,Member,Digital Wallet,Dairy,Bread,5.0,7.29,36.45,0.0,36.45,295
+7747,City Fresh Store,2025-03-04,12:50,Member,Cash,Meat,Onions,3.0,14.93,44.79,4.49,40.3,435
+1880,City Fresh Store,2025-03-17,11:46,Member,Digital Wallet,Bakery,Pasta,4.0,4.16,16.64,0.0,16.64,16
+4149,SuperSave Central,2025-03-13,18:46,Normal,Cash,Beverages,Chicken,4.0,2.76,11.04,3.88,7.16,389
+9276,Corner Grocery,2025-03-29,21:03,Normal,Cash,Beverages,Chicken,3.0,2.52,7.56,0.0,7.56,208
+8892,Corner Grocery,2025-03-21,16:06,Member,Credit Card,Bakery,Bread,1.0,12.78,12.78,0.78,12.0,100
+5144,GreenGrocer Plaza,2025-01-04,11:44,Member,Credit Card,Produce,Cheese,4.0,7.41,29.64,0.0,29.64,481
+2168,Corner Grocery,2025-02-07,13:34,Normal,Cash,Meat,Chicken,1.0,1.54,1.54,0.0,1.54,156
+4129,SuperSave Central,2025-01-27,08:47,Normal,Cash,Bakery,Cheese,1.0,13.31,13.31,0.0,13.31,434
+4645,GreenGrocer Plaza,2025-01-09,19:08,Normal,Cash,Beverages,Cheese,5.0,13.34,66.7,0.0,66.7,427
+3526,ValuePlus Market,2025-01-16,10:07,Normal,Cash,Meat,Bread,5.0,12.39,61.95,1.47,60.48,159
+4516,Corner Grocery,2025-02-25,17:51,Normal,Credit Card,Meat,Milk,2.0,4.85,9.7,0.0,9.7,61
+4367,Corner Grocery,2025-03-17,13:44,Member,Digital Wallet,Produce,Milk,5.0,6.53,32.65,0.94,31.71,252
+8338,GreenGrocer Plaza,2025-01-31,17:16,Normal,Cash,Beverages,Milk,4.0,11.56,46.24,0.0,46.24,228
+4555,City Fresh Store,2025-03-29,17:16,Normal,Credit Card,Dairy,Onions,4.0,8.11,32.44,0.0,32.44,15
+6111,Corner Grocery,2025-01-14,18:48,Normal,Cash,Produce,Bread,1.0,3.58,3.58,3.74,-0.16,467
+7752,SuperSave Central,2025-01-25,12:32,Normal,Cash,Produce,Cheese,4.0,4.78,19.12,2.53,16.59,118
+1445,Corner Grocery,2025-02-03,08:31,Member,Digital Wallet,Dairy,Chicken,5.0,14.63,73.15,0.0,73.15,360
+7364,ValuePlus Market,2025-03-08,11:07,Member,Cash,Dairy,Onions,5.0,3.54,17.7,2.78,14.92,418
+4626,Corner Grocery,2025-01-24,19:18,Member,Cash,Produce,Milk,5.0,11.3,56.5,1.77,54.73,75
+5016,City Fresh Store,2025-03-14,19:37,Member,Digital Wallet,Meat,Pasta,3.0,7.95,23.85,4.19,19.66,19
+4875,Corner Grocery,2025-01-26,17:02,Normal,Digital Wallet,Bakery,Onions,4.0,11.61,46.44,0.0,46.44,211
+6497,GreenGrocer Plaza,2025-01-20,17:58,Normal,DIGITAL WALLET,Bakery,Onions,2.0,10.43,20.86,0.15,20.71,291
+7238,Corner Grocery,2025-03-05,17:04,Normal,Digital Wallet,Produce,Bread,4.0,7.43,29.72,0.0,29.72,398
+1261,City Fresh Store,2025-01-10,11:12,Member,Credit Card,Meat,Chicken,4.0,6.28,25.12,0.37,24.75,223
+5992,GreenGrocer Plaza,2025-03-24,19:46,Normal,Credit Card,Dairy,Onions,3.0,11.68,35.04,0.0,35.04,77
+5025,SuperSave Central,2025-03-08,15:45,Member,Credit Card,Produce,Chicken,4.0,5.86,23.44,2.19,21.25,256
+9283,GreenGrocer Plaza,2025-01-24,15:30,Normal,Cash,Beverages,Bread,1.0,12.13,12.13,1.25,10.88,363
+5222,ValuePlus Market,2025-01-05,16:54,Member,Digital Wallet,Meat,Pasta,5.0,10.68,53.4,0.0,53.4,336
+5175,GreenGrocer Plaza,2025-03-08,09:15,Member,Digital Wallet,Beverages,Cheese,5.0,9.3,46.5,0.0,46.5,59
+4443,SuperSave Central,2025-02-27,11:49,Normal,Credit Card,Beverages,Cheese,3.0,6.48,19.44,4.29,15.15,26
+6011,Corner Grocery,2025-01-27,18:31,Normal,Cash,Produce,Milk,5.0,4.27,21.35,0.0,21.35,20
+1693,GreenGrocer Plaza,2025-03-21,10:21,Member,Cash,Meat,Milk,1.0,11.09,11.09,0.0,11.09,318
+9347,GreenGrocer Plaza,2025-01-15,17:28,Member,Cash,Beverages,Pasta,3.0,2.73,8.19,0.0,8.19,315
+2812,GreenGrocer Plaza,2025-02-04,12:21,Normal,Credit Card,Meat,Cheese,2.0,14.6,29.2,0.01,29.19,401
+6724,GreenGrocer Plaza,2025-03-17,15:42,Member,Cash,Bakery,Milk,5.0,14.71,73.55,2.36,71.19,485
+2407,SuperSave Central,2025-02-22,13:02,Normal,Cash,Beverages,Chicken,4.0,3.26,13.04,4.47,8.57,133
+9032,City Fresh Store,2025-02-13,14:53,Normal,Cash,Beverages,Onions,1.0,2.9,2.9,0.0,2.9,234
+2410,City Fresh Store,2025-01-26,18:09,Normal,Digital Wallet,Meat,Bread,1.0,7.07,7.07,0.0,7.07,253
+4497,GreenGrocer Plaza,2025-02-16,13:41,Normal,Credit Card,Bakery,Milk,5.0,14.51,72.55,0.0,72.55,327
+5372,SuperSave Central,2025-02-03,17:20,Member,Digital Wallet,Beverages,Pasta,2.0,6.9,13.8,4.68,9.12,482
+8394,SuperSave Central,2025-03-28,16:15,Member,Digital Wallet,Produce,Cheese,4.0,6.41,25.64,0.0,25.64,478
+1551,GreenGrocer Plaza,2025-02-19,17:11,Member,Credit Card,Meat,Pasta,2.0,11.0,22.0,0.0,22.0,341
+5332,ValuePlus Market,2025-03-25,19:01,Normal,Digital Wallet,Meat,Bread,2.0,3.91,7.82,1.17,6.65,388
+1997,GreenGrocer Plaza,2025-01-12,18:40,Member,Cash,Beverages,Bread,5.0,6.4,32.0,4.27,27.73,355
+5076,ValuePlus Market,2025-03-28,12:23,Normal,Cash,Bakery,Pasta,4.0,5.43,21.72,0.0,21.72,38
+7099,GreenGrocer Plaza,2025-01-04,09:34,Member,Cash,Beverages,Milk,5.0,9.62,48.1,0.0,48.1,367
+6555,ValuePlus Market,2025-03-28,13:55,Member,Cash,Dairy,Milk,5.0,3.7,18.5,0.0,18.5,492
+5052,ValuePlus Market,2025-02-17,17:29,Member,Credit Card,Beverages,Cheese,1.0,8.91,8.91,1.16,7.75,366
+6303,GreenGrocer Plaza,2025-02-24,09:56,Member,Digital Wallet,Dairy,Chicken,5.0,13.08,65.4,0.0,65.4,375
+9118,ValuePlus Market,2025-01-01,16:29,Member,Digital Wallet,Produce,Cheese,3.0,8.44,25.32,1.45,23.87,437
+7102,Corner Grocery,2025-03-30,17:46,Member,Cash,Meat,Onions,4.0,10.73,42.92,0.0,42.92,374
+6490,City Fresh Store,2025-03-07,14:34,Member,Cash,Meat,Chicken,1.0,2.52,2.52,3.13,-0.61,438
+9564,SuperSave Central,2025-01-30,18:18,Normal,Digital Wallet,Bakery,Onions,4.0,7.56,30.24,0.0,30.24,294
+6616,ValuePlus Market,2025-01-03,10:49,Normal,CREDIT CARD,Beverages,Cheese,1.0,2.78,2.78,0.0,2.78,481
+3248,ValuePlus Market,2025-01-21,10:07,Member,Digital Wallet,Produce,Chicken,3.0,9.59,28.77,2.37,26.4,68
+1848,SuperSave Central,2025-03-30,18:25,Normal,Cash,Dairy,Chicken,5.0,5.29,26.45,3.93,22.52,152
+7354,ValuePlus Market,2025-03-25,16:48,Normal,Cash,Bakery,Onions,1.0,5.38,5.38,1.13,4.25,335
+9695,SuperSave Central,2025-02-18,18:39,Normal,Credit Card,Produce,Pasta,1.0,2.54,2.54,1.09,1.45,361
+9070,GreenGrocer Plaza,2025-03-27,15:06,Normal,Digital Wallet,Produce,Milk,1.0,5.69,5.69,0.0,5.69,309
+9894,Corner Grocery,2025-03-26,12:29,Member,Credit Card,Dairy,Chicken,3.0,8.34,25.02,0.0,25.02,235
+4625,Corner Grocery,2025-03-03,18:06,Normal,Credit Card,Dairy,Chicken,4.0,9.39,37.56,0.0,37.56,173
+1314,City Fresh Store,2025-02-07,18:02,Normal,Cash,Meat,Onions,3.0,2.4,7.2,1.79,5.41,93
+3376,ValuePlus Market,2025-01-15,18:00,Member,Digital Wallet,Beverages,Chicken,1.0,10.29,10.29,0.0,10.29,386
+5378,City Fresh Store,2025-02-21,13:35,Normal,Cash,Bakery,Onions,1.0,8.1,8.1,0.0,8.1,322
+9449,GreenGrocer Plaza,2025-03-20,17:24,Member,Digital Wallet,Beverages,Pasta,5.0,8.75,43.75,0.0,43.75,126
+1574,Corner Grocery,2025-02-15,14:36,Normal,Cash,Bakery,Chicken,3.0,12.74,38.22,0.42,37.8,329
+6585,GreenGrocer Plaza,2025-01-25,10:00,Normal,Cash,Produce,Bread,3.0,6.12,18.36,1.02,17.34,213
+6492,GreenGrocer Plaza,2025-01-21,19:14,Normal,Digital Wallet,Dairy,Cheese,2.0,3.85,7.7,0.72,6.98,364
+9949,ValuePlus Market,2025-03-29,11:36,Normal,Digital Wallet,Dairy,Pasta,4.0,8.95,35.8,0.0,35.8,303
+3810,GreenGrocer Plaza,2025-01-05,20:12,Normal,Cash,Produce,Bread,2.0,14.26,28.52,2.89,25.63,154
+9134,Corner Grocery,2025-03-11,16:39,Normal,Digital Wallet,Produce,Pasta,2.0,8.49,16.98,0.0,16.98,36
+6670,City Fresh Store,2025-02-16,12:07,Normal,Cash,Bakery,Milk,4.0,12.73,50.92,0.0,50.92,26
+8715,Corner Grocery,2025-03-28,17:04,Normal,Digital Wallet,Produce,Pasta,5.0,11.72,58.6,0.0,58.6,72
+7567,ValuePlus Market,2025-03-09,19:59,Normal,Cash,Bakery,Pasta,5.0,8.5,42.5,0.0,42.5,276
+4459,Corner Grocery,2025-01-18,18:08,Normal,Cash,Beverages,Milk,4.0,10.24,40.96,2.05,38.91,73
+7117,SuperSave Central,2025-01-21,18:00,Normal,Cash,Dairy,Chicken,4.0,6.99,27.96,4.52,23.44,48
+4992,City Fresh Store,2025-03-27,17:35,Normal,Credit Card,Dairy,Cheese,3.0,8.66,25.98,0.0,25.98,139
+8837,SuperSave Central,2025-01-23,18:34,Normal,Digital Wallet,Dairy,Bread,3.0,8.35,25.05,3.84,21.21,124
+1203,SuperSave Central,2025-03-05,18:01,Member,Cash,Beverages,Onions,3.0,11.07,33.21,0.0,33.21,459
+3775,ValuePlus Market,2025-03-08,12:39,Normal,Credit Card,Beverages,Cheese,3.0,7.03,21.09,0.0,21.09,447
+2992,GreenGrocer Plaza,2025-02-09,16:22,Member,Cash,Meat,Pasta,1.0,2.85,2.85,0.0,2.85,422
+3243,SuperSave Central,2025-01-10,12:08,Member,Credit Card,Bakery,Onions,1.0,12.15,12.15,0.0,12.15,54
+9498,Corner Grocery,2025-03-30,21:33,Member,CASH,Bakery,Milk,5.0,10.75,53.75,0.0,53.75,225
+2687,GreenGrocer Plaza,2025-02-21,20:45,Normal,Cash,Meat,Cheese,1.0,14.33,14.33,2.26,12.07,97
+5109,Corner Grocery,2025-03-13,09:13,Normal,Credit Card,Dairy,Chicken,1.0,7.29,7.29,4.24,3.05,345
+2860,Corner Grocery,2025-03-16,18:03,Normal,Credit Card,Bakery,Bread,3.0,2.56,7.68,3.11,4.57,424
+6176,GreenGrocer Plaza,2025-03-02,19:29,Normal,Digital Wallet,Bakery,Cheese,3.0,3.14,9.42,0.0,9.42,186
+1722,GreenGrocer Plaza,2025-03-05,12:30,Normal,Digital Wallet,Dairy,Cheese,4.0,11.94,47.76,1.06,46.7,274
+9971,Corner Grocery,2025-01-05,17:37,Normal,Credit Card,Produce,Chicken,3.0,2.41,7.23,0.03,7.2,420
+9720,ValuePlus Market,2025-02-22,19:10,Member,Digital Wallet,Produce,Onions,4.0,13.76,55.04,3.55,51.49,449
+5893,City Fresh Store,2025-02-24,09:34,Member,Credit Card,Meat,Milk,4.0,5.3,21.2,0.0,21.2,114
+1343,City Fresh Store,2025-02-06,18:07,Member,Digital Wallet,Beverages,Chicken,1.0,13.63,13.63,4.75,8.88,390
+6398,ValuePlus Market,2025-02-25,13:02,Normal,Cash,Bakery,Milk,3.0,11.94,35.82,3.57,32.25,343
+9400,GreenGrocer Plaza,2025-02-28,19:13,Normal,Digital Wallet,Bakery,Chicken,1.0,13.26,13.26,0.52,12.74,310
+5736,Corner Grocery,2025-03-10,20:59,Normal,Cash,Meat,Cheese,3.0,4.39,13.17,0.0,13.17,482
+4406,City Fresh Store,2025-03-14,20:12,Normal,Cash,Meat,Milk,1.0,9.54,9.54,0.0,9.54,180
+1919,Corner Grocery,2025-02-28,16:44,Member,Digital Wallet,Bakery,Onions,1.0,2.76,2.76,0.0,2.76,117
+6819,ValuePlus Market,2025-01-02,19:31,Member,Credit Card,Dairy,Onions,1.0,4.23,4.23,0.0,4.23,415
+3044,Corner Grocery,2025-03-06,18:33,Member,Cash,Dairy,Bread,5.0,5.68,28.4,0.0,28.4,364
+1418,ValuePlus Market,2025-03-01,13:44,Member,Cash,Beverages,Milk,1.0,11.5,11.5,1.56,9.94,170
+2749,GreenGrocer Plaza,2025-02-20,18:18,Member,Digital Wallet,Bakery,Bread,2.0,1.83,3.66,0.0,3.66,292
+8378,ValuePlus Market,2025-01-30,09:58,Member,Credit Card,Bakery,Chicken,2.0,13.69,27.38,0.0,27.38,49
+2099,ValuePlus Market,2025-01-11,17:37,Normal,Credit Card,Bakery,Pasta,2.0,2.46,4.92,0.0,4.92,35
+4392,City Fresh Store,2025-03-17,12:15,Member,Digital Wallet,Bakery,Onions,4.0,6.58,26.32,0.0,26.32,92
+3772,Corner Grocery,2025-02-08,11:01,Normal,Credit Card,Meat,Cheese,1.0,2.59,2.59,0.0,2.59,182
+7784,City Fresh Store,2025-03-31,10:39,Normal,Digital Wallet,Produce,Onions,2.0,11.88,23.76,0.0,23.76,496
+2545,SuperSave Central,2025-03-18,18:16,Member,Digital Wallet,Bakery,Pasta,4.0,3.41,13.64,0.0,13.64,182
+2070,ValuePlus Market,2025-03-13,14:54,Normal,Digital Wallet,Produce,Cheese,2.0,13.44,26.88,4.47,22.41,291
+7522,SuperSave Central,2025-03-04,18:33,Member,Cash,Dairy,Milk,3.0,8.66,25.98,0.0,25.98,79
+2850,City Fresh Store,2025-03-05,09:41,Normal,Cash,Beverages,Milk,5.0,14.3,71.5,0.62,70.88,332
+6053,Corner Grocery,2025-03-02,13:59,Normal,Cash,Dairy,Onions,1.0,5.42,5.42,2.52,2.9,15
+3939,City Fresh Store,2025-02-23,17:15,Member,Digital Wallet,Bakery,Cheese,5.0,7.63,38.15,0.0,38.15,293
+8194,Corner Grocery,2025-03-14,18:37,Normal,Cash,Dairy,Chicken,5.0,10.87,54.35,3.03,51.32,204
+6851,Corner Grocery,2025-02-27,13:59,Normal,Cash,Meat,Cheese,3.0,12.73,38.19,0.0,38.19,22
+7673,GreenGrocer Plaza,2025-03-26,17:01,Normal,Cash,Produce,Bread,3.0,7.19,21.57,0.0,21.57,72
+1678,ValuePlus Market,2025-02-25,19:01,Normal,Digital Wallet,Bakery,Pasta,3.0,13.55,40.65,0.0,40.65,22
+1988,City Fresh Store,2025-02-03,17:25,Member,Digital Wallet,Meat,Milk,4.0,3.09,12.36,0.0,12.36,258
+2502,Corner Grocery,2025-01-31,12:12,Normal,Digital Wallet,Produce,Onions,2.0,11.07,22.14,4.82,17.32,214
+2789,City Fresh Store,2025-02-21,08:55,Member,Cash,Meat,Cheese,1.0,6.2,6.2,0.0,6.2,394
+6281,City Fresh Store,2025-03-30,19:46,Member,Credit Card,Dairy,Milk,3.0,2.87,8.61,0.0,8.61,262
+6027,Corner Grocery,2025-03-17,08:30,Member,Cash,Bakery,Onions,1.0,6.72,6.72,0.0,6.72,49
+2425,SuperSave Central,2025-01-01,19:59,Member,Cash,Dairy,Milk,1.0,13.38,13.38,0.0,13.38,174
+7654,ValuePlus Market,2025-02-24,16:33,Normal,Digital Wallet,Beverages,Onions,1.0,14.74,14.74,1.61,13.13,40
+3440,ValuePlus Market,2025-01-22,19:38,Normal,Digital Wallet,Bakery,Milk,3.0,6.8,20.4,0.0,20.4,26
+7856,GreenGrocer Plaza,2025-02-09,18:02,Normal,Cash,Dairy,Chicken,3.0,13.47,40.41,0.0,40.41,146
+8367,GreenGrocer Plaza,2025-01-01,21:07,Member,Cash,Bakery,Bread,2.0,8.38,16.76,19.914594089386508,-3.15,374
+3594,GreenGrocer Plaza,2025-03-06,14:22,Normal,Credit Card,Produce,Pasta,3.0,11.18,33.54,0.0,33.54,329
+5689,ValuePlus Market,2025-03-04,18:13,Normal,Credit Card,Bakery,Milk,3.0,2.11,6.33,0.0,6.33,322
+3436,SuperSave Central,2025-02-23,15:55,Member,Digital Wallet,Bakery,Pasta,1.0,9.02,9.02,0.0,9.02,406
+6517,ValuePlus Market,2025-02-11,16:54,Member,Credit Card,Produce,Milk,2.0,2.45,4.9,0.0,4.9,174
+7310,ValuePlus Market,2025-01-21,17:26,Normal,Credit Card,Dairy,Cheese,5.0,5.13,25.65,2.19,23.46,407
+4539,ValuePlus Market,2025-03-20,19:53,Normal,Digital Wallet,Bakery,Bread,3.0,9.15,27.45,0.0,27.45,468
+4483,ValuePlus Market,2025-03-22,21:28,Normal,Credit Card,Meat,Chicken,3.0,12.4,37.2,0.87,36.33,290
+8371,SuperSave Central,2025-01-22,18:38,Normal,Cash,Bakery,Bread,5.0,9.07,45.35,3.13,42.22,232
+3241,GreenGrocer Plaza,2025-02-07,15:52,Normal,Credit Card,Dairy,Pasta,1.0,14.14,14.14,1.94,12.2,131
+7378,City Fresh Store,2025-03-21,15:38,Member,Digital Wallet,Produce,Cheese,2.0,12.44,24.88,0.0,24.88,87
+3765,GreenGrocer Plaza,2025-01-08,18:00,Normal,Cash,Dairy,Onions,1.0,3.61,3.61,4.6,-0.99,322
+5911,GreenGrocer Plaza,2025-03-03,12:16,Member,Credit Card,Beverages,Bread,4.0,6.75,27.0,2.02,24.98,336
+1403,City Fresh Store,2025-02-16,10:40,Normal,Cash,Bakery,Chicken,3.0,10.52,31.56,2.96,28.6,97
+4382,ValuePlus Market,2025-01-17,14:29,Normal,Cash,Bakery,Cheese,4.0,14.17,56.68,0.0,56.68,122
+5163,SuperSave Central,2025-01-17,13:52,Normal,Credit Card,Produce,Cheese,3.0,14.83,44.49,0.0,44.49,109
+8630,SuperSave Central,2025-03-31,13:12,Normal,Credit Card,Bakery,Pasta,4.0,11.8,47.2,4.1,43.1,435
+1087,GreenGrocer Plaza,2025-01-13,12:20,Normal,Digital Wallet,Meat,Chicken,5.0,9.25,46.25,0.0,46.25,435
+6816,City Fresh Store,2025-01-17,09:18,Normal,Digital Wallet,Meat,Cheese,3.0,11.71,35.13,0.0,35.13,312
+6470,Corner Grocery,2025-02-07,08:52,Normal,Cash,Dairy,Cheese,3.0,5.19,15.57,0.0,15.57,381
+7276,ValuePlus Market,2025-03-22,21:18,Normal,Digital Wallet,Produce,Onions,4.0,5.33,21.32,0.6,20.72,437
+6739,GreenGrocer Plaza,2025-03-19,15:56,Normal,Cash,Beverages,Pasta,2.0,10.33,20.66,0.0,20.66,434
+5273,SuperSave Central,2025-02-14,15:24,Member,Cash,Dairy,Pasta,4.0,13.27,53.08,4.04,49.04,396
+7523,City Fresh Store,2025-01-06,17:21,Normal,Digital Wallet,Produce,Chicken,3.0,14.59,43.77,0.0,43.77,248
+6003,City Fresh Store,2025-02-04,12:30,Normal,Digital Wallet,Produce,Cheese,3.0,6.11,18.33,0.0,18.33,355
+9038,GreenGrocer Plaza,2025-01-14,20:16,Member,Digital Wallet,Dairy,Onions,2.0,12.25,24.5,0.0,24.5,120
+7606,Corner Grocery,2025-03-13,18:54,Normal,Credit Card,Dairy,Milk,1.0,13.0,13.0,2.61,10.39,99
+3064,SuperSave Central,2025-03-02,10:22,Normal,Cash,Bakery,Bread,2.0,9.91,19.82,0.0,19.82,394
+6315,GreenGrocer Plaza,2025-01-15,15:31,Normal,CASH,Beverages,Pasta,1.0,6.19,6.19,0.0,6.19,472
+1317,Corner Grocery,2025-02-23,19:09,Member,Cash,Meat,Onions,3.0,9.86,29.58,0.0,29.58,148
+2502,City Fresh Store,2025-01-27,20:09,Normal,DIGITAL WALLET,Bakery,Chicken,5.0,9.39,46.95,0.0,46.95,494
+7130,ValuePlus Market,2025-01-13,16:35,Normal,Digital Wallet,Produce,Onions,5.0,9.69,48.45,1.05,47.4,144
+8419,SuperSave Central,2025-01-31,17:07,Normal,Digital Wallet,Beverages,Cheese,4.0,9.86,39.44,0.0,39.44,21
+3042,SuperSave Central,2025-02-04,11:53,Member,Digital Wallet,Beverages,Bread,2.0,12.94,25.88,0.0,25.88,253
+5598,Corner Grocery,2025-03-01,21:51,Member,Digital Wallet,Dairy,Pasta,2.0,3.8,7.6,0.0,7.6,431
+1118,GreenGrocer Plaza,2025-01-06,12:19,Normal,Credit Card,Beverages,Milk,5.0,6.46,32.3,0.0,32.3,191
+1709,City Fresh Store,2025-03-10,20:31,Normal,Digital Wallet,Beverages,Cheese,1.0,9.41,9.41,3.85,5.56,204
+4557,Corner Grocery,2025-03-27,17:49,Member,Cash,Produce,Pasta,2.0,5.32,10.64,0.0,10.64,371
+4250,ValuePlus Market,2025-02-27,17:13,Member,Digital Wallet,Bakery,Chicken,1.0,14.71,14.71,0.0,14.71,131
+9061,ValuePlus Market,2025-02-18,16:49,Member,Cash,Beverages,Pasta,1.0,5.05,5.05,0.0,5.05,62
+9609,ValuePlus Market,2025-01-23,12:27,Normal,Digital Wallet,Dairy,Onions,1.0,7.84,7.84,0.68,7.16,483
+3603,Corner Grocery,2025-03-30,11:45,Member,Digital Wallet,Bakery,Bread,1.0,13.34,13.34,0.0,13.34,487
+2101,City Fresh Store,2025-02-03,12:51,Member,CASH,Dairy,Milk,4.0,2.58,10.32,0.0,10.32,425
+5421,SuperSave Central,2025-01-26,12:52,Member,Cash,Beverages,Bread,4.0,12.58,50.32,2.98,47.34,365
+8857,GreenGrocer Plaza,2025-02-16,18:23,Normal,Cash,Bakery,Onions,5.0,9.21,46.05,2.56,43.49,182
+9177,SuperSave Central,2025-01-05,14:14,Member,Cash,Beverages,Milk,4.0,1.93,7.72,0.0,7.72,188
+7082,City Fresh Store,2025-03-31,09:21,Member,Credit Card,Produce,Milk,2.0,13.69,27.38,0.0,27.38,302
+7658,SuperSave Central,2025-01-20,20:29,Normal,Cash,Bakery,Cheese,4.0,2.03,8.12,0.0,8.12,384
+3261,Corner Grocery,2025-01-06,19:03,Member,Digital Wallet,Dairy,Milk,2.0,8.46,16.92,3.46,13.46,68
+9021,ValuePlus Market,2025-03-11,19:12,Member,Digital Wallet,Produce,Pasta,2.0,2.16,4.32,0.4,3.92,63
+1508,City Fresh Store,2025-02-28,21:58,Normal,Credit Card,Meat,Bread,1.0,2.46,2.46,0.0,2.46,411
+3379,City Fresh Store,2025-03-05,11:22,Member,Cash,Dairy,Chicken,5.0,13.48,67.4,1.4,66.0,266
+9879,SuperSave Central,2025-01-18,15:07,Normal,Digital Wallet,Beverages,Chicken,1.0,11.84,11.84,0.0,11.84,254
+5752,Corner Grocery,2025-01-04,18:17,Member,Credit Card,Dairy,Bread,1.0,4.16,4.16,2.76,1.4,158
+6495,SuperSave Central,2025-01-17,18:11,Normal,Digital Wallet,Meat,Cheese,4.0,9.88,39.52,1.34,38.18,293
+4209,SuperSave Central,2025-01-14,11:54,Member,Credit Card,Dairy,Milk,4.0,12.23,48.92,0.66,48.26,377
+8398,City Fresh Store,2025-03-19,18:30,Normal,Credit Card,Produce,Onions,2.0,13.51,27.02,0.0,27.02,25
+7743,SuperSave Central,2025-01-13,12:13,Member,Cash,Dairy,Pasta,4.0,7.82,31.28,0.0,31.28,185
+6648,ValuePlus Market,2025-01-07,12:33,Member,Credit Card,Bakery,Cheese,4.0,13.62,54.48,1.53,52.95,37
+6171,SuperSave Central,2025-02-13,17:17,Normal,Digital Wallet,Meat,Milk,3.0,8.36,25.08,0.0,25.08,415
+8890,ValuePlus Market,2025-01-15,17:55,Normal,Digital Wallet,Dairy,Chicken,2.0,10.79,21.58,0.0,21.58,476
+1324,City Fresh Store,2025-01-19,17:33,Member,Cash,Meat,Onions,2.0,14.72,29.44,0.0,29.44,377
+4557,Corner Grocery,2025-03-04,10:10,Normal,Cash,Produce,Milk,3.0,4.69,14.07,0.0,14.07,138
+4587,ValuePlus Market,2025-02-04,19:40,Member,Credit Card,Bakery,Cheese,2.0,3.78,7.56,4.64,2.92,232
+1151,Corner Grocery,2025-03-22,13:11,Normal,Cash,Beverages,Onions,5.0,6.12,30.6,0.0,30.6,381
+1954,Corner Grocery,2025-02-04,11:48,Member,Digital Wallet,Dairy,Onions,5.0,3.72,18.6,0.0,18.6,253
+5354,ValuePlus Market,2025-01-19,19:14,Normal,Digital Wallet,Produce,Onions,3.0,5.34,16.02,0.0,16.02,435
+8160,City Fresh Store,2025-01-20,20:56,Member,Cash,Meat,Onions,4.0,11.53,46.12,0.77,45.35,363
+1687,GreenGrocer Plaza,2025-02-04,19:30,Member,Cash,Meat,Milk,5.0,7.95,39.75,2.67,37.08,247
+9501,Corner Grocery,2025-02-01,18:48,Member,Cash,Produce,Onions,3.0,6.56,19.68,0.0,19.68,241
+4127,Corner Grocery,2025-02-17,17:57,Member,Credit Card,Dairy,Milk,5.0,6.48,32.4,0.0,32.4,335
+7763,City Fresh Store,2025-02-13,17:28,Normal,Credit Card,Beverages,Onions,1.0,4.13,4.13,0.0,4.13,101
+4395,City Fresh Store,2025-01-24,10:25,Normal,Digital Wallet,Dairy,Onions,3.0,7.54,22.62,0.0,22.62,12
+1845,SuperSave Central,2025-03-02,15:17,Normal,Credit Card,Bakery,Cheese,2.0,9.93,19.86,3.64,16.22,488
+2164,City Fresh Store,2025-01-17,14:31,Member,Credit Card,Dairy,Milk,5.0,3.38,16.9,0.0,16.9,473
+6904,Corner Grocery,2025-03-12,12:21,Member,Credit Card,Bakery,Chicken,2.0,14.63,29.26,0.0,29.26,90
+6360,ValuePlus Market,2025-02-19,18:37,Normal,Credit Card,Meat,Milk,3.0,7.48,22.44,0.0,22.44,53
+1354,GreenGrocer Plaza,2025-03-06,16:16,Normal,Digital Wallet,Bakery,Bread,5.0,14.3,71.5,3.42,68.08,164
+2872,SuperSave Central,2025-02-01,10:22,Normal,Cash,Beverages,Chicken,2.0,3.32,6.64,4.04,2.6,444
+3024,ValuePlus Market,2025-02-05,12:23,Normal,DIGITAL WALLET,Produce,Cheese,4.0,11.86,47.44,0.96,46.48,33
+3817,GreenGrocer Plaza,2025-01-13,18:49,Normal,Credit Card,Bakery,Milk,4.0,9.84,39.36,0.0,39.36,413
+4832,GreenGrocer Plaza,2025-03-11,10:07,Normal,Cash,Dairy,Cheese,1.0,12.57,12.57,0.0,12.57,425
+9257,GreenGrocer Plaza,2025-02-27,18:40,Member,Cash,Bakery,Chicken,3.0,9.61,28.83,0.03,28.8,108
+3581,ValuePlus Market,2025-01-14,16:05,Member,Cash,Meat,Cheese,2.0,14.5,29.0,0.0,29.0,406
+3486,SuperSave Central,2025-02-06,16:04,Normal,Digital Wallet,Bakery,Cheese,1.0,9.96,9.96,4.89,5.07,377
+9418,SuperSave Central,2025-03-20,17:43,Normal,Cash,Beverages,Pasta,3.0,12.09,36.27,0.0,36.27,180
+3443,GreenGrocer Plaza,2025-03-09,18:56,Member,Digital Wallet,Bakery,Milk,4.0,13.35,53.4,0.0,53.4,157
+9919,ValuePlus Market,2025-02-09,14:28,Member,Digital Wallet,Beverages,Cheese,2.0,11.15,22.3,0.0,22.3,132
+2036,GreenGrocer Plaza,2025-02-28,17:27,Normal,Credit Card,Dairy,Pasta,5.0,8.58,42.9,3.72,39.18,121
+9684,City Fresh Store,2025-03-21,17:10,Normal,Credit Card,Meat,Pasta,4.0,5.18,20.72,0.0,20.72,139
+8435,SuperSave Central,2025-01-16,13:56,Member,Cash,Produce,Onions,5.0,13.04,65.2,1.06,64.14,77
+2548,,2025-03-03,19:00,Normal,Cash,Dairy,Onions,5.0,7.99,39.95,0.53,39.42,356
+6065,GreenGrocer Plaza,2025-01-04,18:42,Normal,Credit Card,Dairy,Chicken,2.0,9.88,19.76,2.58,17.18,325
+7496,City Fresh Store,2025-02-14,17:18,Normal,Digital Wallet,Produce,Milk,2.0,2.57,5.14,0.0,5.14,226
+7183,SuperSave Central,2025-03-31,18:08,Member,Digital Wallet,Bakery,Onions,5.0,8.21,41.05,0.0,41.05,397
+4957,ValuePlus Market,2025-01-28,19:26,Normal,Credit Card,Bakery,Chicken,1.0,10.93,10.93,3.16,7.77,389
+4407,SuperSave Central,2025-03-07,18:33,Normal,Digital Wallet,Bakery,Milk,5.0,9.38,46.9,0.0,46.9,105
+1639,ValuePlus Market,2025-01-31,18:43,Member,Credit Card,Meat,Chicken,5.0,7.56,37.8,0.0,37.8,154
+1172,ValuePlus Market,2025-01-03,18:03,Normal,Credit Card,Dairy,Pasta,2.0,4.52,9.04,0.0,9.04,394
+6666,GreenGrocer Plaza,2025-01-08,18:35,Member,Cash,Beverages,Pasta,3.0,5.68,17.04,0.0,17.04,42
+5354,GreenGrocer Plaza,2025-01-24,17:17,Member,Cash,Produce,Milk,4.0,10.96,43.84,0.0,43.84,295
+4959,SuperSave Central,2025-01-15,18:14,Member,Credit Card,Dairy,Chicken,2.0,4.53,9.06,1.01,8.05,14
+9708,City Fresh Store,2025-02-12,11:50,Member,Cash,Bakery,Chicken,1.0,9.89,9.89,3.97,5.92,127
+9714,SuperSave Central,2025-01-31,19:12,Member,Credit Card,Produce,Onions,4.0,9.46,37.84,0.0,37.84,149
+3886,Corner Grocery,2025-03-14,19:18,Normal,Digital Wallet,Beverages,Onions,2.0,14.6,29.2,1.41,27.79,239
+3164,ValuePlus Market,2025-02-14,08:48,Member,Digital Wallet,Dairy,Milk,2.0,2.32,4.64,0.0,4.64,169
+4945,ValuePlus Market,2025-03-07,18:05,Normal,Digital Wallet,Dairy,Bread,3.0,2.96,8.88,0.0,8.88,303
+6235,GreenGrocer Plaza,2025-01-08,11:47,Normal,Digital Wallet,Meat,Onions,1.0,8.33,8.33,4.74,3.59,258
+8746,City Fresh Store,2025-03-12,14:55,Member,Credit Card,Dairy,Cheese,1.0,8.62,8.62,0.0,8.62,282
+3590,GreenGrocer Plaza,2025-02-26,18:11,Member,Digital Wallet,Dairy,Onions,2.0,2.04,4.08,4.79,-0.71,195
+8754,Corner Grocery,2025-03-21,11:50,Normal,Digital Wallet,Beverages,Bread,3.0,12.65,37.95,0.0,37.95,374
+5934,SuperSave Central,2025-01-30,18:36,Normal,Digital Wallet,Beverages,Chicken,2.0,8.18,16.36,1.7,14.66,49
+5076,SuperSave Central,2025-03-15,18:16,Member,Digital Wallet,Produce,Pasta,5.0,6.18,30.9,0.0,30.9,233
+6185,City Fresh Store,2025-01-18,16:57,Member,Credit Card,Bakery,Pasta,5.0,5.8,29.0,0.0,29.0,161
+2093,GreenGrocer Plaza,2025-03-10,08:22,Normal,DIGITAL WALLET,Beverages,Chicken,3.0,13.13,39.39,0.0,39.39,149
+4880,GreenGrocer Plaza,2025-02-08,13:25,Member,Cash,Produce,Pasta,2.0,4.16,8.32,0.0,8.32,376
+7559,Corner Grocery,2025-03-01,17:28,Normal,Cash,Dairy,Onions,3.0,3.67,11.01,0.0,11.01,137
+3785,SuperSave Central,2025-02-12,21:32,Normal,Cash,Produce,Pasta,2.0,4.38,8.76,3.33,5.43,360
+7065,GreenGrocer Plaza,2025-02-14,17:59,Member,Cash,Produce,Bread,2.0,9.94,19.88,0.0,19.88,156
+7539,City Fresh Store,2025-01-23,12:26,Member,Cash,Produce,Bread,5.0,12.45,62.25,1.51,60.74,294
+2574,SuperSave Central,2025-03-10,17:24,Member,Cash,Produce,Onions,4.0,5.97,23.88,0.0,23.88,478
+6676,Corner Grocery,2025-01-06,17:55,Normal,Credit Card,Beverages,Chicken,1.0,3.84,3.84,0.0,3.84,227
+9060,City Fresh Store,2025-02-25,18:54,Member,Cash,Bakery,Cheese,1.0,4.32,4.32,3.78,0.54,445
+4990,ValuePlus Market,2025-01-04,10:09,Member,Digital Wallet,Produce,Onions,3.0,9.86,29.58,3.56,26.02,229
+6210,Corner Grocery,2025-01-23,18:46,Normal,Cash,Meat,Pasta,1.0,4.82,4.82,0.0,4.82,154
+5845,City Fresh Store,2025-01-06,17:22,Member,Credit Card,Dairy,Onions,5.0,13.34,66.7,3.03,63.67,338
+2189,GreenGrocer Plaza,2025-02-01,20:20,Normal,Cash,Dairy,Bread,4.0,2.9,11.6,0.0,11.6,286
+3689,ValuePlus Market,2025-01-18,14:20,Normal,Digital Wallet,Dairy,Onions,2.0,1.94,3.88,0.0,3.88,251
+5095,Corner Grocery,2025-01-15,17:42,Normal,Digital Wallet,Dairy,Onions,2.0,2.69,5.38,0.0,5.38,69
+2875,GreenGrocer Plaza,2025-02-09,19:12,Normal,Credit Card,Dairy,Cheese,5.0,12.92,64.6,5.0,59.6,107
+8768,ValuePlus Market,2025-03-14,10:36,Normal,Credit Card,Produce,Bread,1.0,10.29,10.29,0.5,9.79,340
+4406,SuperSave Central,2025-03-15,19:32,Member,Credit Card,Bakery,Milk,2.0,14.43,28.86,0.0,28.86,384
+4932,GreenGrocer Plaza,2025-03-25,18:23,Member,Credit Card,Meat,Milk,1.0,6.04,6.04,4.25,1.79,413
+9240,City Fresh Store,2025-01-06,09:43,Member,Cash,Beverages,Bread,5.0,4.37,21.85,1.5,20.35,378
+6408,Corner Grocery,2025-03-04,13:10,Normal,Cash,Meat,Milk,2.0,9.09,18.18,0.0,18.18,190
+4861,ValuePlus Market,2025-03-08,18:16,Member,Digital Wallet,Beverages,Pasta,3.0,8.76,26.28,4.45,21.83,123
+8406,GreenGrocer Plaza,2025-01-11,09:03,Normal,Credit Card,Beverages,Milk,4.0,9.48,37.92,0.0,37.92,112
+3833,SuperSave Central,2025-02-12,17:46,Normal,Credit Card,Meat,Pasta,1.0,6.19,6.19,0.0,6.19,345
+6285,Corner Grocery,2025-01-17,14:24,Member,Cash,Produce,Bread,1.0,1.58,1.58,3.7,-2.12,328
+8645,Corner Grocery,2025-01-04,17:29,Normal,Credit Card,Dairy,Milk,1.0,1.97,1.97,0.0,1.97,66
+5777,GreenGrocer Plaza,2025-03-04,09:08,Member,Digital Wallet,Produce,Milk,1.0,10.46,10.46,0.0,10.46,294
+3735,SuperSave Central,2025-03-09,19:20,Normal,Digital Wallet,Dairy,Chicken,5.0,8.56,42.8,0.0,42.8,138
+9273,ValuePlus Market,2025-03-22,20:19,Normal,Credit Card,Bakery,Pasta,5.0,12.58,62.9,3.29,59.61,389
+9278,GreenGrocer Plaza,2025-02-10,20:18,Member,Digital Wallet,Beverages,Pasta,5.0,5.56,27.8,0.0,27.8,475
+7368,ValuePlus Market,2025-03-24,18:18,Member,Digital Wallet,Meat,Onions,5.0,12.51,62.55,0.0,62.55,324
+1821,Corner Grocery,2025-01-05,11:11,Normal,Cash,Bakery,Cheese,2.0,7.24,14.48,4.87,9.61,457
+8525,ValuePlus Market,2025-02-01,18:36,Normal,Digital Wallet,Dairy,Milk,5.0,2.81,14.05,0.0,14.05,95
+1162,SuperSave Central,2025-03-27,08:41,Normal,Credit Card,Produce,Chicken,2.0,14.7,29.4,0.97,28.43,209
+8777,City Fresh Store,2025-03-11,08:16,Member,Credit Card,Meat,Cheese,3.0,8.41,25.23,0.0,25.23,80
+2932,SuperSave Central,2025-02-04,13:36,Member,Digital Wallet,Beverages,Chicken,5.0,10.0,50.0,0.0,50.0,354
+4535,ValuePlus Market,2025-01-22,16:53,Member,Credit Card,Bakery,Cheese,3.0,10.56,31.68,0.0,31.68,487
+6956,GreenGrocer Plaza,2025-03-06,18:47,Normal,Cash,Beverages,Milk,5.0,6.39,31.95,0.0,31.95,107
+4446,Corner Grocery,2025-03-25,18:38,Member,Digital Wallet,Dairy,Chicken,3.0,11.59,34.77,4.75,30.02,309
+3790,City Fresh Store,2025-01-22,16:27,Member,Digital Wallet,Beverages,Pasta,4.0,13.25,53.0,0.0,53.0,185
+3707,GreenGrocer Plaza,2025-01-11,13:40,Normal,Digital Wallet,Produce,Onions,3.0,6.73,20.19,3.57,16.62,242
+8959,GreenGrocer Plaza,2025-03-18,21:34,Normal,CREDIT CARD,Bakery,Chicken,2.0,10.37,20.74,0.0,20.74,381
+4933,SuperSave Central,2025-01-03,15:46,Member,Credit Card,Bakery,Bread,1.0,11.72,11.72,0.54,11.18,84
+4385,ValuePlus Market,2025-01-09,16:47,Normal,Digital Wallet,Produce,Milk,3.0,4.07,12.21,2.81,9.4,152
+7636,SuperSave Central,2025-03-01,11:17,Normal,Credit Card,Beverages,Milk,1.0,5.99,5.99,0.0,5.99,428
+1922,ValuePlus Market,2025-03-17,18:13,Member,Credit Card,Produce,Bread,4.0,2.97,11.88,0.0,11.88,32
+9089,SuperSave Central,2025-03-28,18:34,Member,Digital Wallet,Meat,Cheese,4.0,9.63,38.52,0.35,38.17,190
+1564,GreenGrocer Plaza,2025-01-14,12:43,Member,Digital Wallet,Produce,Onions,2.0,12.31,24.62,1.48,23.14,54
+4258,Corner Grocery,2025-01-18,10:40,Normal,Credit Card,Beverages,Cheese,2.0,9.75,19.5,0.0,19.5,478
+3500,ValuePlus Market,2025-03-14,18:59,Normal,Digital Wallet,Produce,Bread,3.0,3.93,11.79,0.0,11.79,101
+5566,City Fresh Store,2025-01-23,17:06,Member,Digital Wallet,Dairy,Bread,5.0,8.88,44.4,0.0,44.4,278
+7881,City Fresh Store,2025-03-15,13:40,Member,Digital Wallet,Produce,Onions,4.0,12.77,51.08,1.09,49.99,43
+4636,,2025-03-24,20:12,Normal,Digital Wallet,Produce,Bread,1.0,5.59,5.59,3.35,2.24,175
+7030,SuperSave Central,2025-02-16,11:17,Normal,Credit Card,Beverages,Bread,5.0,12.74,63.7,1.43,62.27,79
+1223,SuperSave Central,2025-03-10,15:36,Normal,Digital Wallet,Meat,Chicken,4.0,12.09,48.36,0.0,48.36,373
+7297,GreenGrocer Plaza,2025-02-16,20:12,Normal,Cash,Meat,Onions,3.0,1.79,5.37,0.0,5.37,205
+1350,City Fresh Store,2025-03-28,15:35,Normal,Digital Wallet,Beverages,Milk,4.0,4.73,18.92,0.0,18.92,142
+8314,City Fresh Store,2025-01-30,17:30,Normal,Cash,Beverages,Cheese,2.0,8.83,17.66,0.0,17.66,256
+2928,SuperSave Central,2025-01-25,15:01,Member,Digital Wallet,Beverages,Milk,1.0,11.19,11.19,0.0,11.19,391
+8743,ValuePlus Market,2025-01-28,13:15,Member,Cash,Dairy,Milk,1.0,13.39,13.39,0.0,13.39,177
+9540,Corner Grocery,2025-01-25,21:08,Member,Cash,Bakery,Chicken,2.0,10.15,20.3,0.08,20.22,463
+5732,ValuePlus Market,2025-03-15,15:08,Normal,Digital Wallet,Produce,Cheese,5.0,6.63,33.15,0.0,33.15,286
+2017,City Fresh Store,2025-03-19,19:37,Normal,Digital Wallet,Beverages,Milk,2.0,3.99,7.98,0.0,7.98,165
+3226,ValuePlus Market,2025-02-27,12:10,Normal,Digital Wallet,Beverages,Onions,1.0,11.76,11.76,2.82,8.94,396
+8206,Corner Grocery,2025-02-10,12:53,Member,Cash,Beverages,Cheese,3.0,4.29,12.87,4.72,8.15,32
+8170,ValuePlus Market,2025-01-25,09:55,Member,Credit Card,Meat,Pasta,5.0,10.89,54.45,0.0,54.45,209
+7207,ValuePlus Market,2025-03-19,17:21,Member,Credit Card,Beverages,Chicken,4.0,3.95,15.8,0.35,15.45,284
+3419,ValuePlus Market,2025-02-17,14:32,Member,Digital Wallet,Produce,Milk,3.0,2.73,8.19,0.0,8.19,468
+7240,ValuePlus Market,2025-01-10,19:35,Normal,Credit Card,Beverages,Bread,5.0,4.89,24.45,0.0,24.45,59
+2893,GreenGrocer Plaza,2025-03-16,16:44,Normal,Credit Card,Produce,Cheese,1.0,5.35,5.35,3.24,2.11,467
+6322,City Fresh Store,2025-01-11,20:22,Member,Digital Wallet,Dairy,Pasta,1.0,10.24,10.24,0.59,9.65,195
+8718,Corner Grocery,2025-03-26,12:44,Member,Cash,Bakery,Bread,3.0,3.67,11.01,4.73,6.28,485
+7878,City Fresh Store,2025-01-21,19:44,Normal,Digital Wallet,Meat,Pasta,5.0,14.06,70.3,4.32,65.98,29
+2125,GreenGrocer Plaza,2025-03-27,18:33,Member,Credit Card,Produce,Milk,4.0,8.98,35.92,0.0,35.92,125
+4117,GreenGrocer Plaza,2025-02-14,18:08,Normal,Cash,Dairy,Bread,4.0,8.13,32.52,0.0,32.52,101
+5161,GreenGrocer Plaza,2025-01-07,18:23,Member,Credit Card,Bakery,Milk,2.0,7.37,14.74,0.0,14.74,358
+5042,GreenGrocer Plaza,2025-03-22,18:07,Member,Cash,Bakery,Bread,3.0,9.15,27.45,0.0,27.45,465
+5433,ValuePlus Market,2025-03-05,17:06,Member,Credit Card,Bakery,Cheese,5.0,1.8,9.0,0.0,9.0,348
+9638,City Fresh Store,2025-03-05,11:35,Member,Digital Wallet,Produce,Onions,3.0,14.87,44.61,0.0,44.61,62
+3658,SuperSave Central,2025-01-02,09:17,Normal,Credit Card,Dairy,Onions,4.0,9.03,36.12,4.42,31.7,132
+4483,Corner Grocery,2025-03-17,19:02,Member,Credit Card,Beverages,Pasta,5.0,1.98,9.9,3.84,6.06,350
+3944,GreenGrocer Plaza,2025-02-11,17:27,Member,Cash,Dairy,Chicken,1.0,9.46,9.46,2.88,6.58,347
+8210,City Fresh Store,2025-03-23,18:05,Normal,Credit Card,Dairy,Bread,1.0,7.4,7.4,0.0,7.4,274
+8653,GreenGrocer Plaza,2025-02-23,16:43,Member,Digital Wallet,Dairy,Milk,5.0,1.82,9.1,4.93,4.17,13
+9787,GreenGrocer Plaza,2025-03-16,10:43,Member,Digital Wallet,Produce,Chicken,3.0,13.98,41.94,1.5,40.44,178
+2986,GreenGrocer Plaza,2025-01-16,11:20,Normal,Digital Wallet,Produce,Cheese,3.0,1.64,4.92,0.59,4.33,290
+2074,GreenGrocer Plaza,2025-01-18,18:27,Normal,Cash,Produce,Cheese,1.0,9.3,9.3,0.0,9.3,299
+5305,GreenGrocer Plaza,2025-02-28,15:39,Normal,Cash,Dairy,Cheese,1.0,14.48,14.48,0.0,14.48,82
+4007,Corner Grocery,2025-03-31,12:53,Member,Credit Card,Produce,Onions,4.0,4.71,18.84,0.58,18.26,146
+1969,,2025-01-16,16:53,Member,Credit Card,Bakery,Milk,5.0,4.93,24.65,2.16,22.49,347
+9772,GreenGrocer Plaza,2025-01-06,09:00,Member,Credit Card,Produce,Cheese,3.0,1.51,4.53,0.0,4.53,265
+3824,GreenGrocer Plaza,2025-02-26,17:35,Member,Cash,Meat,Cheese,4.0,2.4,9.6,0.0,9.6,468
+2211,GreenGrocer Plaza,2025-02-16,13:20,Normal,Cash,Produce,Pasta,3.0,2.11,6.33,4.74,1.59,150
+1229,GreenGrocer Plaza,2025-02-17,18:59,Normal,Credit Card,Produce,Bread,1.0,12.61,12.61,0.0,12.61,495
+5284,ValuePlus Market,2025-02-11,13:42,Normal,Cash,Produce,Bread,5.0,12.8,64.0,2.05,61.95,402
+4185,ValuePlus Market,2025-03-17,16:34,Member,Cash,Produce,Bread,2.0,11.31,22.62,0.0,22.62,217
+1501,SuperSave Central,2025-03-01,08:12,Normal,Digital Wallet,Meat,Chicken,5.0,6.26,31.3,0.0,31.3,269
+1048,GreenGrocer Plaza,2025-03-18,10:56,Normal,Digital Wallet,Beverages,Pasta,2.0,12.59,25.18,0.0,25.18,427
+4566,SuperSave Central,2025-01-04,15:48,Member,Credit Card,Produce,Onions,4.0,8.79,35.16,0.0,35.16,272
+4055,Corner Grocery,2025-01-02,16:53,Normal,Credit Card,Bakery,Chicken,2.0,5.61,11.22,0.0,11.22,280
+9880,SuperSave Central,2025-03-31,17:53,Normal,Digital Wallet,Meat,Pasta,2.0,7.4,14.8,0.0,14.8,47
+1386,City Fresh Store,2025-02-28,13:09,Normal,Cash,Beverages,Cheese,4.0,2.39,9.56,0.0,9.56,212
+1969,ValuePlus Market,2025-01-27,18:52,Normal,Credit Card,Produce,Milk,5.0,14.26,71.3,0.0,71.3,233
+6820,ValuePlus Market,2025-01-27,19:43,Member,Credit Card,Beverages,Chicken,4.0,9.86,39.44,0.0,39.44,356
+4052,GreenGrocer Plaza,2025-03-20,18:46,Member,Credit Card,Bakery,Chicken,1.0,11.37,11.37,0.0,11.37,487
+8397,GreenGrocer Plaza,2025-03-13,09:52,Member,Cash,Meat,Cheese,1.0,10.63,10.63,0.96,9.67,61
+3302,Corner Grocery,2025-01-07,16:09,Normal,Digital Wallet,Meat,Cheese,2.0,10.51,21.02,0.0,21.02,90
+3283,Corner Grocery,2025-03-04,10:45,Member,Credit Card,Beverages,Milk,4.0,1.73,6.92,0.0,6.92,365
+5366,City Fresh Store,2025-02-15,12:12,Normal,Digital Wallet,Produce,Bread,4.0,8.59,34.36,0.0,34.36,220
+1122,GreenGrocer Plaza,2025-03-04,21:36,Normal,Digital Wallet,Dairy,Chicken,4.0,12.59,50.36,2.6,47.76,16
+7799,GreenGrocer Plaza,2025-01-12,11:37,Normal,Cash,Meat,Pasta,5.0,2.1,10.5,0.0,10.5,372
+4727,Corner Grocery,2025-01-13,16:23,Member,Cash,Dairy,Onions,3.0,14.41,43.23,0.0,43.23,54
+9450,Corner Grocery,2025-02-12,17:01,Member,Cash,Meat,Cheese,3.0,7.23,21.69,0.0,21.69,324
+5958,Corner Grocery,2025-01-17,18:21,Normal,Cash,Produce,Cheese,3.0,5.41,16.23,4.39,11.84,387
+1524,ValuePlus Market,2025-03-04,17:16,Normal,Cash,Produce,Onions,5.0,8.68,43.4,5.0,38.4,286
+9399,SuperSave Central,2025-03-22,08:35,Normal,Cash,Meat,Pasta,4.0,12.32,49.28,0.0,49.28,421
+1148,SuperSave Central,2025-02-05,13:13,Member,Credit Card,Beverages,Cheese,3.0,7.91,23.73,0.0,23.73,268
+9001,GreenGrocer Plaza,2025-03-26,16:09,Normal,Digital Wallet,Produce,Onions,4.0,10.21,40.84,0.0,40.84,151
+1437,ValuePlus Market,2025-01-08,10:34,Normal,Cash,Produce,Cheese,2.0,8.25,16.5,0.0,16.5,267
+4749,Corner Grocery,2025-03-10,14:24,Normal,Credit Card,Bakery,Bread,3.0,10.02,30.06,3.17,26.89,294
+9186,GreenGrocer Plaza,2025-03-31,09:02,Normal,Digital Wallet,Produce,Bread,2.0,3.36,6.72,0.0,6.72,411
+5453,ValuePlus Market,2025-03-21,10:46,Normal,Cash,Bakery,Cheese,5.0,2.02,10.1,0.0,10.1,46
+6336,City Fresh Store,2025-02-05,15:37,Member,Cash,Produce,Cheese,1.0,3.35,3.35,0.0,3.35,438
+5551,ValuePlus Market,2025-01-28,11:16,Member,Credit Card,Produce,Bread,5.0,5.36,26.8,3.2,23.6,54
+3823,GreenGrocer Plaza,2025-02-16,17:11,Normal,Digital Wallet,Beverages,Cheese,5.0,4.92,24.6,1.22,23.38,417
+6728,SuperSave Central,2025-03-17,18:53,Member,Cash,Beverages,Pasta,5.0,9.8,49.0,1.93,47.07,129
+9677,Corner Grocery,2025-01-30,18:51,Normal,Digital Wallet,Produce,Pasta,3.0,7.65,22.95,0.0,22.95,55
+9391,City Fresh Store,2025-01-23,12:23,Normal,Credit Card,Meat,Milk,2.0,2.02,4.04,0.0,4.04,149
+2982,ValuePlus Market,2025-01-16,11:28,Normal,Cash,Meat,Pasta,3.0,1.97,5.91,0.0,5.91,62
+7996,GreenGrocer Plaza,2025-01-14,10:42,Normal,Digital Wallet,Produce,Chicken,1.0,2.72,2.72,0.0,2.72,310
+3311,GreenGrocer Plaza,2025-03-15,17:24,Member,Credit Card,Meat,Chicken,5.0,6.27,31.35,0.0,31.35,297
+8225,Corner Grocery,2025-03-12,18:35,Member,Credit Card,Produce,Chicken,4.0,1.58,6.32,0.0,6.32,283
+1604,GreenGrocer Plaza,2025-02-21,09:57,Normal,Cash,Beverages,Cheese,1.0,8.17,8.17,0.0,8.17,278
+9175,GreenGrocer Plaza,2025-02-06,19:59,Member,Digital Wallet,Dairy,Cheese,2.0,6.37,12.74,4.56,8.18,397
+6785,Corner Grocery,2025-01-29,09:25,Normal,Cash,Bakery,Onions,1.0,9.0,9.0,4.43,4.57,288
+5597,City Fresh Store,2025-03-08,17:37,Normal,Cash,Meat,Chicken,3.0,11.23,33.69,0.0,33.69,71
+8759,SuperSave Central,2025-01-15,18:00,Member,Digital Wallet,Meat,Chicken,4.0,4.89,19.56,0.0,19.56,63
+8532,SuperSave Central,2025-02-16,19:19,Member,Digital Wallet,Beverages,Pasta,3.0,3.62,10.86,0.0,10.86,467
+9740,ValuePlus Market,2025-02-15,18:54,Normal,Digital Wallet,Meat,Bread,5.0,5.25,26.25,0.0,26.25,448
+1838,City Fresh Store,2025-02-21,18:27,Normal,Credit Card,Produce,Bread,5.0,1.52,7.6,0.0,7.6,78
+4815,ValuePlus Market,2025-01-19,14:15,Member,Credit Card,Produce,Milk,1.0,3.12,3.12,0.0,3.12,251
+1847,SuperSave Central,2025-03-18,18:46,Normal,Digital Wallet,Dairy,Onions,5.0,11.64,58.2,2.32,55.88,433
+5709,Corner Grocery,2025-01-21,10:16,Normal,Credit Card,Dairy,Bread,5.0,4.51,22.55,0.0,22.55,279
+5507,GreenGrocer Plaza,2025-03-05,19:39,Normal,Cash,Dairy,Milk,2.0,14.92,29.84,0.0,29.84,261
+7575,SuperSave Central,2025-02-06,17:27,Member,Digital Wallet,Produce,Pasta,2.0,3.77,7.54,3.79,3.75,363
+5773,City Fresh Store,2025-01-27,18:57,Member,Cash,Dairy,Onions,3.0,12.15,36.45,0.0,36.45,293
+5468,SuperSave Central,2025-02-24,16:11,Normal,Digital Wallet,Dairy,Onions,3.0,11.02,33.06,0.0,33.06,465
+6192,City Fresh Store,2025-01-29,17:26,Normal,Cash,Produce,Chicken,2.0,5.85,11.7,0.0,11.7,473
+4320,City Fresh Store,2025-01-20,16:53,Member,Digital Wallet,Beverages,Cheese,1.0,5.96,5.96,2.95,3.01,360
+5698,City Fresh Store,2025-01-25,18:52,Normal,Cash,Meat,Chicken,2.0,9.11,18.22,0.0,18.22,80
+5311,ValuePlus Market,2025-03-11,10:41,Normal,Digital Wallet,Bakery,Pasta,3.0,13.01,39.03,0.0,39.03,332
+4673,Corner Grocery,2025-03-04,09:58,Member,Digital Wallet,Produce,Chicken,4.0,6.71,26.84,1.12,25.72,422
+2564,SuperSave Central,2025-02-05,12:46,Normal,Credit Card,Produce,Onions,5.0,2.33,11.65,0.0,11.65,109
+2840,Corner Grocery,2025-01-02,11:29,Normal,Cash,Bakery,Chicken,4.0,6.55,26.2,2.72,23.48,70
+7058,GreenGrocer Plaza,2025-01-22,19:40,Member,Credit Card,Bakery,Milk,4.0,4.3,17.2,2.18,15.02,112
+8131,SuperSave Central,2025-01-16,12:33,Member,Cash,Dairy,Chicken,5.0,14.18,70.9,0.0,70.9,461
+1726,Corner Grocery,2025-01-18,20:36,Normal,Credit Card,Bakery,Bread,2.0,10.91,21.82,4.44,17.38,402
+7697,Corner Grocery,2025-03-10,14:05,Member,Digital Wallet,Meat,Pasta,1.0,2.19,2.19,1.84,0.35,128
+1282,GreenGrocer Plaza,2025-02-23,12:06,Member,Credit Card,Meat,Pasta,4.0,5.46,21.84,4.3,17.54,26
+2081,City Fresh Store,2025-01-30,18:31,Normal,Credit Card,Meat,Onions,1.0,2.18,2.18,0.0,2.18,314
+4885,SuperSave Central,2025-02-14,17:31,Normal,Digital Wallet,Meat,Chicken,3.0,12.71,38.13,2.66,35.47,200
+3881,SuperSave Central,2025-01-19,16:52,Normal,Credit Card,Meat,Onions,4.0,13.74,54.96,0.0,54.96,221
+3970,GreenGrocer Plaza,2025-03-28,17:24,Normal,Digital Wallet,Dairy,Onions,3.0,3.02,9.06,4.13,4.93,87
+7985,City Fresh Store,2025-02-03,18:32,Member,Cash,Produce,Milk,2.0,7.44,14.88,0.0,14.88,55
+1947,SuperSave Central,2025-01-13,12:54,Member,Credit Card,Bakery,Cheese,4.0,14.08,56.32,0.0,56.32,102
+5760,SuperSave Central,2025-02-12,21:57,Member,Digital Wallet,Produce,Onions,3.0,3.46,10.38,0.0,10.38,386
+1066,SuperSave Central,2025-03-03,20:06,Member,Digital Wallet,Bakery,Cheese,3.0,5.44,16.32,0.0,16.32,22
+9828,City Fresh Store,2025-01-22,17:51,Normal,Credit Card,Dairy,Cheese,2.0,5.61,11.22,0.0,11.22,237
+9505,GreenGrocer Plaza,2025-02-21,12:56,Normal,Cash,Dairy,Pasta,1.0,1.91,1.91,0.0,1.91,310
+1564,SuperSave Central,2025-02-21,18:11,Normal,Credit Card,Beverages,Bread,1.0,1.99,1.99,0.0,1.99,446
+4670,Corner Grocery,2025-02-05,10:15,Member,Digital Wallet,Beverages,Bread,4.0,14.36,57.44,0.0,57.44,26
+3251,City Fresh Store,2025-03-14,09:15,Member,Cash,Dairy,Chicken,2.0,9.21,18.42,0.0,18.42,312
+1804,ValuePlus Market,2025-01-19,12:42,Normal,CREDIT CARD,Dairy,Milk,4.0,5.64,22.56,0.0,22.56,71
+5631,GreenGrocer Plaza,2025-02-07,16:52,Normal,Digital Wallet,Bakery,Milk,1.0,6.61,6.61,4.52,2.09,443
+2235,Corner Grocery,2025-03-11,19:35,Member,Credit Card,Dairy,Bread,2.0,11.15,22.3,2.64,19.66,52
+7720,SuperSave Central,2025-03-20,18:12,Normal,Cash,Produce,Chicken,5.0,6.45,32.25,0.0,32.25,77
+7906,ValuePlus Market,2025-02-26,18:06,Member,Cash,Bakery,Bread,2.0,4.57,9.14,0.0,9.14,389
+7016,GreenGrocer Plaza,2025-01-20,15:35,Member,Cash,Dairy,Chicken,2.0,2.87,5.74,3.18,2.56,221
+4549,City Fresh Store,2025-01-09,14:46,Normal,Cash,Bakery,Chicken,5.0,11.34,56.7,0.0,56.7,212
+8938,ValuePlus Market,2025-02-01,14:50,Member,Cash,Bakery,Chicken,3.0,3.94,11.82,0.0,11.82,499
+5141,ValuePlus Market,2025-01-04,21:08,Normal,Credit Card,Meat,Chicken,3.0,2.44,7.32,0.0,7.32,223
+7966,Corner Grocery,2025-02-19,09:31,Member,Cash,Beverages,Pasta,3.0,7.26,21.78,4.39,17.39,118
+6335,GreenGrocer Plaza,2025-03-23,19:10,Member,Cash,Bakery,Pasta,1.0,2.03,2.03,0.0,2.03,465
+6077,Corner Grocery,2025-01-05,17:07,Member,Digital Wallet,Bakery,Bread,2.0,14.53,29.06,3.02,26.04,293
+6611,Corner Grocery,2025-01-20,15:32,Normal,Cash,Meat,Chicken,5.0,9.97,49.85,0.0,49.85,438
+9089,SuperSave Central,2025-03-28,18:22,Normal,Digital Wallet,Dairy,Onions,1.0,3.56,3.56,1.55,2.01,434
+3892,City Fresh Store,2025-03-16,16:24,Normal,Digital Wallet,Bakery,Chicken,5.0,3.83,19.15,0.0,19.15,103
+6577,ValuePlus Market,2025-02-06,19:55,Normal,Digital Wallet,Meat,Onions,1.0,9.19,9.19,0.0,9.19,234
+4618,GreenGrocer Plaza,2025-01-22,19:07,Normal,Credit Card,Produce,Pasta,1.0,6.31,6.31,0.0,6.31,234
+2559,City Fresh Store,2025-02-27,15:44,Member,Credit Card,Meat,Chicken,1.0,11.95,11.95,1.41,10.54,248
+7683,City Fresh Store,2025-03-09,13:21,Member,Digital Wallet,Beverages,Cheese,5.0,8.87,44.35,0.0,44.35,127
+2507,GreenGrocer Plaza,2025-02-13,17:58,Member,Credit Card,Beverages,Bread,4.0,7.35,29.4,0.0,29.4,429
+3063,City Fresh Store,2025-02-03,19:03,Member,Cash,Dairy,Chicken,1.0,14.5,14.5,3.08,11.42,100
+4642,SuperSave Central,2025-03-18,12:39,Normal,Credit Card,Dairy,Milk,3.0,6.77,20.31,0.0,20.31,349
+3000,City Fresh Store,2025-02-11,17:02,Member,Cash,Beverages,Onions,2.0,6.91,13.82,0.0,13.82,298
+2294,,2025-01-09,17:28,Member,Cash,Beverages,Chicken,4.0,10.49,41.96,0.0,41.96,290
+5065,ValuePlus Market,2025-01-07,18:40,Member,Credit Card,Bakery,Cheese,4.0,12.43,49.72,0.0,49.72,28
+9014,ValuePlus Market,2025-03-09,11:28,Member,Credit Card,Beverages,Onions,5.0,9.95,49.75,0.0,49.75,184
+2603,Corner Grocery,2025-01-19,18:33,Normal,DIGITAL WALLET,Dairy,Cheese,4.0,10.93,43.72,2.0,41.72,478
+2322,SuperSave Central,2025-01-31,19:33,Normal,Credit Card,Beverages,Bread,5.0,6.53,32.65,0.0,32.65,115
+6956,ValuePlus Market,2025-02-04,11:27,Member,Credit Card,Dairy,Bread,5.0,7.97,39.85,0.93,38.92,298
+3441,City Fresh Store,2025-02-26,12:12,Member,Credit Card,Produce,Bread,3.0,4.16,12.48,0.0,12.48,257
+2098,GreenGrocer Plaza,2025-03-26,20:14,Member,Cash,Beverages,Pasta,1.0,10.68,10.68,0.0,10.68,332
+6073,GreenGrocer Plaza,2025-03-02,12:59,Normal,Cash,Dairy,Cheese,4.0,4.49,17.96,0.0,17.96,151
+9488,SuperSave Central,2025-01-31,18:22,Member,Cash,Meat,Chicken,1.0,1.52,1.52,1.19,0.33,472
+4787,Corner Grocery,2025-03-24,16:43,Normal,Digital Wallet,Bakery,Milk,1.0,14.11,14.11,0.0,14.11,426
+3096,City Fresh Store,2025-02-22,12:25,Normal,Digital Wallet,Dairy,Milk,1.0,5.63,5.63,4.29,1.34,307
+3208,SuperSave Central,2025-02-01,19:03,Member,Digital Wallet,Beverages,Bread,5.0,4.15,20.75,1.86,18.89,479
+6988,GreenGrocer Plaza,2025-03-07,16:25,Member,Cash,Beverages,Milk,1.0,5.12,5.12,0.0,5.12,202
+1175,SuperSave Central,2025-02-28,16:39,Member,Credit Card,Produce,Onions,4.0,5.96,23.84,0.0,23.84,360
+8169,City Fresh Store,2025-01-10,14:08,Normal,Digital Wallet,Meat,Cheese,5.0,7.91,39.55,0.0,39.55,312
+7014,ValuePlus Market,2025-01-02,17:54,Normal,Digital Wallet,Dairy,Cheese,4.0,2.44,9.76,3.12,6.64,300
+2667,City Fresh Store,2025-03-07,11:04,Normal,Cash,Meat,Cheese,5.0,2.21,11.05,0.0,11.05,382
+9867,ValuePlus Market,2025-03-01,15:55,Normal,Digital Wallet,Produce,Onions,2.0,5.45,10.9,1.92,8.98,477
+2823,ValuePlus Market,2025-03-29,20:31,Normal,Credit Card,Bakery,Chicken,2.0,5.49,10.98,0.0,10.98,425
+6147,ValuePlus Market,2025-01-17,12:19,Normal,Cash,Meat,Pasta,2.0,3.09,6.18,0.9,5.28,448
+2356,SuperSave Central,2025-01-16,17:49,Member,Cash,Produce,Onions,2.0,6.96,13.92,0.0,13.92,447
+4072,GreenGrocer Plaza,2025-01-16,13:10,Member,Credit Card,Dairy,Cheese,5.0,5.33,26.65,0.0,26.65,341
+4259,SuperSave Central,2025-02-15,18:14,Member,Credit Card,Bakery,Cheese,1.0,1.85,1.85,0.78,1.07,444
+7199,GreenGrocer Plaza,2025-02-08,11:31,Normal,Credit Card,Beverages,Cheese,3.0,13.46,40.38,1.46,38.92,217
+1546,City Fresh Store,2025-01-31,20:27,Member,Digital Wallet,Produce,Chicken,3.0,13.46,40.38,0.0,40.38,452
+6231,Corner Grocery,2025-03-29,16:21,Normal,Credit Card,Beverages,Milk,2.0,4.32,8.64,0.61,8.03,465
+8965,City Fresh Store,2025-01-01,12:40,Member,Cash,Bakery,Pasta,1.0,3.7,3.7,0.02,3.68,257
+3083,SuperSave Central,2025-01-11,10:16,Normal,Credit Card,Produce,Onions,4.0,8.89,35.56,0.0,35.56,151
+3040,SuperSave Central,2025-03-26,11:58,Member,Cash,Produce,Cheese,1.0,10.02,10.02,0.0,10.02,411
+5534,GreenGrocer Plaza,2025-01-04,16:25,Member,Cash,Bakery,Bread,4.0,14.43,57.72,0.0,57.72,393
+2752,SuperSave Central,2025-03-12,14:43,Normal,Digital Wallet,Dairy,Pasta,3.0,6.59,19.77,3.49,16.28,320
+2849,ValuePlus Market,2025-01-26,18:06,Member,Credit Card,Produce,Bread,1.0,9.85,9.85,0.0,9.85,231
+3642,SuperSave Central,2025-02-19,15:41,Normal,Digital Wallet,Bakery,Pasta,1.0,13.36,13.36,0.0,13.36,234
+2600,GreenGrocer Plaza,2025-01-12,12:56,Member,Credit Card,Meat,Cheese,3.0,7.57,22.71,0.0,22.71,363
+5402,GreenGrocer Plaza,2025-03-22,17:25,Member,Credit Card,Beverages,Pasta,1.0,3.15,3.15,0.0,3.15,193
+4799,ValuePlus Market,2025-03-16,18:24,Normal,Credit Card,Produce,Pasta,4.0,6.6,26.4,0.0,26.4,373
+1618,GreenGrocer Plaza,2025-03-06,11:09,Normal,Credit Card,Meat,Cheese,1.0,3.34,3.34,0.0,3.34,314
+2132,Corner Grocery,2025-02-16,11:58,Member,Credit Card,Produce,Chicken,4.0,1.72,6.88,0.0,6.88,491
+6491,City Fresh Store,2025-02-22,09:44,Normal,Cash,Dairy,Bread,2.0,11.65,23.3,3.5,19.8,197
+6795,SuperSave Central,2025-03-12,18:18,Normal,Cash,Bakery,Chicken,1.0,4.72,4.72,2.97,1.75,122
+8633,Corner Grocery,2025-01-02,17:10,Normal,Credit Card,Produce,Bread,4.0,1.53,6.12,0.0,6.12,190
+2487,SuperSave Central,2025-01-24,16:12,Member,Cash,Bakery,Milk,3.0,13.28,39.84,0.0,39.84,208
+8848,Corner Grocery,2025-01-04,18:52,Member,Digital Wallet,Produce,Bread,2.0,7.49,14.98,4.39,10.59,399
+6009,SuperSave Central,2025-01-19,18:07,Normal,Digital Wallet,Dairy,Bread,1.0,4.72,4.72,0.0,4.72,79
+3113,ValuePlus Market,2025-01-26,17:39,Normal,Digital Wallet,Dairy,Pasta,4.0,5.05,20.2,1.65,18.55,95
+2044,GreenGrocer Plaza,2025-03-16,19:03,Normal,Credit Card,Meat,Milk,1.0,4.75,4.75,2.66,2.09,401
+3431,GreenGrocer Plaza,2025-02-09,12:46,Member,Credit Card,Dairy,Cheese,4.0,4.13,16.52,0.43,16.09,494
+8979,ValuePlus Market,2025-02-19,10:30,Member,Cash,Bakery,Cheese,1.0,12.86,12.86,0.0,12.86,408
+2582,Corner Grocery,2025-02-12,13:27,Normal,Cash,Dairy,Onions,2.0,3.8,7.6,3.83,3.77,419
+2308,City Fresh Store,2025-03-16,09:10,Member,Cash,Produce,Milk,2.0,9.09,18.18,3.31,14.87,48
+5917,Corner Grocery,2025-03-08,17:42,Member,Digital Wallet,Dairy,Pasta,1.0,2.54,2.54,0.83,1.71,140
+9793,GreenGrocer Plaza,2025-01-12,19:00,Member,Digital Wallet,Bakery,Onions,1.0,14.32,14.32,0.0,14.32,450
+2620,City Fresh Store,2025-03-08,09:48,Normal,Digital Wallet,Produce,Onions,5.0,9.64,48.2,0.71,47.49,19
+8503,SuperSave Central,2025-01-27,11:46,Member,Digital Wallet,Meat,Cheese,1.0,13.69,13.69,0.0,13.69,12
+5766,City Fresh Store,2025-02-23,16:51,Normal,Cash,Meat,Bread,1.0,6.87,6.87,0.0,6.87,487
+6362,Corner Grocery,2025-03-07,19:37,Normal,Credit Card,Meat,Pasta,2.0,12.44,24.88,0.0,24.88,311
+6192,ValuePlus Market,2025-02-18,13:23,Normal,Credit Card,Produce,Milk,1.0,13.02,13.02,3.04,9.98,159
+7622,SuperSave Central,2025-01-16,16:53,Member,Digital Wallet,Meat,Onions,3.0,10.99,32.97,2.36,30.61,76
+7093,Corner Grocery,2025-01-02,09:59,Member,Credit Card,Dairy,Pasta,1.0,2.75,2.75,1.39,1.36,202
+7704,SuperSave Central,2025-03-01,11:56,Normal,Credit Card,Produce,Cheese,5.0,1.72,8.6,0.0,8.6,106
+1100,City Fresh Store,2025-02-23,21:46,Normal,Credit Card,Produce,Onions,4.0,3.78,15.12,0.0,15.12,28
+7657,GreenGrocer Plaza,2025-01-30,20:30,Normal,DIGITAL WALLET,Produce,Onions,2.0,3.09,6.18,3.81,2.37,493
+6875,Corner Grocery,2025-03-25,08:40,Normal,Cash,Beverages,Chicken,3.0,11.29,33.87,0.0,33.87,327
+5271,ValuePlus Market,2025-02-07,20:45,Normal,Cash,Bakery,Cheese,4.0,9.02,36.08,3.75,32.33,107
+1237,City Fresh Store,2025-01-28,17:49,Normal,Credit Card,Beverages,Chicken,3.0,8.6,25.8,0.0,25.8,66
+8226,Corner Grocery,2025-01-25,19:25,Member,Cash,Beverages,Cheese,2.0,4.91,9.82,0.5,9.32,360
+9032,ValuePlus Market,2025-01-10,16:48,Member,Cash,Beverages,Cheese,5.0,3.59,17.95,4.31,13.64,116
+6218,Corner Grocery,2025-03-01,16:49,Normal,Digital Wallet,Bakery,Chicken,2.0,4.29,8.58,0.0,8.58,97
+5025,City Fresh Store,2025-02-11,16:04,Member,Digital Wallet,Beverages,Pasta,3.0,6.9,20.7,0.0,20.7,469
+7073,Corner Grocery,2025-02-09,17:19,Normal,Credit Card,Meat,Pasta,3.0,11.49,34.47,0.0,34.47,150
+3542,SuperSave Central,2025-03-18,11:51,Member,Credit Card,Produce,Pasta,2.0,4.94,9.88,1.83,8.05,153
+2537,City Fresh Store,2025-02-11,08:40,Normal,Credit Card,Produce,Bread,1.0,10.93,10.93,1.12,9.81,409
+1754,Corner Grocery,2025-02-16,13:10,Normal,Digital Wallet,Dairy,Onions,2.0,8.14,16.28,3.34,12.94,380
+8396,GreenGrocer Plaza,2025-02-06,18:55,Normal,Cash,Meat,Pasta,5.0,13.45,67.25,0.0,67.25,384
+8823,Corner Grocery,2025-03-21,12:53,Normal,Digital Wallet,Bakery,Bread,2.0,4.64,9.28,2.18,7.1,61
+6507,SuperSave Central,2025-01-22,17:32,Member,Digital Wallet,Produce,Onions,4.0,7.59,30.36,1.52,28.84,221
+5235,ValuePlus Market,2025-02-26,20:49,Member,Cash,Beverages,Pasta,1.0,2.8,2.8,0.0,2.8,50
+1540,ValuePlus Market,2025-03-25,10:37,Member,Cash,Dairy,Cheese,4.0,6.02,24.08,0.12,23.96,313
+6510,ValuePlus Market,2025-01-27,17:26,Normal,Credit Card,Dairy,Milk,2.0,8.34,16.68,0.0,16.68,100
+9461,GreenGrocer Plaza,2025-02-10,16:33,Normal,Cash,Produce,Pasta,1.0,11.39,11.39,0.0,11.39,48
+8926,SuperSave Central,2025-03-21,19:14,Normal,Cash,Meat,Milk,4.0,4.17,16.68,0.0,16.68,22
+6131,City Fresh Store,2025-02-03,11:31,Member,Cash,Dairy,Pasta,4.0,4.44,17.76,0.0,17.76,397
+9697,ValuePlus Market,2025-02-01,18:57,Normal,Cash,Produce,Cheese,1.0,10.03,10.03,3.11,6.92,105
+2129,SuperSave Central,2025-03-31,18:20,Member,Credit Card,Meat,Milk,1.0,6.66,6.66,0.0,6.66,118
+4145,Corner Grocery,2025-03-30,20:45,Normal,Credit Card,Produce,Bread,3.0,8.01,24.03,4.95,19.08,113
+9553,GreenGrocer Plaza,2025-03-07,18:04,Normal,Cash,Produce,Cheese,1.0,12.79,12.79,0.0,12.79,363
+4720,SuperSave Central,2025-01-12,16:05,Normal,Cash,Meat,Milk,2.0,8.24,16.48,0.0,16.48,240
+5067,SuperSave Central,2025-02-09,17:37,Normal,Credit Card,Meat,Milk,5.0,10.31,51.55,3.81,47.74,52
+5195,City Fresh Store,2025-03-14,19:21,Normal,Credit Card,Meat,Chicken,3.0,10.37,31.11,1.65,29.46,218
+8281,SuperSave Central,2025-03-17,17:17,Normal,Cash,Produce,Chicken,1.0,12.35,12.35,0.0,12.35,97
+3509,City Fresh Store,2025-03-31,09:13,Member,Digital Wallet,Dairy,Cheese,5.0,10.11,50.55,1.92,48.63,102
+6016,GreenGrocer Plaza,2025-03-14,19:09,Normal,Credit Card,Bakery,Cheese,3.0,2.37,7.11,0.68,6.43,183
+7533,GreenGrocer Plaza,2025-01-10,18:45,Member,Credit Card,Bakery,Cheese,2.0,6.12,12.24,0.0,12.24,485
+5727,Corner Grocery,2025-02-17,17:12,Member,CREDIT CARD,Produce,Onions,5.0,14.86,74.3,0.0,74.3,135
+1681,City Fresh Store,2025-01-20,12:30,Member,Cash,Produce,Bread,1.0,4.15,4.15,0.0,4.15,118
+4932,City Fresh Store,2025-02-08,17:29,Normal,Cash,Dairy,Pasta,1.0,9.42,9.42,1.39,8.03,56
+6560,ValuePlus Market,2025-03-01,15:02,Member,Credit Card,Meat,Chicken,2.0,12.88,25.76,0.0,25.76,223
+5016,ValuePlus Market,2025-03-07,17:29,Normal,Cash,Produce,Milk,3.0,9.42,28.26,0.0,28.26,101
+8339,Corner Grocery,2025-03-06,10:05,Member,Cash,Beverages,Chicken,5.0,6.53,32.65,0.0,32.65,190
+1719,GreenGrocer Plaza,2025-02-20,17:28,Member,Credit Card,Meat,Pasta,2.0,2.58,5.16,0.0,5.16,418
+1074,ValuePlus Market,2025-02-05,21:07,Normal,Cash,Produce,Cheese,3.0,6.38,19.14,3.49,15.65,50
+5157,SuperSave Central,2025-01-24,09:43,Member,Digital Wallet,Beverages,Chicken,4.0,3.96,15.84,2.34,13.5,268
+9511,GreenGrocer Plaza,2025-01-27,20:44,Normal,Cash,Dairy,Bread,4.0,14.47,57.88,0.0,57.88,130
+3149,SuperSave Central,2025-01-02,15:42,Normal,Cash,Beverages,Bread,3.0,11.15,33.45,36.60459408938651,-3.15,86
+7713,City Fresh Store,2025-01-31,19:43,Normal,Credit Card,Produce,Onions,1.0,11.62,11.62,0.0,11.62,104
+5207,GreenGrocer Plaza,2025-02-26,18:32,Normal,Credit Card,Bakery,Chicken,1.0,7.39,7.39,1.45,5.94,278
+8141,Corner Grocery,2025-03-19,17:16,Member,Digital Wallet,Produce,Cheese,4.0,2.98,11.92,1.64,10.28,370
+9652,City Fresh Store,2025-03-07,18:47,Member,Cash,Bakery,Milk,1.0,5.1,5.1,0.0,5.1,27
+4936,City Fresh Store,2025-01-29,19:10,Member,Digital Wallet,Dairy,Onions,1.0,5.01,5.01,0.0,5.01,302
+2075,SuperSave Central,2025-01-15,15:12,Normal,Digital Wallet,Dairy,Cheese,3.0,8.07,24.21,0.0,24.21,180
+4876,City Fresh Store,2025-01-12,13:49,Member,Credit Card,Meat,Onions,3.0,7.72,23.16,3.34,19.82,171
+5615,ValuePlus Market,2025-01-28,17:10,Member,Cash,Meat,Chicken,1.0,7.35,7.35,0.0,7.35,474
+8265,GreenGrocer Plaza,2025-03-25,18:30,Member,Credit Card,Bakery,Pasta,3.0,8.2,24.6,0.0,24.6,320
+7379,ValuePlus Market,2025-01-24,18:27,Normal,Digital Wallet,Bakery,Chicken,5.0,14.82,74.1,0.0,74.1,61
+5652,SuperSave Central,2025-01-21,18:43,Member,Digital Wallet,Dairy,Cheese,4.0,5.53,22.12,0.0,22.12,478
+7792,SuperSave Central,2025-01-10,15:05,Normal,Credit Card,Beverages,Milk,5.0,9.81,49.05,1.94,47.11,45
+8456,GreenGrocer Plaza,2025-03-19,18:40,Member,Credit Card,Bakery,Milk,5.0,4.73,23.65,0.0,23.65,447
+5674,,2025-01-18,11:15,Member,Credit Card,Bakery,Cheese,1.0,7.8,7.8,0.0,7.8,196
+1541,Corner Grocery,2025-03-29,17:03,Member,Credit Card,Beverages,Onions,1.0,4.2,4.2,4.58,-0.38,379
+3161,SuperSave Central,2025-01-14,08:34,Normal,Credit Card,Meat,Bread,5.0,9.04,45.2,0.0,45.2,257
+3251,GreenGrocer Plaza,2025-02-03,13:59,Normal,Digital Wallet,Meat,Cheese,5.0,5.08,25.4,0.0,25.4,61
+5569,Corner Grocery,2025-02-27,14:47,Member,Credit Card,Bakery,Chicken,2.0,2.0,4.0,0.0,4.0,497
+3744,City Fresh Store,2025-03-17,15:55,Member,Cash,Meat,Milk,2.0,12.51,25.02,0.38,24.64,28
+7041,SuperSave Central,2025-01-22,18:58,Normal,Digital Wallet,Meat,Pasta,4.0,3.23,12.92,0.0,12.92,405
+5675,GreenGrocer Plaza,2025-03-11,15:25,Member,Digital Wallet,Meat,Milk,5.0,6.47,32.35,0.89,31.46,101
+2560,GreenGrocer Plaza,2025-02-05,16:56,Member,Cash,Dairy,Bread,3.0,7.94,23.82,0.0,23.82,148
+2164,GreenGrocer Plaza,2025-02-14,12:11,Member,Cash,Produce,Milk,2.0,7.34,14.68,0.0,14.68,313
+6419,SuperSave Central,2025-02-05,14:10,Member,Digital Wallet,Bakery,Bread,1.0,11.3,11.3,4.7,6.6,366
+3722,Corner Grocery,2025-01-22,12:36,Member,Credit Card,Bakery,Cheese,5.0,9.56,47.8,4.15,43.65,229
+1470,GreenGrocer Plaza,2025-03-19,10:24,Member,Digital Wallet,Dairy,Milk,3.0,5.49,16.47,0.0,16.47,108
+2468,City Fresh Store,2025-03-21,17:17,Member,Digital Wallet,Produce,Onions,3.0,2.2,6.6,3.0,3.6,245
+8925,GreenGrocer Plaza,2025-03-02,17:18,Normal,Cash,Produce,Chicken,3.0,11.86,35.58,0.0,35.58,216
+1808,Corner Grocery,2025-02-25,17:22,Member,Digital Wallet,Dairy,Onions,1.0,6.26,6.26,1.32,4.94,153
+9363,SuperSave Central,2025-03-30,16:54,Normal,Credit Card,Beverages,Chicken,2.0,13.51,27.02,0.0,27.02,208
+7719,GreenGrocer Plaza,2025-02-02,14:37,Member,Cash,Beverages,Milk,3.0,6.83,20.49,0.0,20.49,312
+6073,GreenGrocer Plaza,2025-02-14,19:53,Normal,Digital Wallet,Produce,Milk,2.0,11.19,22.38,0.0,22.38,332
+9012,City Fresh Store,2025-02-05,16:17,Member,Digital Wallet,Beverages,Chicken,4.0,14.18,56.72,0.0,56.72,296
+2645,City Fresh Store,2025-01-20,16:25,Normal,Credit Card,Beverages,Pasta,1.0,10.29,10.29,0.0,10.29,341
+9249,,2025-01-18,08:05,Member,Digital Wallet,Beverages,Milk,2.0,7.08,14.16,0.0,14.16,273
+2129,GreenGrocer Plaza,2025-02-07,14:03,Normal,Digital Wallet,Produce,Pasta,2.0,9.16,18.32,4.7,13.62,226
+2353,City Fresh Store,2025-03-08,15:43,Member,Digital Wallet,Beverages,Pasta,3.0,8.84,26.52,0.0,26.52,198
+1767,Corner Grocery,2025-01-23,15:50,Member,Digital Wallet,Bakery,Chicken,3.0,9.4,28.2,0.0,28.2,53
+4895,ValuePlus Market,2025-01-16,17:28,Normal,Credit Card,Produce,Pasta,1.0,3.48,3.48,4.25,-0.77,443
+9874,ValuePlus Market,2025-02-28,17:58,Normal,Digital Wallet,Dairy,Pasta,2.0,10.93,21.86,0.0,21.86,300
+4454,GreenGrocer Plaza,2025-03-10,17:33,Member,Digital Wallet,Beverages,Cheese,5.0,3.46,17.3,0.0,17.3,469
+8329,City Fresh Store,2025-03-09,18:16,Normal,Digital Wallet,Meat,Onions,3.0,1.7,5.1,0.0,5.1,198
+2790,SuperSave Central,2025-01-21,18:42,Member,Cash,Produce,Pasta,3.0,9.93,29.79,0.0,29.79,478
+1885,SuperSave Central,2025-03-19,18:42,Member,Credit Card,Dairy,Onions,4.0,3.08,12.32,1.72,10.6,483
+8734,ValuePlus Market,2025-03-19,20:52,Normal,Cash,Bakery,Pasta,1.0,11.9,11.9,0.0,11.9,448
+4906,Corner Grocery,2025-03-11,08:15,Member,Cash,Dairy,Onions,2.0,13.19,26.38,0.0,26.38,203
+5492,ValuePlus Market,2025-01-12,12:01,Normal,Credit Card,Beverages,Milk,2.0,14.25,28.5,0.0,28.5,279
+3073,GreenGrocer Plaza,2025-01-16,08:33,Member,Cash,Meat,Milk,2.0,10.47,20.94,0.0,20.94,375
+1312,Corner Grocery,2025-03-22,17:54,Normal,Cash,Beverages,Onions,3.0,8.01,24.03,0.0,24.03,269
+7269,SuperSave Central,2025-03-28,19:07,Normal,Cash,Dairy,Pasta,1.0,6.26,6.26,2.83,3.43,410
+6317,City Fresh Store,2025-01-14,12:12,Normal,Credit Card,Produce,Cheese,2.0,8.13,16.26,3.42,12.84,248
+1810,City Fresh Store,2025-03-02,19:41,Normal,Digital Wallet,Meat,Onions,5.0,4.07,20.35,0.31,20.04,121
+7841,GreenGrocer Plaza,2025-03-12,09:07,Member,Credit Card,Meat,Bread,4.0,6.2,24.8,0.0,24.8,78
+3032,ValuePlus Market,2025-02-15,19:29,Normal,Credit Card,Dairy,Cheese,4.0,11.19,44.76,0.0,44.76,417
+8129,GreenGrocer Plaza,2025-02-01,14:31,Member,Credit Card,Beverages,Bread,2.0,4.44,8.88,4.74,4.14,58
+3705,City Fresh Store,2025-01-15,10:35,Normal,Cash,Dairy,Onions,3.0,5.06,15.18,0.0,15.18,320
+9788,SuperSave Central,2025-02-13,16:46,Normal,Digital Wallet,Meat,Pasta,4.0,11.62,46.48,0.5,45.98,464
+3147,City Fresh Store,2025-01-17,12:29,Normal,Credit Card,Dairy,Bread,4.0,3.9,15.6,0.21,15.39,160
+1615,Corner Grocery,2025-02-10,13:00,Normal,Credit Card,Meat,Onions,4.0,4.82,19.28,1.33,17.95,248
+1947,City Fresh Store,2025-02-23,13:42,Member,Digital Wallet,Beverages,Cheese,4.0,1.74,6.96,0.0,6.96,346
+6677,City Fresh Store,2025-02-13,18:38,Normal,Digital Wallet,Produce,Pasta,2.0,11.22,22.44,0.0,22.44,405
+5651,Corner Grocery,2025-01-05,17:16,Member,Digital Wallet,Produce,Bread,1.0,9.84,9.84,4.23,5.61,404
+8866,ValuePlus Market,2025-01-27,13:58,Normal,Cash,Dairy,Onions,1.0,10.87,10.87,1.56,9.31,124
+3013,City Fresh Store,2025-03-28,17:19,Member,Digital Wallet,Meat,Pasta,3.0,4.39,13.17,0.0,13.17,84
+4697,GreenGrocer Plaza,2025-03-19,18:23,Normal,Cash,Produce,Pasta,5.0,10.78,53.9,3.65,50.25,107
+1490,City Fresh Store,2025-03-20,13:49,Member,Credit Card,Meat,Milk,1.0,9.55,9.55,0.0,9.55,392
+5350,GreenGrocer Plaza,2025-02-12,15:21,Normal,Cash,Beverages,Pasta,5.0,6.44,32.2,0.0,32.2,120
+3428,Corner Grocery,2025-01-31,11:28,Member,Digital Wallet,Dairy,Onions,1.0,7.41,7.41,1.15,6.26,366
+5987,City Fresh Store,2025-01-17,12:21,Normal,Cash,Meat,Cheese,1.0,9.17,9.17,0.0,9.17,379
+9733,Corner Grocery,2025-03-24,18:43,Member,Digital Wallet,Dairy,Chicken,3.0,8.16,24.48,0.0,24.48,294
+5920,Corner Grocery,2025-02-23,12:08,Normal,Cash,Meat,Milk,4.0,10.16,40.64,0.0,40.64,265
+3926,ValuePlus Market,2025-03-03,16:36,Member,Credit Card,Meat,Onions,3.0,3.94,11.82,0.0,11.82,327
+8282,City Fresh Store,2025-03-28,18:09,Normal,Cash,Beverages,Onions,1.0,8.8,8.8,0.0,8.8,318
+5376,GreenGrocer Plaza,2025-02-01,10:35,Member,Credit Card,Dairy,Onions,4.0,7.58,30.32,0.0,30.32,126
+5868,GreenGrocer Plaza,2025-02-09,17:36,Normal,Digital Wallet,Bakery,Bread,4.0,7.72,30.88,0.0,30.88,185
+7986,City Fresh Store,2025-01-13,12:27,Member,Credit Card,Meat,Bread,4.0,7.84,31.36,1.06,30.3,237
+7862,ValuePlus Market,2025-03-25,20:27,Normal,Digital Wallet,Meat,Cheese,5.0,13.4,67.0,4.76,62.24,356
+5423,ValuePlus Market,2025-02-04,16:41,Member,Digital Wallet,Produce,Onions,1.0,12.55,12.55,0.0,12.55,115
+7870,ValuePlus Market,2025-01-05,18:42,Member,CREDIT CARD,Dairy,Bread,2.0,10.0,20.0,0.0,20.0,351
+9159,GreenGrocer Plaza,2025-03-14,17:20,Normal,Credit Card,Bakery,Bread,3.0,11.17,33.51,0.0,33.51,393
+3073,Corner Grocery,2025-01-29,09:23,Member,Cash,Beverages,Bread,5.0,2.08,10.4,0.57,9.83,459
+7170,ValuePlus Market,2025-03-11,17:41,Member,Cash,Bakery,Cheese,3.0,11.54,34.62,1.81,32.81,248
+1701,GreenGrocer Plaza,2025-01-25,20:59,Normal,Credit Card,Beverages,Cheese,2.0,8.06,16.12,3.3,12.82,109
+9113,GreenGrocer Plaza,2025-01-22,17:39,Normal,Credit Card,Bakery,Onions,4.0,5.79,23.16,0.0,23.16,185
+7825,Corner Grocery,2025-03-07,18:01,Normal,Credit Card,Bakery,Milk,2.0,3.39,6.78,3.28,3.5,359
+8867,City Fresh Store,2025-02-14,19:54,Member,Credit Card,Dairy,Onions,3.0,2.52,7.56,0.0,7.56,452
+5264,City Fresh Store,2025-03-10,12:07,Member,Digital Wallet,Produce,Bread,2.0,2.11,4.22,3.61,0.61,464
+8968,ValuePlus Market,2025-03-30,12:47,Normal,Credit Card,Bakery,Chicken,1.0,3.68,3.68,0.0,3.68,450
+9146,ValuePlus Market,2025-03-13,17:26,Member,Credit Card,Meat,Bread,2.0,1.91,3.82,0.0,3.82,258
+8776,Corner Grocery,2025-01-01,15:21,Normal,Credit Card,Meat,Pasta,1.0,11.39,11.39,0.68,10.71,85
+9558,ValuePlus Market,2025-03-25,18:36,Member,Credit Card,Meat,Chicken,2.0,4.86,9.72,1.81,7.91,12
+9719,Corner Grocery,2025-02-13,19:26,Normal,Digital Wallet,Produce,Chicken,1.0,6.48,6.48,0.0,6.48,90
+5886,GreenGrocer Plaza,2025-03-28,14:56,Normal,Cash,Bakery,Onions,1.0,12.61,12.61,0.0,12.61,370
+4935,ValuePlus Market,2025-03-16,12:28,Normal,Cash,Beverages,Bread,2.0,3.05,6.1,0.0,6.1,297
+5619,GreenGrocer Plaza,2025-02-08,18:02,Member,Cash,Beverages,Bread,5.0,12.78,63.9,0.0,63.9,17
+6191,SuperSave Central,2025-02-23,13:43,Normal,Cash,Dairy,Milk,4.0,10.13,40.52,0.0,40.52,96
+7875,Corner Grocery,2025-03-29,18:12,Member,Cash,Produce,Pasta,4.0,6.12,24.48,0.97,23.51,495
+8856,SuperSave Central,2025-03-16,15:44,Normal,Digital Wallet,Bakery,Onions,4.0,3.09,12.36,0.0,12.36,295
+6401,ValuePlus Market,2025-01-29,17:09,Normal,Cash,Meat,Cheese,1.0,2.74,2.74,2.76,-0.02,408
+4022,GreenGrocer Plaza,2025-02-23,10:35,Member,Digital Wallet,Produce,Onions,4.0,6.03,24.12,2.07,22.05,83
+6738,ValuePlus Market,2025-03-31,17:08,Member,Digital Wallet,Produce,Chicken,1.0,3.39,3.39,3.17,0.22,448
+6984,SuperSave Central,2025-01-16,16:53,Normal,Cash,Bakery,Onions,5.0,5.11,25.55,4.27,21.28,132
+2770,ValuePlus Market,2025-01-20,17:55,Member,Cash,Dairy,Milk,2.0,2.21,4.42,2.33,2.09,386
+9989,City Fresh Store,2025-02-15,11:54,Normal,Cash,Dairy,Onions,2.0,9.53,19.06,0.0,19.06,303
+4215,SuperSave Central,2025-03-08,18:26,Member,Credit Card,Dairy,Milk,1.0,3.46,3.46,0.0,3.46,152
+7694,ValuePlus Market,2025-03-06,19:33,Member,Digital Wallet,Meat,Chicken,1.0,11.72,11.72,0.0,11.72,167
+3976,GreenGrocer Plaza,2025-02-27,12:50,Normal,Cash,Meat,Milk,5.0,4.45,22.25,0.0,22.25,439
+4737,ValuePlus Market,2025-02-22,10:00,Normal,Credit Card,Bakery,Bread,4.0,12.27,49.08,0.0,49.08,457
+1752,GreenGrocer Plaza,2025-01-01,08:31,Member,Digital Wallet,Dairy,Cheese,5.0,4.06,20.3,2.86,17.44,419
+2392,City Fresh Store,2025-03-22,17:24,Normal,Credit Card,Bakery,Chicken,2.0,11.24,22.48,0.0,22.48,380
+7789,ValuePlus Market,2025-03-07,17:28,Normal,Credit Card,Dairy,Milk,2.0,6.0,12.0,0.0,12.0,118
+1677,City Fresh Store,2025-01-29,17:06,Normal,Cash,Produce,Pasta,4.0,9.37,37.48,1.54,35.94,343
+1105,SuperSave Central,2025-03-25,12:48,Member,Digital Wallet,Beverages,Chicken,2.0,2.02,4.04,0.0,4.04,204
+5753,GreenGrocer Plaza,2025-03-11,15:02,Member,Credit Card,Beverages,Pasta,1.0,8.19,8.19,0.0,8.19,45
+2946,SuperSave Central,2025-01-08,17:19,Normal,Digital Wallet,Dairy,Cheese,2.0,3.51,7.02,1.62,5.4,99
+6544,GreenGrocer Plaza,2025-01-29,16:19,Normal,Cash,Bakery,Milk,3.0,8.07,24.21,1.02,23.19,471
+2095,City Fresh Store,2025-02-20,21:52,Member,Digital Wallet,Meat,Chicken,4.0,3.41,13.64,0.0,13.64,424
+7985,Corner Grocery,2025-02-02,11:29,Normal,Credit Card,Dairy,Chicken,4.0,7.4,29.6,4.0,25.6,471
+2782,ValuePlus Market,2025-01-03,18:34,Member,Credit Card,Dairy,Cheese,4.0,2.99,11.96,0.0,11.96,305
+5541,City Fresh Store,2025-03-01,15:34,Member,Digital Wallet,Meat,Bread,3.0,4.47,13.41,0.0,13.41,339
+4257,GreenGrocer Plaza,2025-02-04,15:48,Normal,Credit Card,Dairy,Pasta,5.0,9.53,47.65,0.0,47.65,210
+7213,GreenGrocer Plaza,2025-03-10,18:38,Normal,Credit Card,Produce,Chicken,1.0,14.68,14.68,4.42,10.26,55
+5869,GreenGrocer Plaza,2025-03-17,18:26,Member,Credit Card,Meat,Onions,4.0,7.56,30.24,0.0,30.24,497
+2561,GreenGrocer Plaza,2025-03-25,21:25,Normal,Cash,Produce,Pasta,2.0,10.78,21.56,0.37,21.19,116
+5006,ValuePlus Market,2025-01-20,11:13,Normal,Cash,Beverages,Milk,1.0,8.78,8.78,0.0,8.78,179
+4981,SuperSave Central,2025-03-14,10:16,Normal,Credit Card,Meat,Cheese,2.0,8.23,16.46,0.18,16.28,155
+6682,Corner Grocery,2025-02-08,18:17,Normal,Digital Wallet,Meat,Pasta,1.0,2.37,2.37,1.27,1.1,365
+6782,ValuePlus Market,2025-01-04,17:44,Member,Cash,Bakery,Onions,1.0,3.45,3.45,0.0,3.45,429
+1943,GreenGrocer Plaza,2025-01-19,13:51,Member,Digital Wallet,Bakery,Onions,2.0,13.42,26.84,0.0,26.84,469
+5550,ValuePlus Market,2025-02-14,10:28,Member,Credit Card,Meat,Cheese,2.0,7.04,14.08,3.91,10.17,187
+1600,City Fresh Store,2025-02-12,10:19,Normal,Credit Card,Beverages,Cheese,1.0,9.79,9.79,0.0,9.79,70
+7376,GreenGrocer Plaza,2025-01-13,19:52,Normal,Digital Wallet,Dairy,Pasta,4.0,8.63,34.52,0.0,34.52,433
+2524,Corner Grocery,2025-01-13,12:26,Member,Cash,Bakery,Milk,2.0,6.61,13.22,0.0,13.22,12
+4766,GreenGrocer Plaza,2025-03-01,13:17,Member,Digital Wallet,Beverages,Bread,3.0,6.74,20.22,0.0,20.22,91
+1250,Corner Grocery,2025-02-26,12:03,Member,Digital Wallet,Beverages,Onions,3.0,9.0,27.0,0.0,27.0,272
+1078,Corner Grocery,2025-03-27,14:00,Member,Credit Card,Bakery,Cheese,1.0,3.41,3.41,0.0,3.41,296
+4123,SuperSave Central,2025-02-21,09:49,Normal,Cash,Dairy,Bread,5.0,6.73,33.65,4.41,29.24,330
+8064,SuperSave Central,2025-02-22,16:00,Normal,Digital Wallet,Bakery,Bread,1.0,7.53,7.53,0.0,7.53,104
+9417,ValuePlus Market,2025-03-27,09:57,Member,Cash,Beverages,Bread,1.0,14.8,14.8,0.0,14.8,73
+2209,ValuePlus Market,2025-02-12,18:25,Normal,Credit Card,Produce,Milk,4.0,6.24,24.96,3.66,21.3,255
+6153,Corner Grocery,2025-03-24,12:44,Normal,Cash,Bakery,Cheese,4.0,10.2,40.8,0.2,40.6,86
+5898,GreenGrocer Plaza,2025-03-13,17:19,Normal,Credit Card,Beverages,Onions,5.0,3.36,16.8,0.0,16.8,486
+3178,City Fresh Store,2025-03-13,19:51,Member,Cash,Bakery,Cheese,5.0,2.38,11.9,0.0,11.9,268
+8610,City Fresh Store,2025-02-11,17:22,Member,Digital Wallet,Beverages,Pasta,5.0,13.27,66.35,0.0,66.35,102
+9895,GreenGrocer Plaza,2025-03-31,17:09,Member,Credit Card,Dairy,Onions,5.0,11.36,56.8,0.0,56.8,300
+3544,GreenGrocer Plaza,2025-01-26,13:58,Normal,Digital Wallet,Beverages,Cheese,5.0,5.79,28.95,4.64,24.31,280
+6522,SuperSave Central,2025-01-23,14:10,Normal,Credit Card,Meat,Onions,1.0,8.31,8.31,1.19,7.12,30
+3370,City Fresh Store,2025-02-12,17:40,Normal,Cash,Produce,Pasta,1.0,3.33,3.33,4.23,-0.9,71
+4281,Corner Grocery,2025-03-18,21:40,Member,Cash,Beverages,Chicken,3.0,11.05,33.15,3.33,29.82,348
+5710,ValuePlus Market,2025-01-28,17:04,Member,Credit Card,Bakery,Onions,3.0,2.45,7.35,0.0,7.35,421
+1328,SuperSave Central,2025-01-09,17:57,Member,Credit Card,Bakery,Chicken,2.0,11.72,23.44,4.22,19.22,269
+6579,City Fresh Store,2025-01-20,18:00,Normal,Credit Card,Beverages,Bread,1.0,8.88,8.88,1.43,7.45,246
+5228,GreenGrocer Plaza,2025-02-25,16:16,Member,Cash,Meat,Milk,5.0,5.26,26.3,0.0,26.3,150
+7794,City Fresh Store,2025-03-24,09:21,Member,Credit Card,Beverages,Pasta,2.0,13.14,26.28,0.0,26.28,472
+1120,Corner Grocery,2025-02-08,17:33,Normal,Credit Card,Dairy,Onions,4.0,14.81,59.24,0.0,59.24,444
+7749,SuperSave Central,2025-02-20,20:55,Normal,Digital Wallet,Meat,Pasta,1.0,4.93,4.93,0.0,4.93,441
+1964,GreenGrocer Plaza,2025-01-12,11:44,Normal,Credit Card,Beverages,Bread,3.0,12.38,37.14,0.58,36.56,176
+5224,Corner Grocery,2025-03-20,18:40,Member,Digital Wallet,Produce,Chicken,1.0,11.63,11.63,1.91,9.72,489
+4675,ValuePlus Market,2025-02-24,12:28,Normal,Digital Wallet,Meat,Milk,1.0,11.59,11.59,1.17,10.42,76
+6694,SuperSave Central,2025-03-19,17:03,Member,Digital Wallet,Beverages,Pasta,1.0,14.42,14.42,0.5,13.92,359
+3076,Corner Grocery,2025-01-11,10:04,Normal,Cash,Produce,Chicken,1.0,8.07,8.07,0.55,7.52,67
+7865,Corner Grocery,2025-01-26,16:10,Member,Digital Wallet,Beverages,Bread,4.0,10.6,42.4,0.0,42.4,221
+6643,GreenGrocer Plaza,2025-02-11,18:55,Member,Credit Card,Dairy,Bread,3.0,12.62,37.86,0.0,37.86,139
+9524,ValuePlus Market,2025-01-27,14:50,Normal,Cash,Bakery,Bread,1.0,7.97,7.97,4.64,3.33,34
+6249,Corner Grocery,2025-01-11,17:20,Normal,Cash,Beverages,Chicken,4.0,8.0,32.0,4.27,27.73,20
+2316,SuperSave Central,2025-02-07,18:34,Normal,Cash,Meat,Onions,2.0,5.8,11.6,4.15,7.45,266
+2196,Corner Grocery,2025-02-12,19:11,Member,Cash,Beverages,Cheese,1.0,12.04,12.04,0.0,12.04,313
+4170,City Fresh Store,2025-01-19,12:25,Member,Cash,Beverages,Pasta,4.0,10.76,43.04,3.95,39.09,378
+1355,SuperSave Central,2025-03-05,15:50,Normal,Cash,Beverages,Cheese,5.0,7.59,37.95,3.92,34.03,441
+1028,SuperSave Central,2025-01-06,11:18,Normal,Cash,Beverages,Bread,2.0,7.16,14.32,0.0,14.32,403
+2013,Corner Grocery,2025-02-15,21:44,Normal,Digital Wallet,Meat,Cheese,3.0,2.48,7.44,3.31,4.13,90
+3024,GreenGrocer Plaza,2025-02-11,19:59,Normal,Credit Card,Meat,Chicken,1.0,1.59,1.59,0.0,1.59,295
+9490,SuperSave Central,2025-03-06,17:06,Normal,Credit Card,Beverages,Bread,1.0,8.64,8.64,0.0,8.64,428
+6839,City Fresh Store,2025-03-13,18:46,Normal,Digital Wallet,Bakery,Bread,4.0,7.14,28.56,3.48,25.08,379
+6791,GreenGrocer Plaza,2025-02-28,16:54,Member,Digital Wallet,Beverages,Milk,3.0,12.25,36.75,0.0,36.75,28
+1754,GreenGrocer Plaza,2025-02-21,17:06,Member,Cash,Meat,Milk,5.0,8.83,44.15,0.0,44.15,119
+9961,GreenGrocer Plaza,2025-02-16,10:25,Member,Cash,Dairy,Chicken,2.0,14.15,28.3,0.2,28.1,446
+4735,SuperSave Central,2025-01-07,18:39,Member,Digital Wallet,Beverages,Chicken,3.0,4.15,12.45,4.87,7.58,43
+2238,GreenGrocer Plaza,2025-01-11,11:04,Normal,Cash,Beverages,Cheese,1.0,14.87,14.87,0.0,14.87,297
+2906,Corner Grocery,2025-03-02,18:20,Normal,Credit Card,Beverages,Pasta,4.0,5.52,22.08,1.93,20.15,341
+8399,GreenGrocer Plaza,2025-03-09,18:13,Normal,Credit Card,Beverages,Cheese,5.0,10.17,50.85,0.0,50.85,264
+8961,City Fresh Store,2025-01-25,18:03,Member,Cash,Produce,Chicken,4.0,8.28,33.12,4.4,28.72,135
+5601,ValuePlus Market,2025-01-12,09:22,Normal,Cash,Beverages,Pasta,2.0,6.35,12.7,1.27,11.43,218
+2460,City Fresh Store,2025-01-26,13:41,Member,Cash,Meat,Cheese,3.0,3.38,10.14,0.0,10.14,143
+8669,SuperSave Central,2025-01-12,13:19,Normal,Credit Card,Meat,Onions,4.0,3.32,13.28,0.0,13.28,406
+2416,GreenGrocer Plaza,2025-02-12,14:14,Member,Cash,Produce,Onions,4.0,11.11,44.44,0.0,44.44,496
+8766,GreenGrocer Plaza,2025-02-20,10:49,Normal,Digital Wallet,Beverages,Pasta,1.0,6.6,6.6,0.0,6.6,95
+2428,Corner Grocery,2025-02-06,19:51,Member,Cash,Bakery,Milk,4.0,14.48,57.92,4.37,53.55,84
+5378,GreenGrocer Plaza,2025-02-15,17:44,Member,Digital Wallet,Beverages,Pasta,5.0,5.9,29.5,0.0,29.5,457
+8529,City Fresh Store,2025-02-22,13:28,Normal,Cash,Meat,Cheese,3.0,14.78,44.34,0.0,44.34,144
+5474,SuperSave Central,2025-03-29,15:07,Normal,Cash,Dairy,Bread,2.0,4.27,8.54,0.81,7.73,310
+4071,ValuePlus Market,2025-03-21,16:40,Normal,Credit Card,Dairy,Onions,4.0,2.89,11.56,0.0,11.56,182
+1555,GreenGrocer Plaza,2025-01-13,17:47,Normal,Digital Wallet,Bakery,Bread,5.0,5.72,28.6,0.0,28.6,222
+9547,ValuePlus Market,2025-03-30,16:18,Normal,Digital Wallet,Beverages,Onions,2.0,13.46,26.92,0.0,26.92,330
+2563,GreenGrocer Plaza,2025-02-23,19:47,Normal,Digital Wallet,Produce,Cheese,5.0,8.55,42.75,0.86,41.89,359
+2040,SuperSave Central,2025-02-26,16:38,Normal,Credit Card,Beverages,Onions,4.0,3.33,13.32,4.98,8.34,28
+3686,City Fresh Store,2025-01-04,21:45,Normal,Digital Wallet,Bakery,Pasta,4.0,4.23,16.92,2.64,14.28,128
+3553,SuperSave Central,2025-03-16,18:27,Member,Credit Card,Bakery,Bread,3.0,5.7,17.1,0.0,17.1,312
+2779,ValuePlus Market,2025-02-18,12:45,Normal,Cash,Bakery,Chicken,1.0,9.47,9.47,0.0,9.47,311
+1075,GreenGrocer Plaza,2025-01-07,19:56,Member,Cash,Dairy,Bread,5.0,5.99,29.95,0.0,29.95,294
+5326,ValuePlus Market,2025-01-11,10:26,Normal,Digital Wallet,Beverages,Cheese,1.0,11.59,11.59,0.0,11.59,236
+6835,City Fresh Store,2025-02-23,18:03,Member,Cash,Beverages,Chicken,1.0,9.82,9.82,0.0,9.82,221
+6057,SuperSave Central,2025-03-28,15:57,Member,Cash,Produce,Bread,2.0,13.3,26.6,0.0,26.6,365
+3349,ValuePlus Market,2025-02-14,19:14,Normal,Digital Wallet,Bakery,Cheese,2.0,8.26,16.52,0.0,16.52,198
+3773,ValuePlus Market,2025-01-23,19:34,Member,Cash,Bakery,Milk,5.0,5.97,29.85,1.48,28.37,496
+3262,City Fresh Store,2025-01-28,18:36,Member,Digital Wallet,Meat,Pasta,1.0,14.95,14.95,0.0,14.95,330
+4229,GreenGrocer Plaza,2025-02-26,18:00,Normal,Digital Wallet,Meat,Onions,3.0,6.3,18.9,0.0,18.9,160
+1392,ValuePlus Market,2025-01-26,13:02,Normal,Cash,Dairy,Onions,1.0,7.29,7.29,0.89,6.4,232
+2108,City Fresh Store,2025-01-25,10:46,Normal,Cash,Beverages,Onions,2.0,12.42,24.84,0.0,24.84,137
+5362,GreenGrocer Plaza,2025-02-23,15:23,Member,Cash,Produce,Milk,1.0,2.7,2.7,0.0,2.7,257
+6188,GreenGrocer Plaza,2025-01-29,11:26,Normal,Cash,Produce,Pasta,4.0,6.72,26.88,2.29,24.59,60
+9802,SuperSave Central,2025-03-24,18:39,Member,Cash,Bakery,Bread,4.0,2.66,10.64,3.14,7.5,200
+6057,City Fresh Store,2025-02-05,14:35,Member,Credit Card,Produce,Bread,3.0,3.38,10.14,0.0,10.14,492
+4998,GreenGrocer Plaza,2025-01-14,20:33,Normal,Cash,Bakery,Pasta,5.0,1.56,7.8,4.45,3.35,246
+9864,SuperSave Central,2025-03-19,17:28,Normal,Credit Card,Beverages,Chicken,1.0,1.63,1.63,0.0,1.63,31
+7566,Corner Grocery,2025-02-04,18:23,Normal,Digital Wallet,Produce,Pasta,4.0,6.63,26.52,2.64,23.88,119
+4677,City Fresh Store,2025-01-30,11:23,Normal,Cash,Bakery,Onions,5.0,12.42,62.1,1.83,60.27,336
+6796,Corner Grocery,2025-01-17,19:41,Member,Cash,Beverages,Bread,4.0,9.42,37.68,0.0,37.68,42
+7363,GreenGrocer Plaza,2025-03-08,19:03,Normal,Cash,Beverages,Pasta,5.0,10.07,50.35,2.9,47.45,136
+9123,City Fresh Store,2025-03-21,16:02,Member,Digital Wallet,Bakery,Bread,5.0,8.51,42.55,4.08,38.47,374
+9222,SuperSave Central,2025-01-30,17:33,Normal,Credit Card,Bakery,Pasta,4.0,12.57,50.28,0.0,50.28,365
+8690,GreenGrocer Plaza,2025-02-14,18:56,Normal,CREDIT CARD,Dairy,Cheese,2.0,13.39,26.78,0.02,26.76,53
+2400,City Fresh Store,2025-03-20,11:48,Normal,Cash,Beverages,Onions,5.0,12.97,64.85,0.0,64.85,16
+5071,City Fresh Store,2025-03-30,16:22,Normal,Cash,Bakery,Pasta,1.0,12.46,12.46,0.0,12.46,137
+9808,Corner Grocery,2025-02-20,15:52,Normal,Cash,Beverages,Milk,4.0,3.97,15.88,2.03,13.85,100
+3786,GreenGrocer Plaza,2025-02-16,11:55,Normal,Cash,Produce,Pasta,2.0,9.52,19.04,0.0,19.04,139
+8169,SuperSave Central,2025-02-22,14:51,Member,Digital Wallet,Meat,Cheese,4.0,9.36,37.44,0.0,37.44,26
+1870,SuperSave Central,2025-03-05,09:22,Member,Cash,Meat,Milk,3.0,8.63,25.89,1.24,24.65,330
+5196,GreenGrocer Plaza,2025-02-07,08:44,Normal,Digital Wallet,Bakery,Milk,1.0,7.99,7.99,1.23,6.76,195
+3739,GreenGrocer Plaza,2025-03-05,11:04,Normal,Cash,Bakery,Pasta,3.0,2.7,8.1,0.93,7.17,119
+1940,ValuePlus Market,2025-03-28,20:30,Member,Credit Card,Beverages,Cheese,5.0,2.88,14.4,0.0,14.4,295
+1340,Corner Grocery,2025-03-30,17:52,Member,Credit Card,Bakery,Milk,5.0,13.68,68.4,0.0,68.4,479
+8422,GreenGrocer Plaza,2025-01-07,20:40,Member,Cash,Beverages,Onions,3.0,10.01,30.03,0.0,30.03,357
+5133,GreenGrocer Plaza,2025-01-22,15:56,Normal,Cash,Bakery,Chicken,3.0,5.04,15.12,0.0,15.12,490
+1659,ValuePlus Market,2025-03-22,13:56,Member,Digital Wallet,Beverages,Onions,5.0,5.27,26.35,1.84,24.51,419
+4457,ValuePlus Market,2025-03-23,16:59,Member,Cash,Bakery,Bread,2.0,9.74,19.48,0.75,18.73,172
+3975,City Fresh Store,2025-02-10,15:53,Normal,Cash,Dairy,Bread,1.0,6.99,6.99,0.0,6.99,456
+1453,SuperSave Central,2025-03-15,10:05,Normal,Cash,Beverages,Cheese,4.0,7.46,29.84,0.0,29.84,84
+9184,Corner Grocery,2025-01-10,17:36,Member,Credit Card,Dairy,Milk,3.0,2.32,6.96,4.53,2.43,208
+6442,City Fresh Store,2025-02-26,12:56,Member,Digital Wallet,Dairy,Onions,1.0,3.37,3.37,2.21,1.16,421
+1818,GreenGrocer Plaza,2025-01-07,17:09,Normal,Credit Card,Dairy,Onions,4.0,6.81,27.24,0.0,27.24,418
+5868,ValuePlus Market,2025-02-19,17:39,Normal,Digital Wallet,Dairy,Chicken,4.0,10.95,43.8,2.94,40.86,454
+1012,SuperSave Central,2025-02-21,11:06,Normal,Credit Card,Produce,Cheese,3.0,2.15,6.45,0.0,6.45,370
+8727,City Fresh Store,2025-02-02,09:38,Normal,Cash,Meat,Milk,2.0,6.02,12.04,2.81,9.23,296
+1920,SuperSave Central,2025-01-01,18:37,Member,Credit Card,Produce,Cheese,2.0,10.88,21.76,0.28,21.48,191
+5920,ValuePlus Market,2025-02-22,16:20,Normal,Credit Card,Bakery,Pasta,1.0,12.19,12.19,3.03,9.16,460
+3418,City Fresh Store,2025-03-01,09:19,Member,Digital Wallet,Bakery,Onions,1.0,4.07,4.07,0.0,4.07,106
+7475,City Fresh Store,2025-02-03,21:02,Member,Digital Wallet,Meat,Cheese,5.0,11.38,56.9,0.0,56.9,60
+3017,SuperSave Central,2025-01-04,09:50,Normal,Credit Card,Meat,Cheese,2.0,14.4,28.8,0.0,28.8,323
+8957,ValuePlus Market,2025-01-17,18:21,Normal,Digital Wallet,Meat,Chicken,1.0,13.74,13.74,0.22,13.52,43
+5792,GreenGrocer Plaza,2025-01-04,21:46,Member,Digital Wallet,Dairy,Pasta,5.0,12.16,60.8,2.3,58.5,452
+7830,,2025-02-12,12:03,Member,Digital Wallet,Produce,Bread,4.0,11.12,44.48,2.22,42.26,30
+3434,GreenGrocer Plaza,2025-03-31,11:27,Member,Digital Wallet,Bakery,Onions,1.0,4.67,4.67,2.3,2.37,193
+3868,ValuePlus Market,2025-01-04,11:11,Member,Digital Wallet,Produce,Chicken,5.0,10.06,50.3,4.9,45.4,302
+2438,City Fresh Store,2025-01-01,13:37,Normal,Credit Card,Produce,Cheese,2.0,10.18,20.36,0.0,20.36,73
+4543,City Fresh Store,2025-03-12,10:50,Member,Digital Wallet,Produce,Onions,4.0,6.99,27.96,3.45,24.51,412
+2781,GreenGrocer Plaza,2025-02-19,18:35,Normal,Cash,Meat,Bread,1.0,8.16,8.16,0.0,8.16,133
+7343,Corner Grocery,2025-03-14,09:46,Member,CREDIT CARD,Meat,Cheese,2.0,10.87,21.74,0.0,21.74,110
+3263,GreenGrocer Plaza,2025-03-02,16:40,Normal,Credit Card,Bakery,Pasta,4.0,14.35,57.4,0.0,57.4,128
+1211,GreenGrocer Plaza,2025-02-04,21:04,Normal,Credit Card,Bakery,Onions,3.0,5.49,16.47,0.0,16.47,350
+9699,Corner Grocery,2025-01-08,18:12,Normal,Digital Wallet,Bakery,Chicken,2.0,4.83,9.66,3.82,5.84,87
+7159,ValuePlus Market,2025-01-24,17:22,Member,Cash,Produce,Pasta,3.0,9.62,28.86,0.0,28.86,467
+8027,ValuePlus Market,2025-03-24,13:57,Member,Digital Wallet,Meat,Bread,1.0,3.27,3.27,0.0,3.27,190
+1331,City Fresh Store,2025-02-05,17:49,Member,Credit Card,Dairy,Bread,5.0,9.36,46.8,3.71,43.09,208
+7860,SuperSave Central,2025-02-19,16:29,Normal,Credit Card,Produce,Onions,1.0,2.7,2.7,0.96,1.74,486
+9044,SuperSave Central,2025-02-12,15:36,Normal,Credit Card,Beverages,Bread,2.0,8.12,16.24,0.0,16.24,456
+9169,City Fresh Store,2025-01-27,11:24,Normal,Credit Card,Produce,Milk,3.0,9.88,29.64,0.0,29.64,369
+9742,SuperSave Central,2025-02-01,19:47,Normal,Digital Wallet,Meat,Chicken,3.0,2.45,7.35,0.0,7.35,199
+6720,GreenGrocer Plaza,2025-03-19,16:26,Member,Cash,Beverages,Onions,4.0,4.29,17.16,2.34,14.82,337
+1727,,2025-01-18,12:50,Normal,Cash,Produce,Milk,1.0,6.03,6.03,3.42,2.61,112
+5975,Corner Grocery,2025-01-28,14:13,Normal,Credit Card,Meat,Bread,1.0,6.48,6.48,0.0,6.48,342
+4243,,2025-01-29,15:56,Member,Cash,Meat,Onions,2.0,10.63,21.26,2.04,19.22,375
+1648,City Fresh Store,2025-01-16,18:47,Member,Credit Card,Dairy,Milk,3.0,8.64,25.92,0.0,25.92,284
+6095,City Fresh Store,2025-02-16,18:58,Normal,Credit Card,Produce,Bread,2.0,6.66,13.32,0.0,13.32,468
+7614,City Fresh Store,2025-02-28,18:46,Member,Cash,Meat,Cheese,2.0,7.58,15.16,0.0,15.16,139
+8135,GreenGrocer Plaza,2025-01-31,08:53,Member,Credit Card,Bakery,Cheese,3.0,1.68,5.04,0.0,5.04,250
+2009,SuperSave Central,2025-01-04,15:35,Normal,Cash,Meat,Pasta,2.0,11.9,23.8,4.62,19.18,143
+2550,City Fresh Store,2025-02-06,16:38,Normal,Credit Card,Dairy,Cheese,3.0,2.05,6.15,0.0,6.15,166
+9995,City Fresh Store,2025-01-17,08:15,Member,Cash,Meat,Milk,2.0,12.7,25.4,28.554594089386505,-3.15,434
+8492,GreenGrocer Plaza,2025-02-08,12:55,Member,Credit Card,Produce,Chicken,5.0,8.8,44.0,0.0,44.0,444
+4401,GreenGrocer Plaza,2025-02-17,18:21,Normal,Cash,Produce,Cheese,2.0,8.63,17.26,0.0,17.26,398
+8447,GreenGrocer Plaza,2025-02-15,11:20,Normal,Credit Card,Beverages,Onions,2.0,11.01,22.02,0.0,22.02,434
+6424,SuperSave Central,2025-03-31,17:53,Member,Credit Card,Produce,Onions,5.0,13.1,65.5,0.0,65.5,327
+5241,City Fresh Store,2025-02-17,12:20,Normal,Credit Card,Beverages,Onions,1.0,14.23,14.23,0.0,14.23,167
+4161,ValuePlus Market,2025-02-08,08:07,Normal,Cash,Bakery,Cheese,3.0,8.84,26.52,0.0,26.52,368
+5155,ValuePlus Market,2025-01-04,12:48,Normal,Digital Wallet,Dairy,Cheese,4.0,3.53,14.12,4.68,9.44,199
+8478,City Fresh Store,2025-01-30,20:15,Member,Credit Card,Bakery,Pasta,5.0,13.36,66.8,69.9545940893865,-3.15,109
+9719,City Fresh Store,2025-01-30,18:58,Member,Credit Card,Beverages,Chicken,1.0,2.05,2.05,0.0,2.05,420
+7617,City Fresh Store,2025-01-22,20:54,Normal,Cash,Meat,Chicken,2.0,12.4,24.8,0.0,24.8,443
+6660,City Fresh Store,2025-03-16,16:30,Member,Credit Card,Meat,Bread,1.0,10.69,10.69,2.87,7.82,475
+9624,SuperSave Central,2025-03-07,10:41,Normal,Credit Card,Bakery,Pasta,5.0,13.71,68.55,0.0,68.55,61
+2176,ValuePlus Market,2025-01-12,17:09,Member,Credit Card,Meat,Milk,2.0,13.62,27.24,0.0,27.24,58
+8956,Corner Grocery,2025-02-05,16:31,Member,Credit Card,Beverages,Onions,1.0,2.22,2.22,3.04,-0.82,455
+9592,ValuePlus Market,2025-01-18,18:58,Member,Digital Wallet,Dairy,Cheese,4.0,9.73,38.92,4.09,34.83,109
+3233,ValuePlus Market,2025-03-31,10:33,Member,Digital Wallet,Produce,Bread,3.0,3.18,9.54,0.0,9.54,453
+5700,GreenGrocer Plaza,2025-02-22,16:08,Normal,Credit Card,Beverages,Bread,3.0,2.56,7.68,0.0,7.68,391
+6906,City Fresh Store,2025-03-12,11:16,Member,Credit Card,Beverages,Cheese,5.0,7.55,37.75,0.0,37.75,260
+8860,City Fresh Store,2025-01-01,13:10,Normal,Credit Card,Produce,Pasta,2.0,2.82,5.64,3.99,1.65,383
+8526,City Fresh Store,2025-02-27,18:31,Normal,Digital Wallet,Produce,Bread,2.0,11.33,22.66,0.0,22.66,473
+6559,GreenGrocer Plaza,2025-03-31,16:09,Member,Digital Wallet,Dairy,Chicken,3.0,14.58,43.74,0.0,43.74,63
+7732,SuperSave Central,2025-03-28,14:21,Normal,Cash,Dairy,Pasta,1.0,9.19,9.19,0.0,9.19,384
+3513,SuperSave Central,2025-03-31,15:56,Member,Cash,Dairy,Cheese,2.0,4.67,9.34,0.0,9.34,398
+8830,Corner Grocery,2025-01-06,16:16,Normal,Credit Card,Meat,Pasta,4.0,12.88,51.52,0.0,51.52,146
+7944,SuperSave Central,2025-03-11,18:03,Normal,CREDIT CARD,Beverages,Chicken,4.0,13.02,52.08,0.0,52.08,171
+8910,SuperSave Central,2025-02-13,19:47,Member,Digital Wallet,Produce,Onions,2.0,11.39,22.78,0.0,22.78,363
+6649,City Fresh Store,2025-03-13,20:51,Member,Credit Card,Beverages,Cheese,2.0,9.8,19.6,2.22,17.38,301
+2096,ValuePlus Market,2025-01-24,18:46,Normal,CREDIT CARD,Beverages,Chicken,3.0,13.22,39.66,0.0,39.66,488
+2951,SuperSave Central,2025-03-27,13:24,Normal,Digital Wallet,Dairy,Cheese,5.0,3.7,18.5,3.79,14.71,413
+8799,SuperSave Central,2025-01-19,18:58,Member,Digital Wallet,Dairy,Chicken,3.0,14.08,42.24,0.0,42.24,90
+9804,GreenGrocer Plaza,2025-01-18,15:20,Normal,Digital Wallet,Beverages,Chicken,5.0,14.29,71.45,1.32,70.13,477
+1595,Corner Grocery,2025-01-30,12:36,Member,Digital Wallet,Dairy,Bread,4.0,13.27,53.08,1.51,51.57,229
+8875,GreenGrocer Plaza,2025-02-11,18:37,Normal,Cash,Meat,Bread,5.0,4.88,24.4,0.0,24.4,94
+5439,City Fresh Store,2025-02-02,09:48,Member,Digital Wallet,Produce,Bread,3.0,13.09,39.27,4.38,34.89,92
+6972,ValuePlus Market,2025-03-15,19:00,Normal,Digital Wallet,Beverages,Onions,2.0,8.22,16.44,0.0,16.44,328
+1858,Corner Grocery,2025-01-12,16:24,Member,Credit Card,Produce,Onions,5.0,9.53,47.65,0.29,47.36,76
+6519,GreenGrocer Plaza,2025-01-27,17:50,Normal,Credit Card,Meat,Chicken,3.0,12.85,38.55,0.0,38.55,423
+8385,SuperSave Central,2025-02-08,17:35,Normal,Credit Card,Dairy,Milk,4.0,1.9,7.6,0.0,7.6,462
+9636,SuperSave Central,2025-01-09,19:16,Normal,Cash,Bakery,Cheese,5.0,6.4,32.0,0.0,32.0,243
+5317,Corner Grocery,2025-01-21,17:40,Normal,Digital Wallet,Meat,Bread,4.0,12.51,50.04,0.0,50.04,207
+4454,SuperSave Central,2025-03-17,17:23,Normal,Digital Wallet,Bakery,Cheese,4.0,12.49,49.96,0.41,49.55,268
+2030,GreenGrocer Plaza,2025-01-29,09:01,Normal,Cash,Produce,Chicken,1.0,12.96,12.96,0.0,12.96,186
+8906,GreenGrocer Plaza,2025-02-02,16:39,Normal,Digital Wallet,Beverages,Pasta,5.0,3.78,18.9,0.0,18.9,307
+2447,SuperSave Central,2025-03-03,11:14,Normal,Credit Card,Dairy,Chicken,3.0,11.03,33.09,3.65,29.44,289
+3850,SuperSave Central,2025-01-15,18:31,Normal,Cash,Meat,Onions,5.0,3.48,17.4,2.61,14.79,309
+9106,,2025-01-02,16:38,Normal,Digital Wallet,Dairy,Milk,5.0,12.1,60.5,2.09,58.41,138
+8151,ValuePlus Market,2025-02-21,18:58,Member,Cash,Bakery,Pasta,4.0,4.81,19.24,4.07,15.17,380
+7952,Corner Grocery,2025-02-13,09:05,Normal,Cash,Bakery,Cheese,4.0,11.46,45.84,0.0,45.84,447
+5055,GreenGrocer Plaza,2025-02-23,10:00,Member,Digital Wallet,Beverages,Onions,4.0,7.64,30.56,0.0,30.56,189
+6402,Corner Grocery,2025-01-18,18:46,Normal,Credit Card,Bakery,Bread,4.0,14.81,59.24,0.0,59.24,301
+2672,City Fresh Store,2025-01-03,10:22,Normal,Digital Wallet,Beverages,Pasta,3.0,9.33,27.99,0.1,27.89,216
+5532,GreenGrocer Plaza,2025-01-07,10:57,Normal,Digital Wallet,Meat,Onions,2.0,10.04,20.08,0.0,20.08,498
+5924,City Fresh Store,2025-02-12,08:38,Member,Credit Card,Beverages,Cheese,1.0,6.47,6.47,0.0,6.47,303
+7085,City Fresh Store,2025-03-23,20:56,Member,Digital Wallet,Bakery,Chicken,4.0,11.42,45.68,0.0,45.68,437
+8734,SuperSave Central,2025-02-07,18:16,Normal,Digital Wallet,Produce,Cheese,4.0,8.18,32.72,0.0,32.72,347
+5864,Corner Grocery,2025-02-06,14:33,Member,Digital Wallet,Beverages,Pasta,1.0,1.74,1.74,0.0,1.74,480
+2221,Corner Grocery,2025-02-27,13:58,Normal,Cash,Dairy,Pasta,4.0,9.72,38.88,0.61,38.27,184
+3860,SuperSave Central,2025-02-02,14:40,Normal,Cash,Produce,Chicken,2.0,12.71,25.42,0.0,25.42,38
+9428,Corner Grocery,2025-02-28,18:28,Normal,Cash,Beverages,Pasta,5.0,4.7,23.5,0.0,23.5,188
+4253,SuperSave Central,2025-01-11,17:08,Member,Digital Wallet,Dairy,Milk,1.0,4.48,4.48,2.64,1.84,50
+4782,GreenGrocer Plaza,2025-03-09,12:12,Normal,Credit Card,Produce,Bread,3.0,9.72,29.16,4.88,24.28,479
+7957,City Fresh Store,2025-03-23,11:05,Member,Cash,Beverages,Onions,1.0,12.54,12.54,0.0,12.54,201
+1766,City Fresh Store,2025-03-09,10:05,Normal,Credit Card,Meat,Chicken,2.0,4.87,9.74,2.61,7.13,353
+3681,Corner Grocery,2025-03-29,17:19,Member,Digital Wallet,Dairy,Cheese,3.0,14.09,42.27,3.37,38.9,246
+8710,ValuePlus Market,2025-01-22,18:51,Normal,Cash,Meat,Cheese,5.0,14.02,70.1,0.0,70.1,313
+8482,City Fresh Store,2025-03-07,13:52,Member,Digital Wallet,Bakery,Bread,4.0,4.21,16.84,4.08,12.76,470
+6086,SuperSave Central,2025-02-13,08:02,Normal,Credit Card,Beverages,Pasta,1.0,5.06,5.06,3.23,1.83,234
+8964,ValuePlus Market,2025-01-06,10:16,Member,Cash,Beverages,Pasta,3.0,10.96,32.88,0.0,32.88,123
+3665,ValuePlus Market,2025-02-11,20:48,Normal,Cash,Dairy,Cheese,1.0,14.35,14.35,0.0,14.35,287
+4513,City Fresh Store,2025-01-25,13:11,Normal,Cash,Beverages,Bread,5.0,11.08,55.4,0.0,55.4,364
+1495,City Fresh Store,2025-02-26,18:47,Member,Cash,Bakery,Cheese,1.0,7.51,7.51,0.32,7.19,26
+6822,City Fresh Store,2025-03-26,17:46,Normal,Credit Card,Beverages,Pasta,3.0,3.78,11.34,0.0,11.34,95
+3072,SuperSave Central,2025-02-24,15:44,Normal,Cash,Produce,Chicken,2.0,7.72,15.44,1.95,13.49,398
+8795,ValuePlus Market,2025-01-16,12:54,Member,Digital Wallet,Meat,Onions,3.0,9.69,29.07,0.0,29.07,326
+9529,Corner Grocery,2025-01-14,11:00,Member,Cash,Bakery,Pasta,1.0,5.97,5.97,0.0,5.97,354
+4949,SuperSave Central,2025-02-08,17:16,Member,Credit Card,Bakery,Chicken,5.0,8.39,41.95,0.0,41.95,399
+7033,GreenGrocer Plaza,2025-01-28,18:02,Member,Cash,Meat,Onions,4.0,3.26,13.04,0.0,13.04,190
+9328,City Fresh Store,2025-02-20,17:25,Member,Credit Card,Meat,Milk,4.0,7.6,30.4,3.34,27.06,346
+3555,ValuePlus Market,2025-02-18,17:14,Member,Credit Card,Bakery,Bread,5.0,2.73,13.65,4.78,8.87,360
+7370,SuperSave Central,2025-01-09,09:35,Normal,Digital Wallet,Meat,Chicken,1.0,2.16,2.16,0.0,2.16,154
+5415,GreenGrocer Plaza,2025-02-27,20:31,Normal,Cash,Dairy,Milk,5.0,13.07,65.35,0.0,65.35,324
+6959,SuperSave Central,2025-02-14,18:31,Member,Cash,Meat,Pasta,1.0,4.27,4.27,4.24,0.03,234
+6993,SuperSave Central,2025-01-22,13:03,Normal,Cash,Produce,Bread,3.0,9.26,27.78,3.16,24.62,432
+6021,Corner Grocery,2025-02-01,20:17,Normal,Digital Wallet,Produce,Chicken,2.0,3.51,7.02,0.83,6.19,63
+3907,Corner Grocery,2025-03-10,17:48,Member,Digital Wallet,Dairy,Pasta,1.0,5.04,5.04,0.0,5.04,391
+3914,SuperSave Central,2025-03-28,17:18,Member,Credit Card,Meat,Bread,4.0,6.38,25.52,3.67,21.85,441
+4870,GreenGrocer Plaza,2025-03-10,18:42,Normal,Credit Card,Produce,Bread,4.0,3.44,13.76,3.69,10.07,430
+6085,ValuePlus Market,2025-02-11,18:51,Normal,Credit Card,Beverages,Pasta,2.0,2.12,4.24,0.0,4.24,313
+7546,ValuePlus Market,2025-02-22,17:34,Member,Digital Wallet,Meat,Pasta,1.0,13.34,13.34,0.0,13.34,77
+1395,City Fresh Store,2025-02-28,11:39,Normal,Digital Wallet,Dairy,Chicken,2.0,1.66,3.32,0.0,3.32,116
+1938,City Fresh Store,2025-03-15,14:13,Normal,Digital Wallet,Meat,Bread,3.0,2.33,6.99,0.27,6.72,343
+3510,ValuePlus Market,2025-02-08,19:57,Member,Credit Card,Bakery,Chicken,2.0,12.37,24.74,0.0,24.74,86
+5636,SuperSave Central,2025-01-15,12:32,Normal,Digital Wallet,Bakery,Bread,3.0,5.31,15.93,0.0,15.93,36
+2649,SuperSave Central,2025-03-12,14:13,Normal,Credit Card,Produce,Chicken,4.0,11.26,45.04,0.0,45.04,353
+4690,Corner Grocery,2025-01-29,15:33,Normal,Credit Card,Bakery,Pasta,3.0,3.47,10.41,0.0,10.41,164
+4435,Corner Grocery,2025-01-03,15:54,Normal,Cash,Dairy,Pasta,1.0,4.7,4.7,0.0,4.7,81
+4201,City Fresh Store,2025-03-24,17:03,Member,Cash,Produce,Cheese,1.0,9.23,9.23,3.96,5.27,456
+5179,ValuePlus Market,2025-01-10,20:23,Normal,Cash,Dairy,Chicken,1.0,14.85,14.85,0.0,14.85,189
+9405,SuperSave Central,2025-01-29,12:58,Member,Credit Card,Dairy,Cheese,1.0,2.49,2.49,0.0,2.49,56
+4237,ValuePlus Market,2025-03-20,11:28,Member,Cash,Bakery,Cheese,5.0,6.91,34.55,0.0,34.55,251
+4862,GreenGrocer Plaza,2025-02-04,12:18,Member,Cash,Bakery,Milk,3.0,2.08,6.24,0.0,6.24,368
+1058,ValuePlus Market,2025-01-06,19:05,Member,Cash,Dairy,Bread,1.0,4.19,4.19,0.0,4.19,286
+5938,GreenGrocer Plaza,2025-01-12,17:56,Member,Digital Wallet,Bakery,Onions,2.0,13.75,27.5,0.0,27.5,380
+3971,Corner Grocery,2025-02-07,13:32,Member,Credit Card,Bakery,Milk,2.0,2.8,5.6,0.0,5.6,322
+9314,Corner Grocery,2025-03-18,18:48,Member,Cash,Bakery,Bread,5.0,13.07,65.35,2.14,63.21,114
+4345,City Fresh Store,2025-01-19,19:39,Normal,Digital Wallet,Meat,Onions,3.0,3.9,11.7,0.0,11.7,468
+3486,ValuePlus Market,2025-03-08,18:18,Member,Digital Wallet,Dairy,Cheese,3.0,13.13,39.39,1.49,37.9,104
+1561,ValuePlus Market,2025-01-08,19:52,Normal,Digital Wallet,Beverages,Onions,3.0,8.76,26.28,0.0,26.28,228
+4981,GreenGrocer Plaza,2025-01-08,12:00,Member,Cash,Dairy,Pasta,5.0,13.36,66.8,0.0,66.8,179
+7261,Corner Grocery,2025-03-25,18:04,Member,Digital Wallet,Produce,Pasta,3.0,3.55,10.65,1.56,9.09,375
+2737,GreenGrocer Plaza,2025-02-16,16:26,Member,Credit Card,Bakery,Chicken,3.0,11.79,35.37,0.0,35.37,441
+4554,Corner Grocery,2025-01-04,18:15,Member,Digital Wallet,Bakery,Bread,1.0,10.69,10.69,2.41,8.28,292
+8095,GreenGrocer Plaza,2025-02-20,18:05,Normal,Digital Wallet,Beverages,Milk,3.0,8.83,26.49,0.0,26.49,137
+9266,Corner Grocery,2025-03-26,18:39,Member,Digital Wallet,Produce,Cheese,1.0,12.44,12.44,0.0,12.44,209
+1294,GreenGrocer Plaza,2025-03-08,17:12,Normal,Digital Wallet,Meat,Bread,1.0,10.25,10.25,0.0,10.25,426
+9212,Corner Grocery,2025-02-14,11:47,Normal,Credit Card,Dairy,Cheese,3.0,13.34,40.02,4.99,35.03,341
+6330,GreenGrocer Plaza,2025-01-08,17:34,Member,Cash,Meat,Pasta,2.0,6.64,13.28,1.46,11.82,44
+5655,ValuePlus Market,2025-03-28,21:18,Normal,Credit Card,Produce,Milk,4.0,9.46,37.84,0.0,37.84,363
+2109,City Fresh Store,2025-01-16,19:11,Member,Credit Card,Beverages,Milk,2.0,13.25,26.5,0.0,26.5,153
+4771,GreenGrocer Plaza,2025-03-18,09:15,Normal,Cash,Produce,Pasta,3.0,4.4,13.2,0.0,13.2,301
+9563,City Fresh Store,2025-03-08,11:58,Normal,Digital Wallet,Beverages,Onions,3.0,8.06,24.18,2.24,21.94,75
+7123,ValuePlus Market,2025-01-09,11:42,Member,Cash,Meat,Milk,2.0,14.47,28.94,0.0,28.94,469
+8647,ValuePlus Market,2025-03-01,18:09,Member,Cash,Meat,Onions,3.0,7.89,23.67,0.0,23.67,228
+2174,Corner Grocery,2025-03-19,18:24,Member,Credit Card,Produce,Cheese,1.0,4.91,4.91,0.0,4.91,65
+2164,City Fresh Store,2025-03-18,12:19,Member,Cash,Produce,Milk,5.0,6.24,31.2,3.85,27.35,154
+9712,SuperSave Central,2025-03-12,16:30,Normal,Digital Wallet,Bakery,Chicken,3.0,13.45,40.35,0.0,40.35,413
+5466,Corner Grocery,2025-01-15,18:03,Member,Credit Card,Beverages,Pasta,3.0,14.39,43.17,1.35,41.82,222
+6538,City Fresh Store,2025-03-12,18:43,Member,Digital Wallet,Bakery,Onions,2.0,14.33,28.66,4.69,23.97,103
+8111,GreenGrocer Plaza,2025-02-10,17:22,Normal,Credit Card,Dairy,Chicken,1.0,10.94,10.94,0.0,10.94,115
+9434,GreenGrocer Plaza,2025-01-22,17:01,Normal,Digital Wallet,Dairy,Cheese,2.0,8.38,16.76,0.0,16.76,93
+3800,ValuePlus Market,2025-01-24,16:55,Member,Cash,Produce,Cheese,2.0,3.97,7.94,1.91,6.03,145
+5607,SuperSave Central,2025-02-13,13:21,Normal,Cash,Meat,Milk,3.0,3.16,9.48,0.0,9.48,155
+8262,GreenGrocer Plaza,2025-01-01,17:50,Normal,Cash,Dairy,Milk,1.0,2.31,2.31,0.0,2.31,258
+2541,City Fresh Store,2025-01-10,18:56,Normal,Digital Wallet,Dairy,Chicken,3.0,1.74,5.22,1.61,3.61,27
+3765,City Fresh Store,2025-03-21,19:36,Normal,Credit Card,Bakery,Bread,3.0,13.35,40.05,0.08,39.97,411
+5491,GreenGrocer Plaza,2025-03-13,17:07,Normal,Credit Card,Bakery,Bread,3.0,12.42,37.26,3.65,33.61,134
+4083,City Fresh Store,2025-02-25,18:06,Member,Credit Card,Dairy,Milk,3.0,9.17,27.51,3.55,23.96,11
+6356,City Fresh Store,2025-03-30,11:13,Normal,Cash,Produce,Bread,5.0,14.98,74.9,0.0,74.9,341
+2857,ValuePlus Market,2025-02-19,16:55,Normal,Digital Wallet,Bakery,Pasta,4.0,14.37,57.48,0.0,57.48,489
+1769,SuperSave Central,2025-01-12,08:54,Normal,Credit Card,Dairy,Chicken,1.0,10.34,10.34,0.0,10.34,499
+2422,ValuePlus Market,2025-03-30,12:02,Member,Digital Wallet,Meat,Pasta,5.0,7.77,38.85,0.0,38.85,209
+9598,SuperSave Central,2025-03-22,18:49,Member,Credit Card,Bakery,Bread,4.0,3.55,14.2,0.0,14.2,444
+3972,City Fresh Store,2025-03-01,21:15,Normal,Cash,Dairy,Milk,4.0,8.46,33.84,0.0,33.84,147
+2872,SuperSave Central,2025-01-26,10:54,Member,Digital Wallet,Beverages,Pasta,4.0,3.63,14.52,4.23,10.29,212
+6599,City Fresh Store,2025-03-19,15:18,Member,Credit Card,Bakery,Cheese,5.0,6.88,34.4,4.08,30.32,407
+3269,City Fresh Store,2025-02-10,18:50,Member,Credit Card,Beverages,Milk,1.0,14.23,14.23,0.1,14.13,291
+6275,ValuePlus Market,2025-02-05,12:17,Normal,Credit Card,Bakery,Chicken,2.0,6.12,12.24,0.0,12.24,312
+5749,ValuePlus Market,2025-01-23,17:51,Member,Credit Card,Bakery,Onions,4.0,3.56,14.24,4.53,9.71,39
+7571,Corner Grocery,2025-02-12,18:15,Member,Cash,Beverages,Onions,2.0,9.36,18.72,0.0,18.72,65
+6072,,2025-01-06,17:07,Normal,Credit Card,Produce,Milk,2.0,9.63,19.26,0.0,19.26,128
+6463,Corner Grocery,2025-03-10,12:59,Member,Credit Card,Dairy,Bread,3.0,4.12,12.36,1.66,10.7,435
+8450,Corner Grocery,2025-02-12,14:32,Normal,Cash,Produce,Pasta,2.0,4.15,8.3,0.0,8.3,141
+9420,SuperSave Central,2025-01-25,18:48,Normal,Credit Card,Produce,Pasta,3.0,14.86,44.58,0.21,44.37,240
+4959,City Fresh Store,2025-01-18,17:11,Normal,Digital Wallet,Dairy,Milk,1.0,4.78,4.78,0.0,4.78,404
+2313,City Fresh Store,2025-03-03,08:52,Normal,Digital Wallet,Meat,Cheese,1.0,12.82,12.82,0.0,12.82,161
+8847,City Fresh Store,2025-01-13,18:10,Normal,Credit Card,Produce,Chicken,3.0,7.85,23.55,0.0,23.55,479
+2070,GreenGrocer Plaza,2025-02-12,09:04,Member,Cash,Produce,Bread,1.0,7.37,7.37,1.76,5.61,460
+4285,SuperSave Central,2025-03-19,18:26,Member,Cash,Produce,Cheese,4.0,5.48,21.92,0.0,21.92,430
+9949,SuperSave Central,2025-01-28,12:11,Normal,Cash,Meat,Milk,1.0,11.95,11.95,1.9,10.05,395
+4095,City Fresh Store,2025-01-18,20:16,Member,Credit Card,Bakery,Milk,3.0,13.39,40.17,0.6,39.57,405
+1320,Corner Grocery,2025-02-28,14:05,Normal,Credit Card,Beverages,Cheese,4.0,5.03,20.12,4.95,15.17,30
+3321,GreenGrocer Plaza,2025-03-01,13:32,Normal,Digital Wallet,Beverages,Onions,2.0,2.78,5.56,0.0,5.56,462
+1555,Corner Grocery,2025-03-04,11:04,Member,Cash,Meat,Milk,2.0,3.35,6.7,0.0,6.7,464
+5939,ValuePlus Market,2025-02-26,13:56,Normal,Credit Card,Produce,Chicken,2.0,12.2,24.4,2.38,22.02,457
+6432,SuperSave Central,2025-02-20,19:27,Member,Credit Card,Beverages,Bread,3.0,7.38,22.14,3.25,18.89,77
+2386,SuperSave Central,2025-02-25,21:13,Normal,Credit Card,Meat,Cheese,2.0,3.28,6.56,1.63,4.93,135
+5763,Corner Grocery,2025-01-27,14:04,Member,Cash,Dairy,Onions,1.0,6.09,6.09,0.0,6.09,52
+7854,GreenGrocer Plaza,2025-02-01,16:53,Normal,Cash,Beverages,Cheese,2.0,8.44,16.88,0.0,16.88,191
+8637,SuperSave Central,2025-01-09,18:55,Normal,Digital Wallet,Dairy,Onions,5.0,13.0,65.0,0.0,65.0,498
+5841,Corner Grocery,2025-03-25,19:58,Normal,Cash,Produce,Onions,5.0,10.16,50.8,0.91,49.89,109
+4867,GreenGrocer Plaza,2025-03-09,17:32,Normal,Credit Card,Beverages,Chicken,2.0,3.88,7.76,0.0,7.76,388
+4793,Corner Grocery,2025-02-15,15:49,Normal,Digital Wallet,Meat,Bread,2.0,3.64,7.28,0.04,7.24,455
+8373,GreenGrocer Plaza,2025-03-08,15:47,Member,Cash,Bakery,Milk,5.0,7.07,35.35,0.61,34.74,479
+3513,City Fresh Store,2025-01-26,18:40,Normal,Cash,Beverages,Onions,2.0,2.52,5.04,0.0,5.04,358
+4803,GreenGrocer Plaza,2025-01-08,08:18,Normal,Cash,Beverages,Milk,4.0,11.7,46.8,0.0,46.8,466
+3327,ValuePlus Market,2025-01-06,17:21,Normal,Cash,Beverages,Bread,5.0,6.92,34.6,4.53,30.07,483
+9809,City Fresh Store,2025-03-21,14:04,Normal,Credit Card,Beverages,Milk,3.0,6.13,18.39,0.0,18.39,405
+3165,Corner Grocery,2025-01-24,18:58,Member,Cash,Meat,Chicken,5.0,8.37,41.85,0.0,41.85,249
+4308,City Fresh Store,2025-02-17,10:01,Member,Credit Card,Meat,Chicken,1.0,11.07,11.07,0.0,11.07,394
+7452,City Fresh Store,2025-02-14,17:29,Member,Credit Card,Bakery,Pasta,4.0,9.19,36.76,0.0,36.76,209
+9067,Corner Grocery,2025-01-13,16:46,Normal,Credit Card,Meat,Chicken,3.0,12.33,36.99,0.1,36.89,426
+8642,Corner Grocery,2025-03-10,17:38,Member,Digital Wallet,Meat,Onions,2.0,10.0,20.0,0.0,20.0,457
+7404,ValuePlus Market,2025-01-25,09:03,Normal,Credit Card,Produce,Bread,1.0,12.14,12.14,0.0,12.14,125
+1992,Corner Grocery,2025-01-20,17:32,Member,Cash,Produce,Chicken,1.0,10.91,10.91,0.52,10.39,124
+6424,SuperSave Central,2025-03-23,17:12,Member,Digital Wallet,Dairy,Cheese,4.0,4.11,16.44,0.0,16.44,461
+5381,SuperSave Central,2025-03-23,17:19,Member,Cash,Bakery,Bread,3.0,2.21,6.63,0.0,6.63,151
+4174,ValuePlus Market,2025-03-07,17:53,Member,Credit Card,Produce,Onions,1.0,13.7,13.7,0.85,12.85,128
+5782,GreenGrocer Plaza,2025-03-15,17:06,Normal,Cash,Bakery,Bread,3.0,14.27,42.81,2.95,39.86,102
+6560,GreenGrocer Plaza,2025-02-14,18:14,Member,Digital Wallet,Bakery,Chicken,3.0,11.31,33.93,0.0,33.93,407
+8460,SuperSave Central,2025-02-16,13:22,Member,Digital Wallet,Beverages,Cheese,1.0,11.28,11.28,0.0,11.28,18
+4078,Corner Grocery,2025-03-04,18:13,Member,Cash,Bakery,Pasta,3.0,5.15,15.45,2.45,13.0,82
+3983,ValuePlus Market,2025-03-17,16:22,Normal,Cash,Beverages,Onions,4.0,8.82,35.28,0.55,34.73,35
+8259,GreenGrocer Plaza,2025-03-18,10:18,Normal,CASH,Dairy,Onions,1.0,14.9,14.9,0.0,14.9,442
+7054,GreenGrocer Plaza,2025-02-24,09:53,Member,Digital Wallet,Dairy,Bread,4.0,13.06,52.24,0.0,52.24,248
+3523,City Fresh Store,2025-03-16,14:28,Normal,Credit Card,Dairy,Milk,4.0,5.61,22.44,0.0,22.44,371
+5581,SuperSave Central,2025-01-19,18:55,Member,Cash,Beverages,Milk,3.0,5.56,16.68,1.87,14.81,154
+6609,Corner Grocery,2025-02-04,18:19,Member,Credit Card,Beverages,Cheese,3.0,8.03,24.09,0.0,24.09,498
+3001,ValuePlus Market,2025-02-22,18:28,Normal,Digital Wallet,Dairy,Pasta,1.0,6.96,6.96,3.54,3.42,77
+2387,,2025-01-26,16:23,Member,Cash,Beverages,Pasta,2.0,6.51,13.02,0.0,13.02,197
+7552,City Fresh Store,2025-01-14,16:17,Normal,Cash,Meat,Bread,1.0,9.96,9.96,0.63,9.33,375
+2030,SuperSave Central,2025-02-14,11:09,Member,Digital Wallet,Meat,Bread,4.0,1.66,6.64,2.47,4.17,140
+2220,SuperSave Central,2025-02-13,13:40,Normal,Cash,Beverages,Milk,3.0,11.81,35.43,0.0,35.43,230
+7035,ValuePlus Market,2025-03-29,15:56,Member,Credit Card,Beverages,Chicken,4.0,11.49,45.96,0.0,45.96,290
+7523,GreenGrocer Plaza,2025-03-06,10:07,Normal,DIGITAL WALLET,Produce,Pasta,5.0,12.71,63.55,0.0,63.55,286
+9074,,2025-02-20,12:25,Normal,Digital Wallet,Produce,Chicken,5.0,12.86,64.3,0.0,64.3,149
+1834,ValuePlus Market,2025-02-12,17:28,Member,Cash,Bakery,Pasta,4.0,9.15,36.6,0.0,36.6,63
+2724,City Fresh Store,2025-03-27,18:09,Normal,Digital Wallet,Bakery,Chicken,2.0,12.03,24.06,0.0,24.06,10
+7598,SuperSave Central,2025-01-23,21:16,Member,Cash,Bakery,Chicken,2.0,8.15,16.3,1.86,14.44,137
+3413,Corner Grocery,2025-02-25,19:01,Normal,Cash,Dairy,Pasta,1.0,14.35,14.35,1.46,12.89,10
+6993,SuperSave Central,2025-01-19,17:05,Member,Digital Wallet,Meat,Cheese,1.0,4.07,4.07,4.33,-0.26,182
+5498,SuperSave Central,2025-03-23,15:57,Member,Cash,Dairy,Cheese,1.0,13.86,13.86,0.0,13.86,439
+3105,City Fresh Store,2025-03-17,17:04,Normal,Credit Card,Beverages,Bread,3.0,4.99,14.97,0.0,14.97,441
+3568,Corner Grocery,2025-02-24,18:27,Member,Credit Card,Produce,Chicken,2.0,2.89,5.78,0.0,5.78,400
+1209,GreenGrocer Plaza,2025-03-01,10:40,Normal,Cash,Beverages,Chicken,4.0,7.43,29.72,0.0,29.72,275
+5911,Corner Grocery,2025-02-28,15:04,Member,Credit Card,Beverages,Chicken,5.0,9.8,49.0,0.0,49.0,408
+3220,GreenGrocer Plaza,2025-02-02,18:17,Member,Cash,Produce,Chicken,2.0,4.62,9.24,0.0,9.24,305
+1233,Corner Grocery,2025-01-19,15:25,Normal,Credit Card,Beverages,Chicken,2.0,9.0,18.0,0.58,17.42,265
+1792,ValuePlus Market,2025-01-28,17:19,Normal,Digital Wallet,Bakery,Milk,2.0,12.41,24.82,0.0,24.82,404
+4110,Corner Grocery,2025-02-21,17:40,Member,Cash,Produce,Onions,1.0,4.97,4.97,0.0,4.97,449
+3166,City Fresh Store,2025-02-18,12:48,Member,Cash,Beverages,Chicken,3.0,9.33,27.99,0.0,27.99,183
+9526,GreenGrocer Plaza,2025-02-06,14:26,Member,Cash,Bakery,Milk,4.0,6.08,24.32,4.59,19.73,54
+6193,SuperSave Central,2025-01-26,14:48,Member,Cash,Bakery,Cheese,1.0,8.65,8.65,0.0,8.65,352
+2214,City Fresh Store,2025-02-09,08:11,Member,Cash,Meat,Chicken,3.0,10.5,31.5,0.0,31.5,150
+5419,GreenGrocer Plaza,2025-03-21,08:06,Member,Cash,Bakery,Cheese,2.0,6.23,12.46,0.0,12.46,36
+8314,GreenGrocer Plaza,2025-02-07,18:58,Normal,Digital Wallet,Dairy,Bread,3.0,14.93,44.79,0.0,44.79,242
+9475,SuperSave Central,2025-03-18,13:02,Normal,Digital Wallet,Produce,Onions,1.0,9.11,9.11,0.18,8.93,218
+1212,ValuePlus Market,2025-03-28,16:09,Member,CREDIT CARD,Produce,Pasta,2.0,12.63,25.26,0.0,25.26,59
+2658,City Fresh Store,2025-02-23,13:33,Member,Cash,Produce,Onions,1.0,11.29,11.29,0.0,11.29,70
+6024,SuperSave Central,2025-01-22,20:24,Member,Credit Card,Beverages,Chicken,4.0,13.01,52.04,0.0,52.04,252
+6917,SuperSave Central,2025-01-16,12:34,Normal,Credit Card,Beverages,Chicken,2.0,3.85,7.7,3.44,4.26,278
+6141,ValuePlus Market,2025-01-28,15:15,Normal,Digital Wallet,Dairy,Onions,3.0,4.5,13.5,0.0,13.5,149
+2794,City Fresh Store,2025-02-04,19:01,Normal,Credit Card,Bakery,Onions,1.0,8.08,8.08,0.0,8.08,166
+6988,SuperSave Central,2025-03-01,18:59,Normal,Digital Wallet,Beverages,Bread,5.0,13.01,65.05,0.0,65.05,94
+9296,ValuePlus Market,2025-02-14,12:23,Normal,Credit Card,Bakery,Cheese,3.0,4.17,12.51,0.0,12.51,93
+6578,City Fresh Store,2025-02-15,18:09,Member,Cash,Bakery,Pasta,3.0,14.61,43.83,0.0,43.83,285
+6551,Corner Grocery,2025-03-13,16:37,Member,Credit Card,Beverages,Onions,2.0,3.22,6.44,0.0,6.44,40
+4845,GreenGrocer Plaza,2025-02-24,16:21,Normal,Digital Wallet,Beverages,Pasta,3.0,3.86,11.58,0.0,11.58,17
+7906,ValuePlus Market,2025-03-27,11:25,Member,Digital Wallet,Dairy,Onions,1.0,3.76,3.76,0.0,3.76,289
+1378,GreenGrocer Plaza,2025-03-26,10:42,Normal,Digital Wallet,Meat,Cheese,5.0,9.41,47.05,3.13,43.92,212
+4293,Corner Grocery,2025-01-26,18:54,Normal,Credit Card,Produce,Pasta,4.0,13.89,55.56,0.0,55.56,432
+4329,SuperSave Central,2025-03-26,16:38,Normal,Credit Card,Beverages,Milk,5.0,4.94,24.7,0.0,24.7,42
+5808,SuperSave Central,2025-01-25,15:26,Member,Digital Wallet,Beverages,Cheese,1.0,8.97,8.97,0.0,8.97,307
+8937,City Fresh Store,2025-03-06,18:28,Normal,Cash,Bakery,Pasta,2.0,3.87,7.74,0.0,7.74,152
+1224,ValuePlus Market,2025-01-06,18:46,Normal,Cash,Meat,Onions,1.0,10.02,10.02,0.0,10.02,461
+1737,ValuePlus Market,2025-01-23,11:37,Normal,Credit Card,Beverages,Onions,3.0,3.16,9.48,0.0,9.48,458
+1235,City Fresh Store,2025-03-05,17:19,Normal,Credit Card,Meat,Cheese,2.0,8.13,16.26,0.0,16.26,425
+1711,GreenGrocer Plaza,2025-03-28,11:26,Normal,Digital Wallet,Produce,Cheese,4.0,10.34,41.36,0.0,41.36,404
+6988,SuperSave Central,2025-02-12,18:40,Member,Credit Card,Bakery,Onions,4.0,9.32,37.28,0.0,37.28,359
+2888,SuperSave Central,2025-01-23,17:53,Member,Credit Card,Dairy,Pasta,1.0,3.39,3.39,1.14,2.25,46
+8173,ValuePlus Market,2025-01-30,20:19,Member,Digital Wallet,Produce,Milk,3.0,3.68,11.04,0.0,11.04,156
+2259,ValuePlus Market,2025-03-18,09:43,Member,Digital Wallet,Meat,Bread,4.0,10.56,42.24,0.0,42.24,444
+6246,City Fresh Store,2025-01-18,09:18,Normal,Credit Card,Meat,Cheese,5.0,12.42,62.1,0.0,62.1,237
+8271,Corner Grocery,2025-03-28,13:19,Normal,Cash,Produce,Onions,2.0,13.76,27.52,0.0,27.52,43
