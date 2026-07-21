@@ -27,7 +27,7 @@ df['day_of_week'] = df['transaction_date'].dt.day_name()
 df['hour_block'] = pd.to_datetime(df['transaction_time'], format='%H:%M').dt.hour
 
 # Saving the dataset
-output_filename = "clean_supermarket_sales_2025.csv"
+output_filename = "retail-labour-opt/data/processed/clean_supermarket_sales_2025.csv"
 df.to_csv(output_filename, index=False)
 
 print('\n', f"💾 PIPELINE SUCCESS: Clean data saved to '{output_filename}'")
