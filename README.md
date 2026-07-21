@@ -41,8 +41,6 @@ The framework consists of five modular execution stages:
 ```
 ---
 
-Synthetic Engine (src/bonus_generate_data.py): Generates 2,000 transaction records with embedded real-world defects (text-casing variants, missing branch attributes, and uncapped discounts).
-
 Exploratory Audit (src/01_eda_audit.py): Scans for null values, audits min/max financial profiles, and isolates negative revenue transactions.
 
 ETL Pipeline (src/02_data_pipeline.py): Standardizes text formatting, imputes missing store IDs, clips discount calculations, and engineers temporal features (hour_block, day_of_week).
@@ -50,6 +48,8 @@ ETL Pipeline (src/02_data_pipeline.py): Standardizes text formatting, imputes mi
 Aggregation Engine (src/03_aggregate_matrices.py): Builds pivot matrices tracking hourly traffic velocity, peak-hour customer demographics, and payment channel distribution.
 
 Dashboard Renderer (src/04_visualize_dashboard.py): Compiles an executive-ready grid layout combining three core business visualizations into a single high-resolution asset.
+
+Synthetic Engine (src/bonus_generate_data.py): Generates 2,000 transaction records with embedded real-world defects (text-casing variants, missing branch attributes, and uncapped discounts).
 
 ---
 
