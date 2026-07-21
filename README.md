@@ -37,3 +37,40 @@ The framework consists of five modular execution stages:
 [ Raw POS Logs ] ──> [ EDA & Diagnostics ] ──> [ Cleaning & Validation Pipeline ]
                                                             │
 [ Multi-Chart Visual Dashboard ] <── [ Matrix Aggregations ] ↵
+
+```
+---
+
+Synthetic Engine (src/bonus_generate_data.py): Generates 2,000 transaction records with embedded real-world defects (text-casing variants, missing branch attributes, and uncapped discounts).
+
+Exploratory Audit (src/01_eda_audit.py): Scans for null values, audits min/max financial profiles, and isolates negative revenue transactions.
+
+ETL Pipeline (src/02_data_pipeline.py): Standardizes text formatting, imputes missing store IDs, clips discount calculations, and engineers temporal features (hour_block, day_of_week).
+
+Aggregation Engine (src/03_aggregate_matrices.py): Builds pivot matrices tracking hourly traffic velocity, peak-hour customer demographics, and payment channel distribution.
+
+Dashboard Renderer (src/04_visualize_dashboard.py): Compiles an executive-ready grid layout combining three core business visualizations into a single high-resolution asset.
+
+---
+
+💡 Key Analytical Insights
+The Bimodal Rush: Transaction traffic follows a minor bump at 12:00 PM before exploding into a primary surge between 17:00 and 18:00 (5 PM - 7 PM), averaging 50+ transactions per hour.
+
+Customer Profile Bottlenecks: Casual ("Normal") shoppers heavily outnumber loyalty members during peak evening surges. Because non-members require longer processing times, lane speed drops during peak volume blocks.
+
+Financial Protection: The diagnostic audit caught active coupon discount leaks where transactions yielded negative revenue (final_amount < 0), safeguarding profit margins.
+
+---
+
+⚡ Quickstart & Execution
+
+1. Clone the repository
+   
+2. Set up the virtual environment & install dependencies
+   
+3. Run the full analytics suite
+
+      python src/01_eda_audit.py
+      python src/02_data_pipeline.py
+      python src/03_aggregate_matrices.py
+      python src/04_visualize_dashboard.py
