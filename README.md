@@ -53,6 +53,42 @@ Dashboard Renderer (src/04_visualize_dashboard.py): Compiles an executive-ready 
 
 ---
 
+# Repository Directory Structure
+```text
+retail-labor-optimization/
+│
+├── data/
+│   ├── raw/
+│   │   └── dirty_supermarket_sales_2025.csv    # (Ignored or tracked)
+│   └── processed/
+│       ├── clean_supermarket_sales_2025.csv
+│       ├── matrix_hourly_traffic.csv
+│       ├── matrix_hourly_revenue.csv
+│       └── matrix_peak_customers.csv
+│
+├── outputs/
+│   ├── figures/
+│   │   ├── retail_store_final_dashboard.png
+│   │   ├── fiverr_portfolio_heatmap.png
+│   │   └── fiverr_portfolio_payment_bottlenecks.png
+│   └── reports/
+│       └── summary_report.md
+│
+├── src/
+│   ├── __init__.py
+│   ├── 01_generate_data.py
+│   ├── 02_eda_audit.py
+│   ├── 03_data_pipeline.py
+│   ├── 04_aggregate_matrices.py
+│   └── 05_visualize_dashboard.py
+│
+├── .gitignore
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
+-----
+
 💡 Key Analytical Insights
 The Bimodal Rush: Transaction traffic follows a minor bump at 12:00 PM before exploding into a primary surge between 17:00 and 18:00 (5 PM - 7 PM), averaging 50+ transactions per hour.
 
@@ -74,3 +110,5 @@ Financial Protection: The diagnostic audit caught active coupon discount leaks w
       python src/02_data_pipeline.py
       python src/03_aggregate_matrices.py
       python src/04_visualize_dashboard.py
+
+
