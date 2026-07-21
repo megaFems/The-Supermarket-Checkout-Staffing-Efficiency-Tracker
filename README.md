@@ -1,5 +1,5 @@
 # The-Supermarket-Checkout-Staffing-Efficiency-Tracker
-End-to-end Python pipeline and executive dashboard optimizing store cashier schedules, identifying register bottlenecks, and preventing POS discount leakage.
+An end-to-end Python pipeline and executive dashboard optimizing store cashier schedules, identifying register bottlenecks, and preventing POS discount leakage.
 
 # 🛒 Retail Labor & Revenue Optimization Analytics System
 
@@ -8,7 +8,7 @@ End-to-end Python pipeline and executive dashboard optimizing store cashier sche
 [![Seaborn](https://img.shields.io/badge/visualization-seaborn%20%7C%20matplotlib-green.svg)](https://seaborn.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An end-to-end data engineering and operations analytics pipeline designed to optimize store staffing, identify transaction bottlenecks, and eliminate Point-of-Sale (POS) discount leakage across high-volume retail locations.
+End-to-end data engineering and operations analytics pipeline designed to optimize store staffing, identify transaction bottlenecks, and eliminate Point-of-Sale (POS) discount leakage across high-volume retail locations.
 
 ---
 
